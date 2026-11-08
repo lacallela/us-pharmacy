@@ -7,6 +7,7 @@ import {
   getPharmacyOffersForDrug,
   getSiteSettings
 } from '@/lib/queries';
+import { getSiteUrl } from '@/lib/seo';
 import { 
   ShieldCheck, 
   ExternalLink, 
@@ -58,10 +59,13 @@ export default async function DrugDetailPage({ params }: Props) {
     ((drug.brand_price - drug.generic_cash_price) / drug.brand_price) * 100
   );
 
-  // Schema.org Structured Data for US SEO (USD)
-  const jsonLd = {
+  const baseUrl = getSiteUrl();
+
+  // Schema.org Structured Data for US Google Rich Snippets & AI (USD)
+  const drugSchema = {
     '@context': 'https://schema.org',
     '@type': 'Drug',
+    '@id': `${baseUrl}/drugs/${drug.slug}#drug`,
     name: drug.name,
     nonProprietaryName: drug.generic_name,
     dosageForm: drug.form,
@@ -78,17 +82,105 @@ export default async function DrugDetailPage({ params }: Props) {
       priceCurrency: 'USD',
       lowPrice: drug.generic_cash_price,
       highPrice: drug.brand_price,
-      offerCount: offers.length
+      offerCount: offers.length,
+      offers: offers.map(o => ({
+        '@type': 'Offer',
+        price: o.coupon_price,
+        priceCurrency: 'USD',
+        availability: 'https://schema.org/InStock',
+        seller: {
+          '@type': 'Pharmacy',
+          name: o.pharmacy_name
+        }
+      }))
     }
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: baseUrl
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Prescription Directory',
+        item: `${baseUrl}/drugs`
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: drug.category,
+        item: `${baseUrl}/drugs?cat=${encodeURIComponent(drug.category)}`
+      },
+      {
+        '@type': 'ListItem',
+        position: 4,
+        name: drug.name,
+        item: `${baseUrl}/drugs/${drug.slug}`
+      }
+    ]
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `What is ${drug.name} (${drug.generic_name}) prescribed for?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `${drug.name} is an FDA-approved ${drug.drug_type} medication. Approved indications: ${drug.fda_indications}. ${drug.description}`
+        }
+      },
+      {
+        '@type': 'Question',
+        name: `How much can I save on ${drug.name} with an RxMatch coupon?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `The average brand-name cash price for ${drug.name} is $${drug.brand_price.toFixed(2)}. With an RxMatch digital discount coupon, generic cash prices start at $${drug.generic_cash_price.toFixed(2)}, saving up to ${savingsPct}% without insurance.`
+        }
+      },
+      {
+        '@type': 'Question',
+        name: `How do I redeem an Rx discount card for ${drug.name}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `Simply show the digital coupon card credentials (BIN: ${couponBin}, PCN: ${couponPcn}, Group: ${couponGroup}) to your pharmacist at CVS, Walgreens, Walmart, or any participating pharmacy nationwide upon prescription pickup.`
+        }
+      },
+      {
+        '@type': 'Question',
+        name: `What are the dosage instructions and precautions for ${drug.name}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `Directions: ${drug.how_to_use}. Contraindications: ${drug.contraindications}. Possible side effects: ${drug.side_effects || 'Please consult your healthcare provider or pharmacist for medical advice'}.`
+        }
+      }
+    ]
   };
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-10">
       
-      {/* Inject SEO JSON-LD */}
+      {/* Inject SEO Structured Data */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(drugSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       {/* Breadcrumbs */}

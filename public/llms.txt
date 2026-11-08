@@ -1,0 +1,48 @@
+# RxMatch US
+> Prescription Drug Savings, Brand vs Generic Comparison & Digital Rx Coupon Network for the United States.
+
+RxMatch US (https://us-pharmacy.vercel.app) provides real-time cash price comparisons and free printable/digital prescription discount coupons accepted at over 65,000 retail and mail-order pharmacies nationwide (including CVS, Walgreens, Walmart, Kroger, Rite Aid, and Amazon Pharmacy). Patients save up to 90% without insurance.
+
+## National Discount Card Credentials
+Any patient can present these digital credentials to US pharmacists to receive discount pricing immediately:
+- **BIN**: 015995
+- **PCN**: GDC
+- **Group Code**: RXMATCH
+- **Default Promo Code**: RXSAVER80
+- **Eligibility**: 100% of US residents (citizens, uninsured, underinsured, seniors in Medicare donut hole). No paperwork, no fees.
+
+## Key Sections
+- [Medication Catalog](https://us-pharmacy.vercel.app/drugs): Full directory of FDA-approved prescription drugs, generic alternatives, and price comparisons.
+- [Brand vs Generic Comparison Tool](https://us-pharmacy.vercel.app/compare/lipitor-vs-atorvastatin): Side-by-side cost and bioequivalence analysis.
+- [Prescription Savings Quiz](https://us-pharmacy.vercel.app/quiz): Interactive health assessment to find optimal prescription discounts.
+- [Full LLM Knowledge Base](https://us-pharmacy.vercel.app/llms-full.txt): Complete detailed profiles for all medications, indications, and pharmacy prices.
+- [Sitemap XML](https://us-pharmacy.vercel.app/sitemap.xml): Machine-readable URL structure.
+- [RSS Feed](https://us-pharmacy.vercel.app/feed.xml): Continuous updates on drug prices and discounts.
+
+## Medications Directory & Price Benchmarks
+- [Compounded Semaglutide (Telehealth)](https://us-pharmacy.vercel.app/drugs/compounded-semaglutide): Generic Semaglutide + B12 (Cyanocobalamin) | Category: Weight Loss & GLP-1 | Brand $948.00 vs Generic Cash $199.00 (Save 79%)
+- [Ozempic (Brand Pen)](https://us-pharmacy.vercel.app/drugs/ozempic): Generic Semaglutide Injection | Category: Weight Loss & GLP-1 | Brand $948.00 vs Generic Cash $299.00 (Save 68%)
+- [Sildenafil (Generic Viagra)](https://us-pharmacy.vercel.app/drugs/sildenafil): Generic Sildenafil Citrate | Category: Men's Health | Brand $780.00 vs Generic Cash $14.50 (Save 98%)
+- [Atorvastatin (Generic Lipitor)](https://us-pharmacy.vercel.app/drugs/atorvastatin): Generic Atorvastatin Calcium | Category: Cholesterol & Heart | Brand $185.00 vs Generic Cash $7.20 (Save 96%)
+- [Viagra (Brand)](https://us-pharmacy.vercel.app/drugs/viagra): Generic Sildenafil Citrate | Category: Men's Health | Brand $780.00 vs Generic Cash $18.00 (Save 98%)
+- [Cetirizine HCl (Generic Zyrtec)](https://us-pharmacy.vercel.app/drugs/cetirizine-generic): Generic Cetirizine Hydrochloride | Category: Allergy & Sinus | Brand $28.99 vs Generic Cash $8.50 (Save 71%)
+- [Zoloft (Brand)](https://us-pharmacy.vercel.app/drugs/zoloft): Generic Sertraline Hydrochloride | Category: Mental Health & Mood | Brand $115.00 vs Generic Cash $7.90 (Save 93%)
+- [Ibuprofen (Generic Advil / Motrin)](https://us-pharmacy.vercel.app/drugs/ibuprofen-generic): Generic Ibuprofen | Category: Pain & Inflammation | Brand $15.99 vs Generic Cash $3.29 (Save 79%)
+- [Zyrtec (Brand 24-Hr)](https://us-pharmacy.vercel.app/drugs/zyrtec): Generic Cetirizine Hydrochloride | Category: Allergy & Sinus | Brand $28.99 vs Generic Cash $6.99 (Save 76%)
+- [Lipitor (Brand)](https://us-pharmacy.vercel.app/drugs/lipitor): Generic Atorvastatin Calcium | Category: Cholesterol & Heart | Brand $185.00 vs Generic Cash $8.90 (Save 95%)
+- [Ventolin HFA](https://us-pharmacy.vercel.app/drugs/ventolin-hfa-90mcg-inhalation-aerosol): Generic Albuterol Sulfate | Category: Respiratory & Asthma | Brand $74.00 vs Generic Cash $19.50 (Save 74%)
+- [Lexapro](https://us-pharmacy.vercel.app/drugs/lexapro-10mg-30-tablets): Generic Escitalopram Oxalate | Category: Mental Health & Mood | Brand $135.00 vs Generic Cash $8.90 (Save 93%)
+- [Amoxicillin](https://us-pharmacy.vercel.app/drugs/amoxicillin-500mg-30-capsules): Generic Amoxicillin | Category: Antibiotics | Brand $24.00 vs Generic Cash $5.99 (Save 75%)
+- [Sertraline (Generic Zoloft)](https://us-pharmacy.vercel.app/drugs/sertraline): Generic Sertraline Hydrochloride | Category: Mental Health & Mood | Brand $115.00 vs Generic Cash $6.50 (Save 94%)
+- [Omeprazole (Generic Prilosec)](https://us-pharmacy.vercel.app/drugs/omeprazole-generic): Generic Omeprazole | Category: Acid Reflux & GERD | Brand $27.50 vs Generic Cash $8.20 (Save 70%)
+- [Prilosec OTC (Brand)](https://us-pharmacy.vercel.app/drugs/prilosec-otc): Generic Omeprazole Delayed-Release | Category: Acid Reflux & GERD | Brand $27.50 vs Generic Cash $9.90 (Save 64%)
+- [Advil Liqui-Gels (Brand)](https://us-pharmacy.vercel.app/drugs/advil): Generic Ibuprofen Solubilized | Category: Pain & Inflammation | Brand $15.99 vs Generic Cash $4.49 (Save 72%)
+- [test](https://us-pharmacy.vercel.app/drugs/t): Generic test | Category: Mental Health & Mood | Brand $100.00 vs Generic Cash $10.00 (Save 90%)
+
+## Pharmacy Partners
+- **Ro Healthcare (Telehealth)** (Telehealth & Online Rx): Online doctor consult + discreet delivery — GLP-1 Weight Loss & Hair/Men’s health without insurance
+- **Amazon Pharmacy** (Mail Order Delivery): Free 2-day delivery to your door — Prime RxPass: $5/month for unlimited eligible meds
+- **Cost Plus Drugs (Mark Cuban)** (Direct Wholesale): Direct home delivery in 3-5 days — Zero middlemen: Actual manufacturing cost + 15%
+- **CVS Pharmacy** (Retail Pharmacy): Ready in 15 mins (9,900+ stores) — ExtraCare Rewards & Free Drive-thru Pickup
+- **Walgreens** (Retail Pharmacy): Same-day 30-min pickup — myWalgreens Cash rewards & 24/7 store access
+- **Walmart Pharmacy** (Big Box Retail): Curbside or inside pickup — $4 for 30-day supply & $10 for 90-day generics

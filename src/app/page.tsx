@@ -16,6 +16,7 @@ import {
   Truck
 } from 'lucide-react';
 import { getTrendingDrugs, getAllPharmacies, getSiteSettings } from '@/lib/queries';
+import { getSiteUrl } from '@/lib/seo';
 
 export const dynamic = 'force-dynamic';
 
@@ -390,6 +391,102 @@ export default async function HomePage() {
                 </div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 6. FAQ & MEDICAL INFORMATION (Google Rich Snippets & AI Context) */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: 'What is RxMatch US and how does it lower prescription costs?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'RxMatch US is an independent prescription price comparison engine and free discount coupon network. We aggregate real-time cash and coupon prices across CVS, Walgreens, Walmart, and Amazon Pharmacy, helping patients find savings of up to 90% through generic alternatives and pre-negotiated pharmacy network rates.'
+                  }
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Do I need health insurance to use RxMatch discounts?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'No insurance is required. In fact, RxMatch cash and coupon prices are often lower than typical commercial insurance co-pays or deductible payments. Anyone in the United States can use our free digital discount credentials (BIN: 015995, PCN: GDC, Group: RXMATCH).'
+                  }
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Which pharmacies accept RxMatch discount coupons?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'RxMatch coupons are accepted at over 65,000 pharmacies nationwide, including major chains such as CVS, Walgreens, Walmart, Kroger, Rite Aid, Costco, Sam\'s Club, and accredited digital mail-order providers like Amazon Pharmacy.'
+                  }
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Are generic medications as safe and effective as brand-name drugs?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Yes. FDA-approved generic drugs are chemically bioequivalent to their brand-name counterparts. They have the same active ingredients, strength, dosage form, and route of administration, while costing on average 80% to 95% less.'
+                  }
+                }
+              ]
+            })
+          }}
+        />
+
+        <div className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200 shadow-sm space-y-6">
+          <div className="text-center max-w-2xl mx-auto">
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-sm text-slate-500 mt-2">
+              Everything you need to know about prescription savings, generic substitutions, and pharmacy coupons.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-4">
+            <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200/80 space-y-2">
+              <h3 className="font-bold text-base text-slate-900">
+                What is RxMatch US and how does it save money?
+              </h3>
+              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+                We compare prescription cash prices at 65,000+ US pharmacies and provide free discount coupons. Patients frequently save up to 90% by switching from high-priced brands to FDA-approved generics.
+              </p>
+            </div>
+
+            <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200/80 space-y-2">
+              <h3 className="font-bold text-base text-slate-900">
+                Do I need health insurance to use RxMatch?
+              </h3>
+              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+                No insurance, membership, or paperwork is required. RxMatch coupons can be used by anyone, and cash prices with our card often beat high insurance deductibles and copays.
+              </p>
+            </div>
+
+            <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200/80 space-y-2">
+              <h3 className="font-bold text-base text-slate-900">
+                Which pharmacies accept these coupons?
+              </h3>
+              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+                Accepted at over 65,000 locations nationwide: CVS, Walgreens, Walmart, Kroger, Rite Aid, Safeway, plus online home delivery via Amazon Pharmacy.
+              </p>
+            </div>
+
+            <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200/80 space-y-2">
+              <h3 className="font-bold text-base text-slate-900">
+                Are generic medications as effective as brands?
+              </h3>
+              <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+                Yes. The FDA rigorously tests all generic drugs to ensure identical bioequivalence, purity, strength, and therapeutic effect as the original brand names.
+              </p>
+            </div>
           </div>
         </div>
       </section>
