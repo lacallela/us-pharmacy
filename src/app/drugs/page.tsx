@@ -2,6 +2,8 @@ import Link from 'next/link';
 import { getAllDrugs, getCategoriesWithCounts, searchDrugs } from '@/lib/queries';
 import { Search, ArrowRight, DollarSign, Tag, ShieldCheck } from 'lucide-react';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   searchParams: {
     q?: string;

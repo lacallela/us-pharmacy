@@ -12,7 +12,11 @@ class NeonClientAdapter implements DbClient {
   private sql: ReturnType<typeof neon>;
 
   constructor(url: string) {
-    this.sql = neon(url);
+    this.sql = neon(url, {
+      fetchOptions: {
+        cache: 'no-store'
+      }
+    });
   }
 
   async execute(stmt: string | { sql: string; args?: any[] }) {
