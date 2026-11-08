@@ -1,7 +1,56 @@
 import { createClient, Client } from '@libsql/client';
+import { neon } from '@neondatabase/serverless';
 import path from 'path';
 import fs from 'fs';
 import crypto from 'crypto';
+
+export interface DbClient {
+  execute(query: string | { sql: string; args?: any[] }): Promise<{ rows: any[]; lastInsertRowid?: number | bigint }>;
+}
+
+class NeonClientAdapter implements DbClient {
+  private sql: ReturnType<typeof neon>;
+
+  constructor(url: string) {
+    this.sql = neon(url);
+  }
+
+  async execute(stmt: string | { sql: string; args?: any[] }) {
+    const sqlStr = typeof stmt === 'string' ? stmt : stmt.sql;
+    const args = typeof stmt === 'string' ? [] : (stmt.args || []);
+
+    let paramIndex = 1;
+    let pgSql = sqlStr.replace(/\?/g, () => `$${paramIndex++}`);
+
+    const isInsert = /^\s*INSERT\s+INTO/i.test(pgSql);
+    const hasReturning = /RETURNING\b/i.test(pgSql);
+    if (isInsert && !hasReturning) {
+      pgSql += ' RETURNING id';
+    }
+
+    try {
+      const res = await this.sql.query(pgSql, args);
+      const rows = Array.isArray(res) ? res : (res && (res as any).rows ? (res as any).rows : []);
+      const lastInsertRowid = isInsert && rows && rows[0] && rows[0].id ? rows[0].id : undefined;
+      return {
+        rows,
+        lastInsertRowid
+      };
+    } catch (err: any) {
+      if (isInsert && err.message && err.message.includes('column "id" does not exist')) {
+        let i = 1;
+        const fallbackSql = sqlStr.replace(/\?/g, () => `$${i++}`);
+        const res = await this.sql.query(fallbackSql, args);
+        const rows = Array.isArray(res) ? res : (res && (res as any).rows ? (res as any).rows : []);
+        return {
+          rows,
+          lastInsertRowid: undefined
+        };
+      }
+      throw err;
+    }
+  }
+}
 
 function getDatabaseUrl(): string {
   if (process.env.TURSO_DATABASE_URL) {
@@ -37,23 +86,33 @@ function getDatabaseUrl(): string {
   return `file:${path.join(DB_DIR, 'us_rx.db').replace(/\\/g, '/')}`;
 }
 
-let _client: Client | null = null;
+let _client: DbClient | null = null;
 let _schemaInitialized = false;
 
-export function getDb(): Client {
+export function getDb(): DbClient {
   if (!_client) {
-    const url = getDatabaseUrl();
-    const authToken = process.env.TURSO_AUTH_TOKEN;
-    _client = createClient({ url, authToken });
+    if (process.env.DATABASE_URL || process.env.POSTGRES_URL) {
+      const url = process.env.DATABASE_URL || process.env.POSTGRES_URL!;
+      _client = new NeonClientAdapter(url);
+    } else {
+      const url = getDatabaseUrl();
+      const authToken = process.env.TURSO_AUTH_TOKEN;
+      _client = createClient({ url, authToken }) as unknown as DbClient;
+    }
   }
   return _client;
 }
 
-export async function ensureSchema(client: Client) {
+export async function ensureSchema(client: DbClient) {
   if (_schemaInitialized) return;
 
   try {
-    const tableCheck = await client.execute(`SELECT 1 FROM sqlite_master WHERE type='table' AND name='admin_users'`);
+    const isPostgres = !!(process.env.DATABASE_URL || process.env.POSTGRES_URL);
+    const checkSql = isPostgres
+      ? `SELECT 1 FROM information_schema.tables WHERE table_name = 'admin_users'`
+      : `SELECT 1 FROM sqlite_master WHERE type='table' AND name='admin_users'`;
+
+    const tableCheck = await client.execute(checkSql);
     if (tableCheck.rows.length > 0) {
       const adminCount = await client.execute(`SELECT COUNT(*) as count FROM admin_users`);
       if (Number(adminCount.rows[0].count) > 0) {

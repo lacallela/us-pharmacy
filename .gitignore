@@ -38,3 +38,4 @@ cloudflared.exe
 *.log
 
 .vercel
+.env*
