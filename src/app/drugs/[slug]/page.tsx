@@ -88,6 +88,7 @@ export default async function DrugDetailPage({ params }: Props) {
         price: o.coupon_price,
         priceCurrency: 'USD',
         availability: 'https://schema.org/InStock',
+        url: o.affiliate_url || `${baseUrl}/go/${o.pharmacy_slug}?drug=${drug.slug}`,
         seller: {
           '@type': 'Pharmacy',
           name: o.pharmacy_name
@@ -342,10 +343,15 @@ export default async function DrugDetailPage({ params }: Props) {
                         </span>
                       )}
                     </div>
-                    <div className="text-xs text-slate-500 flex items-center gap-2 mt-0.5">
+                    <div className="text-xs text-slate-500 flex flex-wrap items-center gap-2 mt-0.5">
                       <span>{offer.pickup_time}</span>
                       <span>•</span>
                       <span className="text-blue-600 font-semibold">{offer.perk_text}</span>
+                      {offer.pharmacy_slug === 'pharm-store' && (
+                        <span className="inline-flex items-center gap-1 text-[11px] font-bold text-amber-900 bg-amber-100 border border-amber-300 px-2 py-0.5 rounded-md">
+                          Code: <strong className="font-mono text-amber-950 font-black">pu-8992</strong> (5% OFF)
+                        </span>
+                      )}
                     </div>
                   </div>
                 </div>
@@ -360,13 +366,15 @@ export default async function DrugDetailPage({ params }: Props) {
                     </div>
                   </div>
 
-                  <Link
-                    href={`/go/${offer.pharmacy_slug}?drug=${drug.slug}&source=drug_card`}
+                  <a
+                    href={offer.affiliate_url || `/go/${offer.pharmacy_slug}?drug=${drug.slug}&source=drug_card`}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="inline-flex items-center gap-1.5 px-4 py-2.5 rounded-xl bg-slate-900 hover:bg-blue-600 text-white font-bold text-xs transition shadow-sm"
                   >
                     <span>Get Coupon</span>
                     <ExternalLink className="w-3.5 h-3.5" />
-                  </Link>
+                  </a>
                 </div>
               </div>
             ))}

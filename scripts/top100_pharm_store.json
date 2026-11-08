@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Viagra",
+    "slug": "viagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.27,
+    "path": "/categories/Bestsellers/Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra?id=924"
+  },
+  {
+    "name": "Cialis",
+    "slug": "cialis",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.68,
+    "path": "/categories/Bestsellers/Cialis",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis?id=924"
+  },
+  {
+    "name": "Clomid",
+    "slug": "clomid",
+    "category": "Woman's Health",
+    "pricePerPill": 0.44,
+    "path": "/categories/Bestsellers/Clomid",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Clomid?id=924"
+  },
+  {
+    "name": "ED Sample Pack 1",
+    "slug": "ed-sample-pack-1",
+    "category": "ED Sample Packs",
+    "pricePerPill": 2.31,
+    "path": "/categories/Bestsellers/ED-Sample-Pack-1",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/ED-Sample-Pack-1?id=924"
+  },
+  {
+    "name": "Brand Viagra",
+    "slug": "brand-viagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.77,
+    "path": "/categories/Bestsellers/Brand-Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Brand-Viagra?id=924"
+  },
+  {
+    "name": "Doxycycline",
+    "slug": "doxycycline",
+    "category": "Antibiotics",
+    "pricePerPill": 0.3,
+    "path": "/categories/Bestsellers/Doxycycline",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Doxycycline?id=924"
+  },
+  {
+    "name": "Propecia",
+    "slug": "propecia",
+    "category": "Hair Loss",
+    "pricePerPill": 0.51,
+    "path": "/categories/Bestsellers/Propecia",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Propecia?id=924"
+  },
+  {
+    "name": "Levitra",
+    "slug": "levitra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1,
+    "path": "/categories/Bestsellers/Levitra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Levitra?id=924"
+  },
+  {
+    "name": "Amoxil",
+    "slug": "amoxil",
+    "category": "Antibiotics",
+    "pricePerPill": 0.39,
+    "path": "/categories/Bestsellers/Amoxil",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Amoxil?id=924"
+  },
+  {
+    "name": "Viagra Professional",
+    "slug": "viagra-professional",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.57,
+    "path": "/categories/Bestsellers/Viagra-Professional",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Professional?id=924"
+  },
+  {
+    "name": "Prednisone",
+    "slug": "prednisone",
+    "category": "Allergies",
+    "pricePerPill": 0.3,
+    "path": "/categories/Bestsellers/Prednisone",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Prednisone?id=924"
+  },
+  {
+    "name": "Brand Cialis",
+    "slug": "brand-cialis",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 3.09,
+    "path": "/categories/Bestsellers/Brand-Cialis",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Brand-Cialis?id=924"
+  },
+  {
+    "name": "Dapoxetine",
+    "slug": "dapoxetine",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.95,
+    "path": "/categories/Bestsellers/Dapoxetine",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Dapoxetine?id=924"
+  },
+  {
+    "name": "Zithromax",
+    "slug": "zithromax",
+    "category": "Antibiotics",
+    "pricePerPill": 0.55,
+    "path": "/categories/Bestsellers/Zithromax",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Zithromax?id=924"
+  },
+  {
+    "name": "Nolvadex",
+    "slug": "nolvadex",
+    "category": "Woman's Health",
+    "pricePerPill": 0.52,
+    "path": "/categories/Bestsellers/Nolvadex",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Nolvadex?id=924"
+  },
+  {
+    "name": "Cytotec",
+    "slug": "cytotec",
+    "category": "Gastrointestinal",
+    "pricePerPill": 1.7,
+    "path": "/categories/Bestsellers/Cytotec",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cytotec?id=924"
+  },
+  {
+    "name": "Cialis Professional",
+    "slug": "cialis-professional",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.2,
+    "path": "/categories/Bestsellers/Cialis-Professional",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Professional?id=924"
+  },
+  {
+    "name": "Viagra Super Active",
+    "slug": "viagra-super-active",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.25,
+    "path": "/categories/Bestsellers/Viagra-Super-Active",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Super-Active?id=924"
+  },
+  {
+    "name": "Extra Super Viagra",
+    "slug": "extra-super-viagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.86,
+    "path": "/categories/Bestsellers/Extra-Super-Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Extra-Super-Viagra?id=924"
+  },
+  {
+    "name": "Cialis Extra Dosage",
+    "slug": "cialis-extra-dosage",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.05,
+    "path": "/categories/Bestsellers/Cialis-Extra-Dosage",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Cialis Soft",
+    "slug": "cialis-soft",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.11,
+    "path": "/categories/Bestsellers/Cialis-Soft",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Soft?id=924"
+  },
+  {
+    "name": "Viagra Soft",
+    "slug": "viagra-soft",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.91,
+    "path": "/categories/Bestsellers/Viagra-Soft",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Soft?id=924"
+  },
+  {
+    "name": "Kamagra",
+    "slug": "kamagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.9,
+    "path": "/categories/Bestsellers/Kamagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Kamagra?id=924"
+  },
+  {
+    "name": "Cipro",
+    "slug": "cipro",
+    "category": "Antibiotics",
+    "pricePerPill": 0.22,
+    "path": "/categories/Bestsellers/Cipro",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cipro?id=924"
+  },
+  {
+    "name": "Cialis Super Active",
+    "slug": "cialis-super-active",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.32,
+    "path": "/categories/Bestsellers/Cialis-Super-Active",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Super-Active?id=924"
+  },
+  {
+    "name": "Extra Super Cialis",
+    "slug": "extra-super-cialis",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 3.06,
+    "path": "/categories/Bestsellers/Extra-Super-Cialis",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Extra-Super-Cialis?id=924"
+  },
+  {
+    "name": "Female Viagra",
+    "slug": "female-viagra",
+    "category": "Woman's Health",
+    "pricePerPill": 0.68,
+    "path": "/categories/Bestsellers/Female-Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Female-Viagra?id=924"
+  },
+  {
+    "name": "Lasix",
+    "slug": "lasix",
+    "category": "Blood Pressure",
+    "pricePerPill": 0.25,
+    "path": "/categories/Bestsellers/Lasix",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Lasix?id=924"
+  },
+  {
+    "name": "Zoloft",
+    "slug": "zoloft",
+    "category": "Depression",
+    "pricePerPill": 0.28,
+    "path": "/categories/Bestsellers/Zoloft",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Zoloft?id=924"
+  },
+  {
+    "name": "Tadapox",
+    "slug": "tadapox",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.08,
+    "path": "/categories/Bestsellers/Tadapox",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Tadapox?id=924"
+  },
+  {
+    "name": "Propranolol",
+    "slug": "propranolol",
+    "category": "Heart Disease",
+    "pricePerPill": 0.27,
+    "path": "/categories/Bestsellers/Propranolol",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Propranolol?id=924"
+  },
+  {
+    "name": "Xenical",
+    "slug": "xenical",
+    "category": "Weight Loss",
+    "pricePerPill": 0.79,
+    "path": "/categories/Bestsellers/Xenical",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Xenical?id=924"
+  },
+  {
+    "name": "Prednisolone",
+    "slug": "prednisolone",
+    "category": "Allergies",
+    "pricePerPill": 0.32,
+    "path": "/categories/Bestsellers/Prednisolone",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Prednisolone?id=924"
+  },
+  {
+    "name": "Metformin",
+    "slug": "metformin",
+    "category": "Diabetes",
+    "pricePerPill": 0.26,
+    "path": "/categories/Bestsellers/Metformin",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Metformin?id=924"
+  },
+  {
+    "name": "Antabuse",
+    "slug": "antabuse",
+    "category": "Other",
+    "pricePerPill": 0.43,
+    "path": "/categories/Bestsellers/Antabuse",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Antabuse?id=924"
+  },
+  {
+    "name": "Sildalis",
+    "slug": "sildalis",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.95,
+    "path": "/categories/Bestsellers/Sildalis",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Sildalis?id=924"
+  },
+  {
+    "name": "Valtrex",
+    "slug": "valtrex",
+    "category": "Anti Viral",
+    "pricePerPill": 2.66,
+    "path": "/categories/Bestsellers/Valtrex",
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Valtrex?id=924"
+  },
+  {
+    "name": "ED Sample Pack 2",
+    "slug": "ed-sample-pack-2",
+    "category": "ED Sample Packs",
+    "pricePerPill": 2.03,
+    "path": "/categories/ED-Sample-Packs/ED-Sample-Pack-2",
+    "affiliateUrl": "http://pharm-store.com/categories/ED-Sample-Packs/ED-Sample-Pack-2?id=924"
+  },
+  {
+    "name": "ED Sample Pack 3",
+    "slug": "ed-sample-pack-3",
+    "category": "ED Sample Packs",
+    "pricePerPill": 2.28,
+    "path": "/categories/ED-Sample-Packs/ED-Sample-Pack-3",
+    "affiliateUrl": "http://pharm-store.com/categories/ED-Sample-Packs/ED-Sample-Pack-3?id=924"
+  },
+  {
+    "name": "Brand Levitra",
+    "slug": "brand-levitra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 3.71,
+    "path": "/categories/Erectile-Dysfunction/Brand-Levitra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Brand-Levitra?id=924"
+  },
+  {
+    "name": "Silvitra",
+    "slug": "silvitra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.8,
+    "path": "/categories/Erectile-Dysfunction/Silvitra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Silvitra?id=924"
+  },
+  {
+    "name": "Kamagra Polo",
+    "slug": "kamagra-polo",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.58,
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Polo",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Polo?id=924"
+  },
+  {
+    "name": "Kamagra Effervescent",
+    "slug": "kamagra-effervescent",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 25.56,
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Effervescent",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Effervescent?id=924"
+  },
+  {
+    "name": "Kamagra Super",
+    "slug": "kamagra-super",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.98,
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Super",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Super?id=924"
+  },
+  {
+    "name": "Malegra FXT",
+    "slug": "malegra-fxt",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.16,
+    "path": "/categories/Erectile-Dysfunction/Malegra-FXT",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-FXT?id=924"
+  },
+  {
+    "name": "Malegra FXT Plus",
+    "slug": "malegra-fxt-plus",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.34,
+    "path": "/categories/Erectile-Dysfunction/Malegra-FXT-Plus",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-FXT-Plus?id=924"
+  },
+  {
+    "name": "Malegra DXT",
+    "slug": "malegra-dxt",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.16,
+    "path": "/categories/Erectile-Dysfunction/Malegra-DXT",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-DXT?id=924"
+  },
+  {
+    "name": "Malegra DXT Plus",
+    "slug": "malegra-dxt-plus",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.33,
+    "path": "/categories/Erectile-Dysfunction/Malegra-DXT-Plus",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-DXT-Plus?id=924"
+  },
+  {
+    "name": "Extra Super Levitra",
+    "slug": "extra-super-levitra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.98,
+    "path": "/categories/Erectile-Dysfunction/Extra-Super-Levitra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Extra-Super-Levitra?id=924"
+  },
+  {
+    "name": "Super Viagra",
+    "slug": "super-viagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.73,
+    "path": "/categories/Erectile-Dysfunction/Super-Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Viagra?id=924"
+  },
+  {
+    "name": "Super Cialis",
+    "slug": "super-cialis",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.08,
+    "path": "/categories/Erectile-Dysfunction/Super-Cialis",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Cialis?id=924"
+  },
+  {
+    "name": "Super Levitra",
+    "slug": "super-levitra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.51,
+    "path": "/categories/Erectile-Dysfunction/Super-Levitra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Levitra?id=924"
+  },
+  {
+    "name": "Levitra Super Active",
+    "slug": "levitra-super-active",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.2,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Super-Active",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Super-Active?id=924"
+  },
+  {
+    "name": "Levitra Professional",
+    "slug": "levitra-professional",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.8,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Professional",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Professional?id=924"
+  },
+  {
+    "name": "Viagra Extra Dosage",
+    "slug": "viagra-extra-dosage",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.95,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Extra-Dosage",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Levitra Extra Dosage",
+    "slug": "levitra-extra-dosage",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.44,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Extra-Dosage",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Levitra Soft",
+    "slug": "levitra-soft",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.02,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Soft",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Soft?id=924"
+  },
+  {
+    "name": "Avana",
+    "slug": "avana",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 3.06,
+    "path": "/categories/Erectile-Dysfunction/Avana",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Avana?id=924"
+  },
+  {
+    "name": "Top Avana",
+    "slug": "top-avana",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 3.13,
+    "path": "/categories/Erectile-Dysfunction/Top-Avana",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Top-Avana?id=924"
+  },
+  {
+    "name": "Super Avana",
+    "slug": "super-avana",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 4.91,
+    "path": "/categories/Erectile-Dysfunction/Super-Avana",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Avana?id=924"
+  },
+  {
+    "name": "Extra Super Avana",
+    "slug": "extra-super-avana",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 6.98,
+    "path": "/categories/Erectile-Dysfunction/Extra-Super-Avana",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Extra-Super-Avana?id=924"
+  },
+  {
+    "name": "Tadacip",
+    "slug": "tadacip",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.96,
+    "path": "/categories/Erectile-Dysfunction/Tadacip",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadacip?id=924"
+  },
+  {
+    "name": "Nizagara",
+    "slug": "nizagara",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.85,
+    "path": "/categories/Erectile-Dysfunction/Nizagara",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Nizagara?id=924"
+  },
+  {
+    "name": "Viagra Plus",
+    "slug": "viagra-plus",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.66,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Plus",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Plus?id=924"
+  },
+  {
+    "name": "Levitra Plus",
+    "slug": "levitra-plus",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.73,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Plus",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Plus?id=924"
+  },
+  {
+    "name": "Silagra",
+    "slug": "silagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.65,
+    "path": "/categories/Erectile-Dysfunction/Silagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Silagra?id=924"
+  },
+  {
+    "name": "Tadalis SX",
+    "slug": "tadalis-sx",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.39,
+    "path": "/categories/Erectile-Dysfunction/Tadalis-SX",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadalis-SX?id=924"
+  },
+  {
+    "name": "Viagra Jelly",
+    "slug": "viagra-jelly",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.14,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Jelly",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Jelly?id=924"
+  },
+  {
+    "name": "Cialis Jelly",
+    "slug": "cialis-jelly",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.96,
+    "path": "/categories/Erectile-Dysfunction/Cialis-Jelly",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Jelly?id=924"
+  },
+  {
+    "name": "Levitra Jelly",
+    "slug": "levitra-jelly",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 4.43,
+    "path": "/categories/Erectile-Dysfunction/Levitra-Jelly",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Jelly?id=924"
+  },
+  {
+    "name": "Zenegra",
+    "slug": "zenegra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.59,
+    "path": "/categories/Erectile-Dysfunction/Zenegra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Zenegra?id=924"
+  },
+  {
+    "name": "Cialis Sublingual",
+    "slug": "cialis-sublingual",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.16,
+    "path": "/categories/Erectile-Dysfunction/Cialis-Sublingual",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Sublingual?id=924"
+  },
+  {
+    "name": "Viagra Sublingual",
+    "slug": "viagra-sublingual",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.74,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Sublingual",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Sublingual?id=924"
+  },
+  {
+    "name": "Suhagra",
+    "slug": "suhagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.6,
+    "path": "/categories/Erectile-Dysfunction/Suhagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Suhagra?id=924"
+  },
+  {
+    "name": "Apcalis SX",
+    "slug": "apcalis-sx",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.76,
+    "path": "/categories/Erectile-Dysfunction/Apcalis-SX",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Apcalis-SX?id=924"
+  },
+  {
+    "name": "Caverta",
+    "slug": "caverta",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 4.6,
+    "path": "/categories/Erectile-Dysfunction/Caverta",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Caverta?id=924"
+  },
+  {
+    "name": "Forzest",
+    "slug": "forzest",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 4.99,
+    "path": "/categories/Erectile-Dysfunction/Forzest",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Forzest?id=924"
+  },
+  {
+    "name": "Himcolin",
+    "slug": "himcolin",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 30.25,
+    "path": "/categories/Erectile-Dysfunction/Himcolin",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Himcolin?id=924"
+  },
+  {
+    "name": "Viagra Soft Flavoured",
+    "slug": "viagra-soft-flavoured",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.21,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Soft-Flavoured",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Soft-Flavoured?id=924"
+  },
+  {
+    "name": "Super P-Force",
+    "slug": "super-p-force",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.73,
+    "path": "/categories/Erectile-Dysfunction/Super-P-Force",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-P-Force?id=924"
+  },
+  {
+    "name": "Super P-Force Oral Jelly",
+    "slug": "super-p-force-oral-jelly",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 6.36,
+    "path": "/categories/Erectile-Dysfunction/Super-P-Force-Oral-Jelly",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-P-Force-Oral-Jelly?id=924"
+  },
+  {
+    "name": "Erectafil",
+    "slug": "erectafil",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.31,
+    "path": "/categories/Erectile-Dysfunction/Erectafil",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Erectafil?id=924"
+  },
+  {
+    "name": "Tadala Black",
+    "slug": "tadala-black",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.63,
+    "path": "/categories/Erectile-Dysfunction/Tadala-Black",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadala-Black?id=924"
+  },
+  {
+    "name": "Cialis Black",
+    "slug": "cialis-black",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.18,
+    "path": "/categories/Erectile-Dysfunction/Cialis-Black",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Black?id=924"
+  },
+  {
+    "name": "Red Viagra",
+    "slug": "red-viagra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.59,
+    "path": "/categories/Erectile-Dysfunction/Red-Viagra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Red-Viagra?id=924"
+  },
+  {
+    "name": "Viagra Vigour",
+    "slug": "viagra-vigour",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.59,
+    "path": "/categories/Erectile-Dysfunction/Viagra-Vigour",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Vigour?id=924"
+  },
+  {
+    "name": "Eriacta",
+    "slug": "eriacta",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.2,
+    "path": "/categories/Erectile-Dysfunction/Eriacta",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Eriacta?id=924"
+  },
+  {
+    "name": "Fildena",
+    "slug": "fildena",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.73,
+    "path": "/categories/Erectile-Dysfunction/Fildena",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Fildena?id=924"
+  },
+  {
+    "name": "Aurogra",
+    "slug": "aurogra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.77,
+    "path": "/categories/Erectile-Dysfunction/Aurogra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Aurogra?id=924"
+  },
+  {
+    "name": "Sildigra",
+    "slug": "sildigra",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.69,
+    "path": "/categories/Erectile-Dysfunction/Sildigra",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Sildigra?id=924"
+  },
+  {
+    "name": "Tadora",
+    "slug": "tadora",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 1.18,
+    "path": "/categories/Erectile-Dysfunction/Tadora",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadora?id=924"
+  },
+  {
+    "name": "Zudena",
+    "slug": "zudena",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 6.86,
+    "path": "/categories/Erectile-Dysfunction/Zudena",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Zudena?id=924"
+  },
+  {
+    "name": "Vidalista",
+    "slug": "vidalista",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.68,
+    "path": "/categories/Erectile-Dysfunction/Vidalista",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Vidalista?id=924"
+  },
+  {
+    "name": "Cenforce",
+    "slug": "cenforce",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.27,
+    "path": "/categories/Erectile-Dysfunction/Cenforce",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce?id=924"
+  },
+  {
+    "name": "Cenforce Professional",
+    "slug": "cenforce-professional",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.91,
+    "path": "/categories/Erectile-Dysfunction/Cenforce-Professional",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-Professional?id=924"
+  },
+  {
+    "name": "Cenforce Soft",
+    "slug": "cenforce-soft",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 0.95,
+    "path": "/categories/Erectile-Dysfunction/Cenforce-Soft",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-Soft?id=924"
+  },
+  {
+    "name": "Cenforce-D",
+    "slug": "cenforce-d",
+    "category": "Erectile Dysfunction",
+    "pricePerPill": 2.78,
+    "path": "/categories/Erectile-Dysfunction/Cenforce-D",
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-D?id=924"
+  },
+  {
+    "name": "Alavert",
+    "slug": "alavert",
+    "category": "Allergies",
+    "pricePerPill": 0.44,
+    "path": "/categories/Allergies/Alavert",
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Alavert?id=924"
+  },
+  {
+    "name": "Allegra",
+    "slug": "allegra",
+    "category": "Allergies",
+    "pricePerPill": 0.27,
+    "path": "/categories/Allergies/Allegra",
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Allegra?id=924"
+  },
+  {
+    "name": "Aristocort",
+    "slug": "aristocort",
+    "category": "Allergies",
+    "pricePerPill": 0.93,
+    "path": "/categories/Allergies/Aristocort",
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Aristocort?id=924"
+  }
+]

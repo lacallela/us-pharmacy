@@ -1,0 +1,4050 @@
+[
+  {
+    "name": "Viagra",
+    "slug": "viagra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Viagra",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra?id=924"
+  },
+  {
+    "name": "Cialis",
+    "slug": "cialis",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cialis",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis?id=924"
+  },
+  {
+    "name": "Clomid",
+    "slug": "clomid",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Clomid",
+    "pricePerPill": 0.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Clomid?id=924"
+  },
+  {
+    "name": "ED Sample Pack 1",
+    "slug": "ed-sample-pack-1",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/ED-Sample-Pack-1",
+    "pricePerPill": 2.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/ED-Sample-Pack-1?id=924"
+  },
+  {
+    "name": "Brand Viagra",
+    "slug": "brand-viagra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Brand-Viagra",
+    "pricePerPill": 1.77,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Brand-Viagra?id=924"
+  },
+  {
+    "name": "Doxycycline",
+    "slug": "doxycycline",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Doxycycline",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Doxycycline?id=924"
+  },
+  {
+    "name": "Propecia",
+    "slug": "propecia",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Propecia",
+    "pricePerPill": 0.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Propecia?id=924"
+  },
+  {
+    "name": "Levitra",
+    "slug": "levitra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Levitra",
+    "pricePerPill": 1,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Levitra?id=924"
+  },
+  {
+    "name": "Amoxil",
+    "slug": "amoxil",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Amoxil",
+    "pricePerPill": 0.39,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Amoxil?id=924"
+  },
+  {
+    "name": "Viagra Professional",
+    "slug": "viagra-professional",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Viagra-Professional",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Professional?id=924"
+  },
+  {
+    "name": "Prednisone",
+    "slug": "prednisone",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Prednisone",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Prednisone?id=924"
+  },
+  {
+    "name": "Brand Cialis",
+    "slug": "brand-cialis",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Brand-Cialis",
+    "pricePerPill": 3.09,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Brand-Cialis?id=924"
+  },
+  {
+    "name": "Dapoxetine",
+    "slug": "dapoxetine",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Dapoxetine",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Dapoxetine?id=924"
+  },
+  {
+    "name": "Zithromax",
+    "slug": "zithromax",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Zithromax",
+    "pricePerPill": 0.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Zithromax?id=924"
+  },
+  {
+    "name": "Nolvadex",
+    "slug": "nolvadex",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Nolvadex",
+    "pricePerPill": 0.52,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Nolvadex?id=924"
+  },
+  {
+    "name": "Cytotec",
+    "slug": "cytotec",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cytotec",
+    "pricePerPill": 1.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cytotec?id=924"
+  },
+  {
+    "name": "Cialis Professional",
+    "slug": "cialis-professional",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cialis-Professional",
+    "pricePerPill": 1.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Professional?id=924"
+  },
+  {
+    "name": "Viagra Super Active",
+    "slug": "viagra-super-active",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Viagra-Super-Active",
+    "pricePerPill": 1.25,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Super-Active?id=924"
+  },
+  {
+    "name": "Extra Super Viagra",
+    "slug": "extra-super-viagra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Extra-Super-Viagra",
+    "pricePerPill": 2.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Extra-Super-Viagra?id=924"
+  },
+  {
+    "name": "Cialis Extra Dosage",
+    "slug": "cialis-extra-dosage",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cialis-Extra-Dosage",
+    "pricePerPill": 2.05,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Cialis Soft",
+    "slug": "cialis-soft",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cialis-Soft",
+    "pricePerPill": 1.11,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Soft?id=924"
+  },
+  {
+    "name": "Viagra Soft",
+    "slug": "viagra-soft",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Viagra-Soft",
+    "pricePerPill": 0.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Viagra-Soft?id=924"
+  },
+  {
+    "name": "Kamagra",
+    "slug": "kamagra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Kamagra",
+    "pricePerPill": 0.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Kamagra?id=924"
+  },
+  {
+    "name": "Cipro",
+    "slug": "cipro",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cipro",
+    "pricePerPill": 0.22,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cipro?id=924"
+  },
+  {
+    "name": "Cialis Super Active",
+    "slug": "cialis-super-active",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Cialis-Super-Active",
+    "pricePerPill": 1.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Cialis-Super-Active?id=924"
+  },
+  {
+    "name": "Extra Super Cialis",
+    "slug": "extra-super-cialis",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Extra-Super-Cialis",
+    "pricePerPill": 3.06,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Extra-Super-Cialis?id=924"
+  },
+  {
+    "name": "Female Viagra",
+    "slug": "female-viagra",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Female-Viagra",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Female-Viagra?id=924"
+  },
+  {
+    "name": "Lasix",
+    "slug": "lasix",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Lasix",
+    "pricePerPill": 0.25,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Lasix?id=924"
+  },
+  {
+    "name": "Zoloft",
+    "slug": "zoloft",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Zoloft",
+    "pricePerPill": 0.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Zoloft?id=924"
+  },
+  {
+    "name": "Tadapox",
+    "slug": "tadapox",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Tadapox",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Tadapox?id=924"
+  },
+  {
+    "name": "Propranolol",
+    "slug": "propranolol",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Propranolol",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Propranolol?id=924"
+  },
+  {
+    "name": "Xenical",
+    "slug": "xenical",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Xenical",
+    "pricePerPill": 0.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Xenical?id=924"
+  },
+  {
+    "name": "Prednisolone",
+    "slug": "prednisolone",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Prednisolone",
+    "pricePerPill": 0.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Prednisolone?id=924"
+  },
+  {
+    "name": "Metformin",
+    "slug": "metformin",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Metformin",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Metformin?id=924"
+  },
+  {
+    "name": "Antabuse",
+    "slug": "antabuse",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Antabuse",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Antabuse?id=924"
+  },
+  {
+    "name": "Sildalis",
+    "slug": "sildalis",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Sildalis",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Sildalis?id=924"
+  },
+  {
+    "name": "Valtrex",
+    "slug": "valtrex",
+    "category": "Bestsellers",
+    "path": "/categories/Bestsellers/Valtrex",
+    "pricePerPill": 2.66,
+    "affiliateUrl": "http://pharm-store.com/categories/Bestsellers/Valtrex?id=924"
+  },
+  {
+    "name": "ED Sample Pack 2",
+    "slug": "ed-sample-pack-2",
+    "category": "ED Sample Packs",
+    "path": "/categories/ED-Sample-Packs/ED-Sample-Pack-2",
+    "pricePerPill": 2.03,
+    "affiliateUrl": "http://pharm-store.com/categories/ED-Sample-Packs/ED-Sample-Pack-2?id=924"
+  },
+  {
+    "name": "ED Sample Pack 3",
+    "slug": "ed-sample-pack-3",
+    "category": "ED Sample Packs",
+    "path": "/categories/ED-Sample-Packs/ED-Sample-Pack-3",
+    "pricePerPill": 2.28,
+    "affiliateUrl": "http://pharm-store.com/categories/ED-Sample-Packs/ED-Sample-Pack-3?id=924"
+  },
+  {
+    "name": "Brand Levitra",
+    "slug": "brand-levitra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Brand-Levitra",
+    "pricePerPill": 3.71,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Brand-Levitra?id=924"
+  },
+  {
+    "name": "Silvitra",
+    "slug": "silvitra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Silvitra",
+    "pricePerPill": 2.8,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Silvitra?id=924"
+  },
+  {
+    "name": "Kamagra Polo",
+    "slug": "kamagra-polo",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Polo",
+    "pricePerPill": 1.58,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Polo?id=924"
+  },
+  {
+    "name": "Kamagra Effervescent",
+    "slug": "kamagra-effervescent",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Effervescent",
+    "pricePerPill": 25.56,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Effervescent?id=924"
+  },
+  {
+    "name": "Kamagra Super",
+    "slug": "kamagra-super",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Kamagra-Super",
+    "pricePerPill": 2.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Kamagra-Super?id=924"
+  },
+  {
+    "name": "Malegra FXT",
+    "slug": "malegra-fxt",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Malegra-FXT",
+    "pricePerPill": 1.16,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-FXT?id=924"
+  },
+  {
+    "name": "Malegra FXT Plus",
+    "slug": "malegra-fxt-plus",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Malegra-FXT-Plus",
+    "pricePerPill": 1.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-FXT-Plus?id=924"
+  },
+  {
+    "name": "Malegra DXT",
+    "slug": "malegra-dxt",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Malegra-DXT",
+    "pricePerPill": 1.16,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-DXT?id=924"
+  },
+  {
+    "name": "Malegra DXT Plus",
+    "slug": "malegra-dxt-plus",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Malegra-DXT-Plus",
+    "pricePerPill": 1.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Malegra-DXT-Plus?id=924"
+  },
+  {
+    "name": "Extra Super Levitra",
+    "slug": "extra-super-levitra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Extra-Super-Levitra",
+    "pricePerPill": 2.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Extra-Super-Levitra?id=924"
+  },
+  {
+    "name": "Super Viagra",
+    "slug": "super-viagra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-Viagra",
+    "pricePerPill": 2.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Viagra?id=924"
+  },
+  {
+    "name": "Super Cialis",
+    "slug": "super-cialis",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-Cialis",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Cialis?id=924"
+  },
+  {
+    "name": "Super Levitra",
+    "slug": "super-levitra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-Levitra",
+    "pricePerPill": 2.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Levitra?id=924"
+  },
+  {
+    "name": "Levitra Super Active",
+    "slug": "levitra-super-active",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Super-Active",
+    "pricePerPill": 1.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Super-Active?id=924"
+  },
+  {
+    "name": "Levitra Professional",
+    "slug": "levitra-professional",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Professional",
+    "pricePerPill": 2.8,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Professional?id=924"
+  },
+  {
+    "name": "Viagra Extra Dosage",
+    "slug": "viagra-extra-dosage",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Extra-Dosage",
+    "pricePerPill": 1.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Levitra Extra Dosage",
+    "slug": "levitra-extra-dosage",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Extra-Dosage",
+    "pricePerPill": 2.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Extra-Dosage?id=924"
+  },
+  {
+    "name": "Levitra Soft",
+    "slug": "levitra-soft",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Soft",
+    "pricePerPill": 1.02,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Soft?id=924"
+  },
+  {
+    "name": "Avana",
+    "slug": "avana",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Avana",
+    "pricePerPill": 3.06,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Avana?id=924"
+  },
+  {
+    "name": "Top Avana",
+    "slug": "top-avana",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Top-Avana",
+    "pricePerPill": 3.13,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Top-Avana?id=924"
+  },
+  {
+    "name": "Super Avana",
+    "slug": "super-avana",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-Avana",
+    "pricePerPill": 4.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-Avana?id=924"
+  },
+  {
+    "name": "Extra Super Avana",
+    "slug": "extra-super-avana",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Extra-Super-Avana",
+    "pricePerPill": 6.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Extra-Super-Avana?id=924"
+  },
+  {
+    "name": "Tadacip",
+    "slug": "tadacip",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Tadacip",
+    "pricePerPill": 0.96,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadacip?id=924"
+  },
+  {
+    "name": "Nizagara",
+    "slug": "nizagara",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Nizagara",
+    "pricePerPill": 0.85,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Nizagara?id=924"
+  },
+  {
+    "name": "Viagra Plus",
+    "slug": "viagra-plus",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Plus",
+    "pricePerPill": 0.66,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Plus?id=924"
+  },
+  {
+    "name": "Levitra Plus",
+    "slug": "levitra-plus",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Plus",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Plus?id=924"
+  },
+  {
+    "name": "Silagra",
+    "slug": "silagra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Silagra",
+    "pricePerPill": 0.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Silagra?id=924"
+  },
+  {
+    "name": "Tadalis SX",
+    "slug": "tadalis-sx",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Tadalis-SX",
+    "pricePerPill": 1.39,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadalis-SX?id=924"
+  },
+  {
+    "name": "Viagra Jelly",
+    "slug": "viagra-jelly",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Jelly",
+    "pricePerPill": 2.14,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Jelly?id=924"
+  },
+  {
+    "name": "Cialis Jelly",
+    "slug": "cialis-jelly",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cialis-Jelly",
+    "pricePerPill": 2.96,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Jelly?id=924"
+  },
+  {
+    "name": "Levitra Jelly",
+    "slug": "levitra-jelly",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Levitra-Jelly",
+    "pricePerPill": 4.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Levitra-Jelly?id=924"
+  },
+  {
+    "name": "Zenegra",
+    "slug": "zenegra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Zenegra",
+    "pricePerPill": 0.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Zenegra?id=924"
+  },
+  {
+    "name": "Cialis Sublingual",
+    "slug": "cialis-sublingual",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cialis-Sublingual",
+    "pricePerPill": 1.16,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Sublingual?id=924"
+  },
+  {
+    "name": "Viagra Sublingual",
+    "slug": "viagra-sublingual",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Sublingual",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Sublingual?id=924"
+  },
+  {
+    "name": "Suhagra",
+    "slug": "suhagra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Suhagra",
+    "pricePerPill": 0.6,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Suhagra?id=924"
+  },
+  {
+    "name": "Apcalis SX",
+    "slug": "apcalis-sx",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Apcalis-SX",
+    "pricePerPill": 1.76,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Apcalis-SX?id=924"
+  },
+  {
+    "name": "Caverta",
+    "slug": "caverta",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Caverta",
+    "pricePerPill": 4.6,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Caverta?id=924"
+  },
+  {
+    "name": "Forzest",
+    "slug": "forzest",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Forzest",
+    "pricePerPill": 4.99,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Forzest?id=924"
+  },
+  {
+    "name": "Himcolin",
+    "slug": "himcolin",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Himcolin",
+    "pricePerPill": 30.25,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Himcolin?id=924"
+  },
+  {
+    "name": "Viagra Soft Flavoured",
+    "slug": "viagra-soft-flavoured",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Soft-Flavoured",
+    "pricePerPill": 2.21,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Soft-Flavoured?id=924"
+  },
+  {
+    "name": "Super P-Force",
+    "slug": "super-p-force",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-P-Force",
+    "pricePerPill": 2.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-P-Force?id=924"
+  },
+  {
+    "name": "Super P-Force Oral Jelly",
+    "slug": "super-p-force-oral-jelly",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Super-P-Force-Oral-Jelly",
+    "pricePerPill": 6.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Super-P-Force-Oral-Jelly?id=924"
+  },
+  {
+    "name": "Erectafil",
+    "slug": "erectafil",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Erectafil",
+    "pricePerPill": 1.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Erectafil?id=924"
+  },
+  {
+    "name": "Tadala Black",
+    "slug": "tadala-black",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Tadala-Black",
+    "pricePerPill": 1.63,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadala-Black?id=924"
+  },
+  {
+    "name": "Cialis Black",
+    "slug": "cialis-black",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cialis-Black",
+    "pricePerPill": 1.18,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cialis-Black?id=924"
+  },
+  {
+    "name": "Red Viagra",
+    "slug": "red-viagra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Red-Viagra",
+    "pricePerPill": 2.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Red-Viagra?id=924"
+  },
+  {
+    "name": "Viagra Vigour",
+    "slug": "viagra-vigour",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Viagra-Vigour",
+    "pricePerPill": 2.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Viagra-Vigour?id=924"
+  },
+  {
+    "name": "Eriacta",
+    "slug": "eriacta",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Eriacta",
+    "pricePerPill": 1.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Eriacta?id=924"
+  },
+  {
+    "name": "Fildena",
+    "slug": "fildena",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Fildena",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Fildena?id=924"
+  },
+  {
+    "name": "Aurogra",
+    "slug": "aurogra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Aurogra",
+    "pricePerPill": 0.77,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Aurogra?id=924"
+  },
+  {
+    "name": "Sildigra",
+    "slug": "sildigra",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Sildigra",
+    "pricePerPill": 0.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Sildigra?id=924"
+  },
+  {
+    "name": "Tadora",
+    "slug": "tadora",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Tadora",
+    "pricePerPill": 1.18,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Tadora?id=924"
+  },
+  {
+    "name": "Zudena",
+    "slug": "zudena",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Zudena",
+    "pricePerPill": 6.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Zudena?id=924"
+  },
+  {
+    "name": "Vidalista",
+    "slug": "vidalista",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Vidalista",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Vidalista?id=924"
+  },
+  {
+    "name": "Cenforce",
+    "slug": "cenforce",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cenforce",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce?id=924"
+  },
+  {
+    "name": "Cenforce Professional",
+    "slug": "cenforce-professional",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cenforce-Professional",
+    "pricePerPill": 0.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-Professional?id=924"
+  },
+  {
+    "name": "Cenforce Soft",
+    "slug": "cenforce-soft",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cenforce-Soft",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-Soft?id=924"
+  },
+  {
+    "name": "Cenforce-D",
+    "slug": "cenforce-d",
+    "category": "Erectile Dysfunction",
+    "path": "/categories/Erectile-Dysfunction/Cenforce-D",
+    "pricePerPill": 2.78,
+    "affiliateUrl": "http://pharm-store.com/categories/Erectile-Dysfunction/Cenforce-D?id=924"
+  },
+  {
+    "name": "Alavert",
+    "slug": "alavert",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Alavert",
+    "pricePerPill": 0.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Alavert?id=924"
+  },
+  {
+    "name": "Allegra",
+    "slug": "allegra",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Allegra",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Allegra?id=924"
+  },
+  {
+    "name": "Aristocort",
+    "slug": "aristocort",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Aristocort",
+    "pricePerPill": 0.93,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Aristocort?id=924"
+  },
+  {
+    "name": "Astelin",
+    "slug": "astelin",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Astelin",
+    "pricePerPill": 22.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Astelin?id=924"
+  },
+  {
+    "name": "Atarax",
+    "slug": "atarax",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Atarax",
+    "pricePerPill": 0.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Atarax?id=924"
+  },
+  {
+    "name": "Beconase AQ",
+    "slug": "beconase-aq",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Beconase-AQ",
+    "pricePerPill": 29.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Beconase-AQ?id=924"
+  },
+  {
+    "name": "Benadryl",
+    "slug": "benadryl",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Benadryl",
+    "pricePerPill": 1.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Benadryl?id=924"
+  },
+  {
+    "name": "Clarinex",
+    "slug": "clarinex",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Clarinex",
+    "pricePerPill": 0.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Clarinex?id=924"
+  },
+  {
+    "name": "Claritin",
+    "slug": "claritin",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Claritin",
+    "pricePerPill": 0.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Claritin?id=924"
+  },
+  {
+    "name": "Decadron",
+    "slug": "decadron",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Decadron",
+    "pricePerPill": 0.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Decadron?id=924"
+  },
+  {
+    "name": "Deltasone",
+    "slug": "deltasone",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Deltasone",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Deltasone?id=924"
+  },
+  {
+    "name": "Entocort",
+    "slug": "entocort",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Entocort",
+    "pricePerPill": 40.13,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Entocort?id=924"
+  },
+  {
+    "name": "FML Forte",
+    "slug": "fml-forte",
+    "category": "Allergies",
+    "path": "/categories/Allergies/FML-Forte",
+    "pricePerPill": 19.46,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/FML-Forte?id=924"
+  },
+  {
+    "name": "Flonase",
+    "slug": "flonase",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Flonase",
+    "pricePerPill": 28.61,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Flonase?id=924"
+  },
+  {
+    "name": "Haridra",
+    "slug": "haridra",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Haridra",
+    "pricePerPill": 50.14,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Haridra?id=924"
+  },
+  {
+    "name": "Nasonex nasal spray",
+    "slug": "nasonex-nasal-spray",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Nasonex-nasal-spray",
+    "pricePerPill": 29.07,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Nasonex-nasal-spray?id=924"
+  },
+  {
+    "name": "Periactin",
+    "slug": "periactin",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Periactin",
+    "pricePerPill": 0.45,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Periactin?id=924"
+  },
+  {
+    "name": "Phenergan",
+    "slug": "phenergan",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Phenergan",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Phenergan?id=924"
+  },
+  {
+    "name": "Promethazine",
+    "slug": "promethazine",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Promethazine",
+    "pricePerPill": 0.64,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Promethazine?id=924"
+  },
+  {
+    "name": "Quibron-t",
+    "slug": "quibron-t",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Quibron-t",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Quibron-t?id=924"
+  },
+  {
+    "name": "Rhinocort",
+    "slug": "rhinocort",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Rhinocort",
+    "pricePerPill": 32.61,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Rhinocort?id=924"
+  },
+  {
+    "name": "Seroflo",
+    "slug": "seroflo",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Seroflo",
+    "pricePerPill": 83.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Seroflo?id=924"
+  },
+  {
+    "name": "Zyrtec",
+    "slug": "zyrtec",
+    "category": "Allergies",
+    "path": "/categories/Allergies/Zyrtec",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Allergies/Zyrtec?id=924"
+  },
+  {
+    "name": "Diflucan",
+    "slug": "diflucan",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Diflucan",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Diflucan?id=924"
+  },
+  {
+    "name": "Grifulvin V",
+    "slug": "grifulvin-v",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Grifulvin-V",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Grifulvin-V?id=924"
+  },
+  {
+    "name": "Gyne-lotrimin",
+    "slug": "gyne-lotrimin",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Gyne-lotrimin",
+    "pricePerPill": 7.75,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Gyne-lotrimin?id=924"
+  },
+  {
+    "name": "Lamisil",
+    "slug": "lamisil",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Lamisil",
+    "pricePerPill": 2.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Lamisil?id=924"
+  },
+  {
+    "name": "Lotrisone",
+    "slug": "lotrisone",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Lotrisone",
+    "pricePerPill": 7.14,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Lotrisone?id=924"
+  },
+  {
+    "name": "Mentax",
+    "slug": "mentax",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Mentax",
+    "pricePerPill": 22.22,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Mentax?id=924"
+  },
+  {
+    "name": "Mycelex-g",
+    "slug": "mycelex-g",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Mycelex-g",
+    "pricePerPill": 2.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Mycelex-g?id=924"
+  },
+  {
+    "name": "Nizoral",
+    "slug": "nizoral",
+    "category": "Anti Fungal",
+    "path": "/categories/Anti-Fungal/Nizoral",
+    "pricePerPill": 1.15,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Fungal/Nizoral?id=924"
+  },
+  {
+    "name": "Aciclovir",
+    "slug": "aciclovir",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Aciclovir",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Aciclovir?id=924"
+  },
+  {
+    "name": "Acivir Cream",
+    "slug": "acivir-cream",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Acivir-Cream",
+    "pricePerPill": 19,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Acivir-Cream?id=924"
+  },
+  {
+    "name": "Acivir Pills",
+    "slug": "acivir-pills",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Acivir-Pills",
+    "pricePerPill": 0.56,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Acivir-Pills?id=924"
+  },
+  {
+    "name": "Adalat",
+    "slug": "adalat",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Adalat",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Adalat?id=924"
+  },
+  {
+    "name": "Albendazole",
+    "slug": "albendazole",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Albendazole",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Albendazole?id=924"
+  },
+  {
+    "name": "Amantadine",
+    "slug": "amantadine",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Amantadine",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Amantadine?id=924"
+  },
+  {
+    "name": "Famvir",
+    "slug": "famvir",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Famvir",
+    "pricePerPill": 4.8,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Famvir?id=924"
+  },
+  {
+    "name": "Lasuna",
+    "slug": "lasuna",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Lasuna",
+    "pricePerPill": 25.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Lasuna?id=924"
+  },
+  {
+    "name": "Mobic",
+    "slug": "mobic",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Mobic",
+    "pricePerPill": 0.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Mobic?id=924"
+  },
+  {
+    "name": "Movfor",
+    "slug": "movfor",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Movfor",
+    "pricePerPill": 5.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Movfor?id=924"
+  },
+  {
+    "name": "Procardia",
+    "slug": "procardia",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Procardia",
+    "pricePerPill": 0.75,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Procardia?id=924"
+  },
+  {
+    "name": "Vermox",
+    "slug": "vermox",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Vermox",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Vermox?id=924"
+  },
+  {
+    "name": "Zovirax",
+    "slug": "zovirax",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Zovirax",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Zovirax?id=924"
+  },
+  {
+    "name": "Zovirax Cream",
+    "slug": "zovirax-cream",
+    "category": "Anti Viral",
+    "path": "/categories/Anti-Viral/Zovirax-Cream",
+    "pricePerPill": 14.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Anti-Viral/Zovirax-Cream?id=924"
+  },
+  {
+    "name": "Ampicillin",
+    "slug": "ampicillin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Ampicillin",
+    "pricePerPill": 0.24,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Ampicillin?id=924"
+  },
+  {
+    "name": "Augmentin",
+    "slug": "augmentin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Augmentin",
+    "pricePerPill": 0.99,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Augmentin?id=924"
+  },
+  {
+    "name": "Bactrim",
+    "slug": "bactrim",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Bactrim",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Bactrim?id=924"
+  },
+  {
+    "name": "Biaxin",
+    "slug": "biaxin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Biaxin",
+    "pricePerPill": 2.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Biaxin?id=924"
+  },
+  {
+    "name": "Brand Amoxil",
+    "slug": "brand-amoxil",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Brand-Amoxil",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Brand-Amoxil?id=924"
+  },
+  {
+    "name": "Cefadroxil",
+    "slug": "cefadroxil",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Cefadroxil",
+    "pricePerPill": 0.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Cefadroxil?id=924"
+  },
+  {
+    "name": "Cefixime",
+    "slug": "cefixime",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Cefixime",
+    "pricePerPill": 2.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Cefixime?id=924"
+  },
+  {
+    "name": "Ceftin",
+    "slug": "ceftin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Ceftin",
+    "pricePerPill": 1.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Ceftin?id=924"
+  },
+  {
+    "name": "Cephalexin",
+    "slug": "cephalexin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Cephalexin",
+    "pricePerPill": 1.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Cephalexin?id=924"
+  },
+  {
+    "name": "Chloramphenicol",
+    "slug": "chloramphenicol",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Chloramphenicol",
+    "pricePerPill": 0.46,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Chloramphenicol?id=924"
+  },
+  {
+    "name": "Chloromycetin",
+    "slug": "chloromycetin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Chloromycetin",
+    "pricePerPill": 0.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Chloromycetin?id=924"
+  },
+  {
+    "name": "Ciplox",
+    "slug": "ciplox",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Ciplox",
+    "pricePerPill": 1.22,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Ciplox?id=924"
+  },
+  {
+    "name": "Cleocin",
+    "slug": "cleocin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Cleocin",
+    "pricePerPill": 2.03,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Cleocin?id=924"
+  },
+  {
+    "name": "Clindamycin",
+    "slug": "clindamycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Clindamycin",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Clindamycin?id=924"
+  },
+  {
+    "name": "Erythromycin",
+    "slug": "erythromycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Erythromycin",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Erythromycin?id=924"
+  },
+  {
+    "name": "Flagyl ER",
+    "slug": "flagyl-er",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Flagyl-ER",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Flagyl-ER?id=924"
+  },
+  {
+    "name": "Floxin",
+    "slug": "floxin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Floxin",
+    "pricePerPill": 0.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Floxin?id=924"
+  },
+  {
+    "name": "Fosfomycin",
+    "slug": "fosfomycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Fosfomycin",
+    "pricePerPill": 33.6,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Fosfomycin?id=924"
+  },
+  {
+    "name": "Fucidin",
+    "slug": "fucidin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Fucidin",
+    "pricePerPill": 24.85,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Fucidin?id=924"
+  },
+  {
+    "name": "Keflex",
+    "slug": "keflex",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Keflex",
+    "pricePerPill": 0.89,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Keflex?id=924"
+  },
+  {
+    "name": "Keftab",
+    "slug": "keftab",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Keftab",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Keftab?id=924"
+  },
+  {
+    "name": "Ketoconazole Cream",
+    "slug": "ketoconazole-cream",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Ketoconazole-Cream",
+    "pricePerPill": 16.67,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Ketoconazole-Cream?id=924"
+  },
+  {
+    "name": "Lquin",
+    "slug": "lquin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Lquin",
+    "pricePerPill": 1.24,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Lquin?id=924"
+  },
+  {
+    "name": "Minocin",
+    "slug": "minocin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Minocin",
+    "pricePerPill": 1.85,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Minocin?id=924"
+  },
+  {
+    "name": "Minocycline",
+    "slug": "minocycline",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Minocycline",
+    "pricePerPill": 2.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Minocycline?id=924"
+  },
+  {
+    "name": "Minomycin",
+    "slug": "minomycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Minomycin",
+    "pricePerPill": 1.76,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Minomycin?id=924"
+  },
+  {
+    "name": "Myambutol",
+    "slug": "myambutol",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Myambutol",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Myambutol?id=924"
+  },
+  {
+    "name": "Nitrofurantoin",
+    "slug": "nitrofurantoin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Nitrofurantoin",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Nitrofurantoin?id=924"
+  },
+  {
+    "name": "Noroxin",
+    "slug": "noroxin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Noroxin",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Noroxin?id=924"
+  },
+  {
+    "name": "Omnicef",
+    "slug": "omnicef",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Omnicef",
+    "pricePerPill": 3.15,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Omnicef?id=924"
+  },
+  {
+    "name": "Panmycin",
+    "slug": "panmycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Panmycin",
+    "pricePerPill": 0.64,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Panmycin?id=924"
+  },
+  {
+    "name": "Roxithromycin",
+    "slug": "roxithromycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Roxithromycin",
+    "pricePerPill": 0.78,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Roxithromycin?id=924"
+  },
+  {
+    "name": "Stromectol",
+    "slug": "stromectol",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Stromectol",
+    "pricePerPill": 2.64,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Stromectol?id=924"
+  },
+  {
+    "name": "Sumycin",
+    "slug": "sumycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Sumycin",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Sumycin?id=924"
+  },
+  {
+    "name": "Suprax",
+    "slug": "suprax",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Suprax",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Suprax?id=924"
+  },
+  {
+    "name": "Terramycin",
+    "slug": "terramycin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Terramycin",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Terramycin?id=924"
+  },
+  {
+    "name": "Tetracycline",
+    "slug": "tetracycline",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Tetracycline",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Tetracycline?id=924"
+  },
+  {
+    "name": "Tinidazole",
+    "slug": "tinidazole",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Tinidazole",
+    "pricePerPill": 0.83,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Tinidazole?id=924"
+  },
+  {
+    "name": "Trimox",
+    "slug": "trimox",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Trimox",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Trimox?id=924"
+  },
+  {
+    "name": "Vantin",
+    "slug": "vantin",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Vantin",
+    "pricePerPill": 1.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Vantin?id=924"
+  },
+  {
+    "name": "Zyvox",
+    "slug": "zyvox",
+    "category": "Antibiotics",
+    "path": "/categories/Antibiotics/Zyvox",
+    "pricePerPill": 7.13,
+    "affiliateUrl": "http://pharm-store.com/categories/Antibiotics/Zyvox?id=924"
+  },
+  {
+    "name": "Ashwagandha",
+    "slug": "ashwagandha",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Ashwagandha",
+    "pricePerPill": 21.52,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Ashwagandha?id=924"
+  },
+  {
+    "name": "Buspar",
+    "slug": "buspar",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Buspar",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Buspar?id=924"
+  },
+  {
+    "name": "Cymbalta",
+    "slug": "cymbalta",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Cymbalta",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Cymbalta?id=924"
+  },
+  {
+    "name": "Desyrel",
+    "slug": "desyrel",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Desyrel",
+    "pricePerPill": 0.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Desyrel?id=924"
+  },
+  {
+    "name": "Effexor XR",
+    "slug": "effexor-xr",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Effexor-XR",
+    "pricePerPill": 0.61,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Effexor-XR?id=924"
+  },
+  {
+    "name": "Emsam",
+    "slug": "emsam",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Emsam",
+    "pricePerPill": 0.97,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Emsam?id=924"
+  },
+  {
+    "name": "Lexapro",
+    "slug": "lexapro",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Lexapro",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Lexapro?id=924"
+  },
+  {
+    "name": "Luvox",
+    "slug": "luvox",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Luvox",
+    "pricePerPill": 1.01,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Luvox?id=924"
+  },
+  {
+    "name": "Pamelor",
+    "slug": "pamelor",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Pamelor",
+    "pricePerPill": 0.52,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Pamelor?id=924"
+  },
+  {
+    "name": "Serpina",
+    "slug": "serpina",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Serpina",
+    "pricePerPill": 25.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Serpina?id=924"
+  },
+  {
+    "name": "Sinequan",
+    "slug": "sinequan",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Sinequan",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Sinequan?id=924"
+  },
+  {
+    "name": "Tofranil",
+    "slug": "tofranil",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Tofranil",
+    "pricePerPill": 0.5,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Tofranil?id=924"
+  },
+  {
+    "name": "Venlor",
+    "slug": "venlor",
+    "category": "Anxiety",
+    "path": "/categories/Anxiety/Venlor",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Anxiety/Venlor?id=924"
+  },
+  {
+    "name": "Arcoxia",
+    "slug": "arcoxia",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Arcoxia",
+    "pricePerPill": 0.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Arcoxia?id=924"
+  },
+  {
+    "name": "Celebrex",
+    "slug": "celebrex",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Celebrex",
+    "pricePerPill": 0.53,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Celebrex?id=924"
+  },
+  {
+    "name": "Colchicine",
+    "slug": "colchicine",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Colchicine",
+    "pricePerPill": 0.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Colchicine?id=924"
+  },
+  {
+    "name": "Diclofenac",
+    "slug": "diclofenac",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Diclofenac",
+    "pricePerPill": 0.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Diclofenac?id=924"
+  },
+  {
+    "name": "Diclofenac Gel",
+    "slug": "diclofenac-gel",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Diclofenac-Gel",
+    "pricePerPill": 6.94,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Diclofenac-Gel?id=924"
+  },
+  {
+    "name": "Etodolac",
+    "slug": "etodolac",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Etodolac",
+    "pricePerPill": 0.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Etodolac?id=924"
+  },
+  {
+    "name": "Feldene",
+    "slug": "feldene",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Feldene",
+    "pricePerPill": 0.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Feldene?id=924"
+  },
+  {
+    "name": "Indocin",
+    "slug": "indocin",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Indocin",
+    "pricePerPill": 0.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Indocin?id=924"
+  },
+  {
+    "name": "Medrol",
+    "slug": "medrol",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Medrol",
+    "pricePerPill": 0.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Medrol?id=924"
+  },
+  {
+    "name": "Motrin",
+    "slug": "motrin",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Motrin",
+    "pricePerPill": 0.78,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Motrin?id=924"
+  },
+  {
+    "name": "Naprosyn",
+    "slug": "naprosyn",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Naprosyn",
+    "pricePerPill": 0.71,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Naprosyn?id=924"
+  },
+  {
+    "name": "Plaquenil",
+    "slug": "plaquenil",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Plaquenil",
+    "pricePerPill": 2.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Plaquenil?id=924"
+  },
+  {
+    "name": "Shuddha Guggulu",
+    "slug": "shuddha-guggulu",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Shuddha-Guggulu",
+    "pricePerPill": 30.71,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Shuddha-Guggulu?id=924"
+  },
+  {
+    "name": "Voltaren",
+    "slug": "voltaren",
+    "category": "Arthritis",
+    "path": "/categories/Arthritis/Voltaren",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Arthritis/Voltaren?id=924"
+  },
+  {
+    "name": "Advair Diskus",
+    "slug": "advair-diskus",
+    "category": "Asthma",
+    "path": "/categories/Asthma/Advair-Diskus",
+    "pricePerPill": 62.49,
+    "affiliateUrl": "http://pharm-store.com/categories/Asthma/Advair-Diskus?id=924"
+  },
+  {
+    "name": "Astralean",
+    "slug": "astralean",
+    "category": "Asthma",
+    "path": "/categories/Asthma/Astralean",
+    "pricePerPill": 2.04,
+    "affiliateUrl": "http://pharm-store.com/categories/Asthma/Astralean?id=924"
+  },
+  {
+    "name": "Proventil",
+    "slug": "proventil",
+    "category": "Asthma",
+    "path": "/categories/Asthma/Proventil",
+    "pricePerPill": 23.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Asthma/Proventil?id=924"
+  },
+  {
+    "name": "Singulair",
+    "slug": "singulair",
+    "category": "Asthma",
+    "path": "/categories/Asthma/Singulair",
+    "pricePerPill": 0.97,
+    "affiliateUrl": "http://pharm-store.com/categories/Asthma/Singulair?id=924"
+  },
+  {
+    "name": "Ventolin",
+    "slug": "ventolin",
+    "category": "Asthma",
+    "path": "/categories/Asthma/Ventolin",
+    "pricePerPill": 21.85,
+    "affiliateUrl": "http://pharm-store.com/categories/Asthma/Ventolin?id=924"
+  },
+  {
+    "name": "Alesse",
+    "slug": "alesse",
+    "category": "Birth Control",
+    "path": "/categories/Birth-Control/Alesse",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Birth-Control/Alesse?id=924"
+  },
+  {
+    "name": "Levlen",
+    "slug": "levlen",
+    "category": "Birth Control",
+    "path": "/categories/Birth-Control/Levlen",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Birth-Control/Levlen?id=924"
+  },
+  {
+    "name": "Mircette",
+    "slug": "mircette",
+    "category": "Birth Control",
+    "path": "/categories/Birth-Control/Mircette",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Birth-Control/Mircette?id=924"
+  },
+  {
+    "name": "Yasmin",
+    "slug": "yasmin",
+    "category": "Birth Control",
+    "path": "/categories/Birth-Control/Yasmin",
+    "pricePerPill": 1.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Birth-Control/Yasmin?id=924"
+  },
+  {
+    "name": "Aceon",
+    "slug": "aceon",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Aceon",
+    "pricePerPill": 1.09,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Aceon?id=924"
+  },
+  {
+    "name": "Aldactone",
+    "slug": "aldactone",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Aldactone",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Aldactone?id=924"
+  },
+  {
+    "name": "Altace",
+    "slug": "altace",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Altace",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Altace?id=924"
+  },
+  {
+    "name": "Avalide",
+    "slug": "avalide",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Avalide",
+    "pricePerPill": 1.25,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Avalide?id=924"
+  },
+  {
+    "name": "Avapro",
+    "slug": "avapro",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Avapro",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Avapro?id=924"
+  },
+  {
+    "name": "Benicar",
+    "slug": "benicar",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Benicar",
+    "pricePerPill": 0.45,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Benicar?id=924"
+  },
+  {
+    "name": "Betapace",
+    "slug": "betapace",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Betapace",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Betapace?id=924"
+  },
+  {
+    "name": "Bystolic",
+    "slug": "bystolic",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Bystolic",
+    "pricePerPill": 0.75,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Bystolic?id=924"
+  },
+  {
+    "name": "Calan",
+    "slug": "calan",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Calan",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Calan?id=924"
+  },
+  {
+    "name": "Cardizem",
+    "slug": "cardizem",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Cardizem",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Cardizem?id=924"
+  },
+  {
+    "name": "Cardura",
+    "slug": "cardura",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Cardura",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Cardura?id=924"
+  },
+  {
+    "name": "Clonidine",
+    "slug": "clonidine",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Clonidine",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Clonidine?id=924"
+  },
+  {
+    "name": "Coreg",
+    "slug": "coreg",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Coreg",
+    "pricePerPill": 1.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Coreg?id=924"
+  },
+  {
+    "name": "Coumadin",
+    "slug": "coumadin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Coumadin",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Coumadin?id=924"
+  },
+  {
+    "name": "Cozaar",
+    "slug": "cozaar",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Cozaar",
+    "pricePerPill": 0.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Cozaar?id=924"
+  },
+  {
+    "name": "Digoxin",
+    "slug": "digoxin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Digoxin",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Digoxin?id=924"
+  },
+  {
+    "name": "Diovan",
+    "slug": "diovan",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Diovan",
+    "pricePerPill": 0.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Diovan?id=924"
+  },
+  {
+    "name": "Dipyridamole",
+    "slug": "dipyridamole",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Dipyridamole",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Dipyridamole?id=924"
+  },
+  {
+    "name": "Doxazosin",
+    "slug": "doxazosin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Doxazosin",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Doxazosin?id=924"
+  },
+  {
+    "name": "Furosemide",
+    "slug": "furosemide",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Furosemide",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Furosemide?id=924"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "slug": "hydrochlorothiazide",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Hydrochlorothiazide",
+    "pricePerPill": 0.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Hydrochlorothiazide?id=924"
+  },
+  {
+    "name": "Hytrin",
+    "slug": "hytrin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Hytrin",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Hytrin?id=924"
+  },
+  {
+    "name": "Hyzaar",
+    "slug": "hyzaar",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Hyzaar",
+    "pricePerPill": 0.52,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Hyzaar?id=924"
+  },
+  {
+    "name": "Inderal",
+    "slug": "inderal",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Inderal",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Inderal?id=924"
+  },
+  {
+    "name": "Innopran XL",
+    "slug": "innopran-xl",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Innopran-XL",
+    "pricePerPill": 0.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Innopran-XL?id=924"
+  },
+  {
+    "name": "Isoptin",
+    "slug": "isoptin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Isoptin",
+    "pricePerPill": 0.39,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Isoptin?id=924"
+  },
+  {
+    "name": "Lanoxin",
+    "slug": "lanoxin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Lanoxin",
+    "pricePerPill": 0.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Lanoxin?id=924"
+  },
+  {
+    "name": "Lisinopril",
+    "slug": "lisinopril",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Lisinopril",
+    "pricePerPill": 0.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Lisinopril?id=924"
+  },
+  {
+    "name": "Lopressor",
+    "slug": "lopressor",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Lopressor",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Lopressor?id=924"
+  },
+  {
+    "name": "Lozol",
+    "slug": "lozol",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Lozol",
+    "pricePerPill": 0.66,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Lozol?id=924"
+  },
+  {
+    "name": "Micardis",
+    "slug": "micardis",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Micardis",
+    "pricePerPill": 1,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Micardis?id=924"
+  },
+  {
+    "name": "Midamor",
+    "slug": "midamor",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Midamor",
+    "pricePerPill": 0.39,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Midamor?id=924"
+  },
+  {
+    "name": "Moduretic",
+    "slug": "moduretic",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Moduretic",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Moduretic?id=924"
+  },
+  {
+    "name": "Nitroglycerin",
+    "slug": "nitroglycerin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Nitroglycerin",
+    "pricePerPill": 0.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Nitroglycerin?id=924"
+  },
+  {
+    "name": "Norvasc",
+    "slug": "norvasc",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Norvasc",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Norvasc?id=924"
+  },
+  {
+    "name": "Plavix",
+    "slug": "plavix",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Plavix",
+    "pricePerPill": 0.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Plavix?id=924"
+  },
+  {
+    "name": "Plendil",
+    "slug": "plendil",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Plendil",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Plendil?id=924"
+  },
+  {
+    "name": "Prazosin",
+    "slug": "prazosin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Prazosin",
+    "pricePerPill": 0.96,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Prazosin?id=924"
+  },
+  {
+    "name": "Prinivil",
+    "slug": "prinivil",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Prinivil",
+    "pricePerPill": 0.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Prinivil?id=924"
+  },
+  {
+    "name": "Tenormin",
+    "slug": "tenormin",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Tenormin",
+    "pricePerPill": 0.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Tenormin?id=924"
+  },
+  {
+    "name": "Toprol XL",
+    "slug": "toprol-xl",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Toprol-XL",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Toprol-XL?id=924"
+  },
+  {
+    "name": "Torsemide",
+    "slug": "torsemide",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Torsemide",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Torsemide?id=924"
+  },
+  {
+    "name": "Trandate",
+    "slug": "trandate",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Trandate",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Trandate?id=924"
+  },
+  {
+    "name": "Vasodilan",
+    "slug": "vasodilan",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Vasodilan",
+    "pricePerPill": 0.5,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Vasodilan?id=924"
+  },
+  {
+    "name": "Vasotec",
+    "slug": "vasotec",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Vasotec",
+    "pricePerPill": 0.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Vasotec?id=924"
+  },
+  {
+    "name": "Zebeta",
+    "slug": "zebeta",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Zebeta",
+    "pricePerPill": 0.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Zebeta?id=924"
+  },
+  {
+    "name": "Zestoretic",
+    "slug": "zestoretic",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Zestoretic",
+    "pricePerPill": 0.92,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Zestoretic?id=924"
+  },
+  {
+    "name": "Zestril",
+    "slug": "zestril",
+    "category": "Blood Pressure",
+    "path": "/categories/Blood-Pressure/Zestril",
+    "pricePerPill": 0.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Blood-Pressure/Zestril?id=924"
+  },
+  {
+    "name": "Abana",
+    "slug": "abana",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Abana",
+    "pricePerPill": 28.06,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Abana?id=924"
+  },
+  {
+    "name": "Atorlip-10",
+    "slug": "atorlip-10",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Atorlip-10",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Atorlip-10?id=924"
+  },
+  {
+    "name": "Atorlip-20",
+    "slug": "atorlip-20",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Atorlip-20",
+    "pricePerPill": 2.03,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Atorlip-20?id=924"
+  },
+  {
+    "name": "Atorlip-5",
+    "slug": "atorlip-5",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Atorlip-5",
+    "pricePerPill": 0.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Atorlip-5?id=924"
+  },
+  {
+    "name": "Crestor",
+    "slug": "crestor",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Crestor",
+    "pricePerPill": 0.63,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Crestor?id=924"
+  },
+  {
+    "name": "Lipitor",
+    "slug": "lipitor",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Lipitor",
+    "pricePerPill": 0.21,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Lipitor?id=924"
+  },
+  {
+    "name": "Lopid",
+    "slug": "lopid",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Lopid",
+    "pricePerPill": 1.19,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Lopid?id=924"
+  },
+  {
+    "name": "Rosuvastatin",
+    "slug": "rosuvastatin",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Rosuvastatin",
+    "pricePerPill": 1.46,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Rosuvastatin?id=924"
+  },
+  {
+    "name": "Tricor",
+    "slug": "tricor",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Tricor",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Tricor?id=924"
+  },
+  {
+    "name": "Vytorin",
+    "slug": "vytorin",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Vytorin",
+    "pricePerPill": 0.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Vytorin?id=924"
+  },
+  {
+    "name": "Zetia",
+    "slug": "zetia",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Zetia",
+    "pricePerPill": 1.11,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Zetia?id=924"
+  },
+  {
+    "name": "Zocor",
+    "slug": "zocor",
+    "category": "Cholesterol Lowering",
+    "path": "/categories/Cholesterol-Lowering/Zocor",
+    "pricePerPill": 0.67,
+    "affiliateUrl": "http://pharm-store.com/categories/Cholesterol-Lowering/Zocor?id=924"
+  },
+  {
+    "name": "Abilify",
+    "slug": "abilify",
+    "category": "Depression",
+    "path": "/categories/Depression/Abilify",
+    "pricePerPill": 0.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Abilify?id=924"
+  },
+  {
+    "name": "Amitriptyline",
+    "slug": "amitriptyline",
+    "category": "Depression",
+    "path": "/categories/Depression/Amitriptyline",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Amitriptyline?id=924"
+  },
+  {
+    "name": "Anafranil",
+    "slug": "anafranil",
+    "category": "Depression",
+    "path": "/categories/Depression/Anafranil",
+    "pricePerPill": 0.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Anafranil?id=924"
+  },
+  {
+    "name": "Bupron SR",
+    "slug": "bupron-sr",
+    "category": "Depression",
+    "path": "/categories/Depression/Bupron-SR",
+    "pricePerPill": 1.49,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Bupron-SR?id=924"
+  },
+  {
+    "name": "Bupropion",
+    "slug": "bupropion",
+    "category": "Depression",
+    "path": "/categories/Depression/Bupropion",
+    "pricePerPill": 0.83,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Bupropion?id=924"
+  },
+  {
+    "name": "Celexa",
+    "slug": "celexa",
+    "category": "Depression",
+    "path": "/categories/Depression/Celexa",
+    "pricePerPill": 0.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Celexa?id=924"
+  },
+  {
+    "name": "Citalopram",
+    "slug": "citalopram",
+    "category": "Depression",
+    "path": "/categories/Depression/Citalopram",
+    "pricePerPill": 0.54,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Citalopram?id=924"
+  },
+  {
+    "name": "Clozaril",
+    "slug": "clozaril",
+    "category": "Depression",
+    "path": "/categories/Depression/Clozaril",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Clozaril?id=924"
+  },
+  {
+    "name": "Elavil",
+    "slug": "elavil",
+    "category": "Depression",
+    "path": "/categories/Depression/Elavil",
+    "pricePerPill": 0.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Elavil?id=924"
+  },
+  {
+    "name": "Endep",
+    "slug": "endep",
+    "category": "Depression",
+    "path": "/categories/Depression/Endep",
+    "pricePerPill": 0.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Endep?id=924"
+  },
+  {
+    "name": "Isoniazid",
+    "slug": "isoniazid",
+    "category": "Depression",
+    "path": "/categories/Depression/Isoniazid",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Isoniazid?id=924"
+  },
+  {
+    "name": "Lithium",
+    "slug": "lithium",
+    "category": "Depression",
+    "path": "/categories/Depression/Lithium",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Lithium?id=924"
+  },
+  {
+    "name": "Paroxetine",
+    "slug": "paroxetine",
+    "category": "Depression",
+    "path": "/categories/Depression/Paroxetine",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Paroxetine?id=924"
+  },
+  {
+    "name": "Paxil",
+    "slug": "paxil",
+    "category": "Depression",
+    "path": "/categories/Depression/Paxil",
+    "pricePerPill": 0.6,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Paxil?id=924"
+  },
+  {
+    "name": "Pristiq",
+    "slug": "pristiq",
+    "category": "Depression",
+    "path": "/categories/Depression/Pristiq",
+    "pricePerPill": 1.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Pristiq?id=924"
+  },
+  {
+    "name": "Remeron",
+    "slug": "remeron",
+    "category": "Depression",
+    "path": "/categories/Depression/Remeron",
+    "pricePerPill": 0.89,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Remeron?id=924"
+  },
+  {
+    "name": "Trazodone",
+    "slug": "trazodone",
+    "category": "Depression",
+    "path": "/categories/Depression/Trazodone",
+    "pricePerPill": 0.71,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Trazodone?id=924"
+  },
+  {
+    "name": "Wellbutrin",
+    "slug": "wellbutrin",
+    "category": "Depression",
+    "path": "/categories/Depression/Wellbutrin",
+    "pricePerPill": 1.76,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Wellbutrin?id=924"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "slug": "wellbutrin-sr",
+    "category": "Depression",
+    "path": "/categories/Depression/Wellbutrin-SR",
+    "pricePerPill": 0.84,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Wellbutrin-SR?id=924"
+  },
+  {
+    "name": "Zyban",
+    "slug": "zyban",
+    "category": "Depression",
+    "path": "/categories/Depression/Zyban",
+    "pricePerPill": 0.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Depression/Zyban?id=924"
+  },
+  {
+    "name": "Actoplus Met",
+    "slug": "actoplus-met",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Actoplus-Met",
+    "pricePerPill": 0.96,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Actoplus-Met?id=924"
+  },
+  {
+    "name": "Actos",
+    "slug": "actos",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Actos",
+    "pricePerPill": 0.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Actos?id=924"
+  },
+  {
+    "name": "Amaryl",
+    "slug": "amaryl",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Amaryl",
+    "pricePerPill": 0.48,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Amaryl?id=924"
+  },
+  {
+    "name": "Diabecon",
+    "slug": "diabecon",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Diabecon",
+    "pricePerPill": 36.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Diabecon?id=924"
+  },
+  {
+    "name": "Duetact",
+    "slug": "duetact",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Duetact",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Duetact?id=924"
+  },
+  {
+    "name": "Forxiga",
+    "slug": "forxiga",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Forxiga",
+    "pricePerPill": 3.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Forxiga?id=924"
+  },
+  {
+    "name": "Glucophage",
+    "slug": "glucophage",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Glucophage",
+    "pricePerPill": 0.17,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Glucophage?id=924"
+  },
+  {
+    "name": "Glucotrol XL",
+    "slug": "glucotrol-xl",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Glucotrol-XL",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Glucotrol-XL?id=924"
+  },
+  {
+    "name": "Glycomet",
+    "slug": "glycomet",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Glycomet",
+    "pricePerPill": 0.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Glycomet?id=924"
+  },
+  {
+    "name": "Glyset",
+    "slug": "glyset",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Glyset",
+    "pricePerPill": 1.75,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Glyset?id=924"
+  },
+  {
+    "name": "Januvia",
+    "slug": "januvia",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Januvia",
+    "pricePerPill": 4.49,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Januvia?id=924"
+  },
+  {
+    "name": "Micronase",
+    "slug": "micronase",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Micronase",
+    "pricePerPill": 0.26,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Micronase?id=924"
+  },
+  {
+    "name": "Prandin",
+    "slug": "prandin",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Prandin",
+    "pricePerPill": 0.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Prandin?id=924"
+  },
+  {
+    "name": "Precose",
+    "slug": "precose",
+    "category": "Diabetes",
+    "path": "/categories/Diabetes/Precose",
+    "pricePerPill": 0.53,
+    "affiliateUrl": "http://pharm-store.com/categories/Diabetes/Precose?id=924"
+  },
+  {
+    "name": "Aciphex",
+    "slug": "aciphex",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Aciphex",
+    "pricePerPill": 0.56,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Aciphex?id=924"
+  },
+  {
+    "name": "Allopurinol",
+    "slug": "allopurinol",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Allopurinol",
+    "pricePerPill": 0.67,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Allopurinol?id=924"
+  },
+  {
+    "name": "Bentyl",
+    "slug": "bentyl",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Bentyl",
+    "pricePerPill": 0.48,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Bentyl?id=924"
+  },
+  {
+    "name": "Diarex",
+    "slug": "diarex",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Diarex",
+    "pricePerPill": 24.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Diarex?id=924"
+  },
+  {
+    "name": "Ditropan",
+    "slug": "ditropan",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Ditropan",
+    "pricePerPill": 2.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Ditropan?id=924"
+  },
+  {
+    "name": "Florinef",
+    "slug": "florinef",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Florinef",
+    "pricePerPill": 1.03,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Florinef?id=924"
+  },
+  {
+    "name": "Gasex",
+    "slug": "gasex",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Gasex",
+    "pricePerPill": 25.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Gasex?id=924"
+  },
+  {
+    "name": "Metoclopramide",
+    "slug": "metoclopramide",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Metoclopramide",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Metoclopramide?id=924"
+  },
+  {
+    "name": "Motilium",
+    "slug": "motilium",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Motilium",
+    "pricePerPill": 0.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Motilium?id=924"
+  },
+  {
+    "name": "Nexium",
+    "slug": "nexium",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Nexium",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Nexium?id=924"
+  },
+  {
+    "name": "Pariet",
+    "slug": "pariet",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Pariet",
+    "pricePerPill": 0.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Pariet?id=924"
+  },
+  {
+    "name": "Prevacid",
+    "slug": "prevacid",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Prevacid",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Prevacid?id=924"
+  },
+  {
+    "name": "Prilosec",
+    "slug": "prilosec",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Prilosec",
+    "pricePerPill": 0.49,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Prilosec?id=924"
+  },
+  {
+    "name": "Protonix",
+    "slug": "protonix",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Protonix",
+    "pricePerPill": 0.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Protonix?id=924"
+  },
+  {
+    "name": "Pyridium",
+    "slug": "pyridium",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Pyridium",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Pyridium?id=924"
+  },
+  {
+    "name": "Ranitidine",
+    "slug": "ranitidine",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Ranitidine",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Ranitidine?id=924"
+  },
+  {
+    "name": "Reglan",
+    "slug": "reglan",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Reglan",
+    "pricePerPill": 0.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Reglan?id=924"
+  },
+  {
+    "name": "Renagel",
+    "slug": "renagel",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Renagel",
+    "pricePerPill": 3,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Renagel?id=924"
+  },
+  {
+    "name": "Zantac",
+    "slug": "zantac",
+    "category": "Gastrointestinal",
+    "path": "/categories/Gastrointestinal/Zantac",
+    "pricePerPill": 0.15,
+    "affiliateUrl": "http://pharm-store.com/categories/Gastrointestinal/Zantac?id=924"
+  },
+  {
+    "name": "Dutas",
+    "slug": "dutas",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Dutas",
+    "pricePerPill": 1.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Dutas?id=924"
+  },
+  {
+    "name": "Finast",
+    "slug": "finast",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Finast",
+    "pricePerPill": 2.02,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Finast?id=924"
+  },
+  {
+    "name": "Finpecia",
+    "slug": "finpecia",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Finpecia",
+    "pricePerPill": 0.5,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Finpecia?id=924"
+  },
+  {
+    "name": "Proscar",
+    "slug": "proscar",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Proscar",
+    "pricePerPill": 1.04,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Proscar?id=924"
+  },
+  {
+    "name": "Rogaine 2",
+    "slug": "rogaine-2",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Rogaine-2",
+    "pricePerPill": 26.47,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Rogaine-2?id=924"
+  },
+  {
+    "name": "Rogaine 5",
+    "slug": "rogaine-5",
+    "category": "Hair Loss",
+    "path": "/categories/Hair-Loss/Rogaine-5",
+    "pricePerPill": 38,
+    "affiliateUrl": "http://pharm-store.com/categories/Hair-Loss/Rogaine-5?id=924"
+  },
+  {
+    "name": "Ayurslim",
+    "slug": "ayurslim",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Ayurslim",
+    "pricePerPill": 34.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Ayurslim?id=924"
+  },
+  {
+    "name": "Brahmi",
+    "slug": "brahmi",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Brahmi",
+    "pricePerPill": 21.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Brahmi?id=924"
+  },
+  {
+    "name": "Confido",
+    "slug": "confido",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Confido",
+    "pricePerPill": 21.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Confido?id=924"
+  },
+  {
+    "name": "Evecare",
+    "slug": "evecare",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Evecare",
+    "pricePerPill": 35.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Evecare?id=924"
+  },
+  {
+    "name": "Geriforte",
+    "slug": "geriforte",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Geriforte",
+    "pricePerPill": 30.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Geriforte?id=924"
+  },
+  {
+    "name": "Geriforte Syrup",
+    "slug": "geriforte-syrup",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Geriforte-Syrup",
+    "pricePerPill": 25.91,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Geriforte-Syrup?id=924"
+  },
+  {
+    "name": "Himplasia",
+    "slug": "himplasia",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Himplasia",
+    "pricePerPill": 22.14,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Himplasia?id=924"
+  },
+  {
+    "name": "Hoodia",
+    "slug": "hoodia",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Hoodia",
+    "pricePerPill": 1.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Hoodia?id=924"
+  },
+  {
+    "name": "Liv 52",
+    "slug": "liv-52",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Liv-52",
+    "pricePerPill": 24.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Liv-52?id=924"
+  },
+  {
+    "name": "Mentat",
+    "slug": "mentat",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Mentat",
+    "pricePerPill": 24.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Mentat?id=924"
+  },
+  {
+    "name": "Mentat DS syrup",
+    "slug": "mentat-ds-syrup",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Mentat-DS-syrup",
+    "pricePerPill": 35.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Mentat-DS-syrup?id=924"
+  },
+  {
+    "name": "NPXL",
+    "slug": "npxl",
+    "category": "Herbals",
+    "path": "/categories/Herbals/NPXL",
+    "pricePerPill": 24.18,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/NPXL?id=924"
+  },
+  {
+    "name": "Picrolax",
+    "slug": "picrolax",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Picrolax",
+    "pricePerPill": 20.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Picrolax?id=924"
+  },
+  {
+    "name": "Pilex",
+    "slug": "pilex",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Pilex",
+    "pricePerPill": 31.1,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Pilex?id=924"
+  },
+  {
+    "name": "Renalka",
+    "slug": "renalka",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Renalka",
+    "pricePerPill": 25.1,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Renalka?id=924"
+  },
+  {
+    "name": "Rumalaya",
+    "slug": "rumalaya",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Rumalaya",
+    "pricePerPill": 21.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Rumalaya?id=924"
+  },
+  {
+    "name": "Rumalaya forte",
+    "slug": "rumalaya-forte",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Rumalaya-forte",
+    "pricePerPill": 22.28,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Rumalaya-forte?id=924"
+  },
+  {
+    "name": "Rumalaya gel",
+    "slug": "rumalaya-gel",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Rumalaya-gel",
+    "pricePerPill": 22.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Rumalaya-gel?id=924"
+  },
+  {
+    "name": "Rumalaya liniment",
+    "slug": "rumalaya-liniment",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Rumalaya-liniment",
+    "pricePerPill": 22.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Rumalaya-liniment?id=924"
+  },
+  {
+    "name": "Shallaki",
+    "slug": "shallaki",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Shallaki",
+    "pricePerPill": 21.37,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Shallaki?id=924"
+  },
+  {
+    "name": "Slip Inn",
+    "slug": "slip-inn",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Slip-Inn",
+    "pricePerPill": 1.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Slip-Inn?id=924"
+  },
+  {
+    "name": "Speman",
+    "slug": "speman",
+    "category": "Herbals",
+    "path": "/categories/Herbals/Speman",
+    "pricePerPill": 21.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/Speman?id=924"
+  },
+  {
+    "name": "V-gel",
+    "slug": "v-gel",
+    "category": "Herbals",
+    "path": "/categories/Herbals/V-gel",
+    "pricePerPill": 23.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Herbals/V-gel?id=924"
+  },
+  {
+    "name": "Avodart",
+    "slug": "avodart",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Avodart",
+    "pricePerPill": 0.67,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Avodart?id=924"
+  },
+  {
+    "name": "Eulexin",
+    "slug": "eulexin",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Eulexin",
+    "pricePerPill": 1.38,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Eulexin?id=924"
+  },
+  {
+    "name": "Finax",
+    "slug": "finax",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Finax",
+    "pricePerPill": 0.89,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Finax?id=924"
+  },
+  {
+    "name": "Fincar",
+    "slug": "fincar",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Fincar",
+    "pricePerPill": 1.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Fincar?id=924"
+  },
+  {
+    "name": "Flomax",
+    "slug": "flomax",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Flomax",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Flomax?id=924"
+  },
+  {
+    "name": "Kamagra Chewable",
+    "slug": "kamagra-chewable",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Kamagra-Chewable",
+    "pricePerPill": 3.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Kamagra-Chewable?id=924"
+  },
+  {
+    "name": "Kamagra Gold",
+    "slug": "kamagra-gold",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Kamagra-Gold",
+    "pricePerPill": 2.24,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Kamagra-Gold?id=924"
+  },
+  {
+    "name": "Kamagra Oral Jelly",
+    "slug": "kamagra-oral-jelly",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Kamagra-Oral-Jelly",
+    "pricePerPill": 3.94,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Kamagra-Oral-Jelly?id=924"
+  },
+  {
+    "name": "Kamagra Soft",
+    "slug": "kamagra-soft",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Kamagra-Soft",
+    "pricePerPill": 4,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Kamagra-Soft?id=924"
+  },
+  {
+    "name": "Levothroid",
+    "slug": "levothroid",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Levothroid",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Levothroid?id=924"
+  },
+  {
+    "name": "Penegra",
+    "slug": "penegra",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Penegra",
+    "pricePerPill": 3.24,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Penegra?id=924"
+  },
+  {
+    "name": "Uroxatral",
+    "slug": "uroxatral",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Uroxatral",
+    "pricePerPill": 1.48,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Uroxatral?id=924"
+  },
+  {
+    "name": "VPXL",
+    "slug": "vpxl",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/VPXL",
+    "pricePerPill": 32.41,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/VPXL?id=924"
+  },
+  {
+    "name": "Vimax",
+    "slug": "vimax",
+    "category": "Men's Health",
+    "path": "/categories/Men's-Health/Vimax",
+    "pricePerPill": 30.15,
+    "affiliateUrl": "http://pharm-store.com/categories/Men's-Health/Vimax?id=924"
+  },
+  {
+    "name": "Baclofen",
+    "slug": "baclofen",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Baclofen",
+    "pricePerPill": 0.61,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Baclofen?id=924"
+  },
+  {
+    "name": "Colospa",
+    "slug": "colospa",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Colospa",
+    "pricePerPill": 0.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Colospa?id=924"
+  },
+  {
+    "name": "Imitrex",
+    "slug": "imitrex",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Imitrex",
+    "pricePerPill": 4.19,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Imitrex?id=924"
+  },
+  {
+    "name": "Imuran",
+    "slug": "imuran",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Imuran",
+    "pricePerPill": 0.85,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Imuran?id=924"
+  },
+  {
+    "name": "Lioresal",
+    "slug": "lioresal",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Lioresal",
+    "pricePerPill": 0.7,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Lioresal?id=924"
+  },
+  {
+    "name": "Mestinon",
+    "slug": "mestinon",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Mestinon",
+    "pricePerPill": 1.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Mestinon?id=924"
+  },
+  {
+    "name": "Nimotop",
+    "slug": "nimotop",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Nimotop",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Nimotop?id=924"
+  },
+  {
+    "name": "Pletal",
+    "slug": "pletal",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Pletal",
+    "pricePerPill": 0.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Pletal?id=924"
+  },
+  {
+    "name": "Ponstel",
+    "slug": "ponstel",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Ponstel",
+    "pricePerPill": 0.32,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Ponstel?id=924"
+  },
+  {
+    "name": "Robaxin",
+    "slug": "robaxin",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Robaxin",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Robaxin?id=924"
+  },
+  {
+    "name": "Skelaxin",
+    "slug": "skelaxin",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Skelaxin",
+    "pricePerPill": 1.56,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Skelaxin?id=924"
+  },
+  {
+    "name": "Tegretol",
+    "slug": "tegretol",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Tegretol",
+    "pricePerPill": 0.5,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Tegretol?id=924"
+  },
+  {
+    "name": "Tizanidine",
+    "slug": "tizanidine",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Tizanidine",
+    "pricePerPill": 2.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Tizanidine?id=924"
+  },
+  {
+    "name": "Urispas",
+    "slug": "urispas",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Urispas",
+    "pricePerPill": 1.08,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Urispas?id=924"
+  },
+  {
+    "name": "Voveran",
+    "slug": "voveran",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Voveran",
+    "pricePerPill": 0.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Voveran?id=924"
+  },
+  {
+    "name": "Voveran sr",
+    "slug": "voveran-sr",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Voveran-sr",
+    "pricePerPill": 0.17,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Voveran-sr?id=924"
+  },
+  {
+    "name": "Zanaflex",
+    "slug": "zanaflex",
+    "category": "Muscle Relaxant",
+    "path": "/categories/Muscle-Relaxant/Zanaflex",
+    "pricePerPill": 0.8,
+    "affiliateUrl": "http://pharm-store.com/categories/Muscle-Relaxant/Zanaflex?id=924"
+  },
+  {
+    "name": "Actonel",
+    "slug": "actonel",
+    "category": "Other",
+    "path": "/categories/Other/Actonel",
+    "pricePerPill": 5.81,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Actonel?id=924"
+  },
+  {
+    "name": "Albenza",
+    "slug": "albenza",
+    "category": "Other",
+    "path": "/categories/Other/Albenza",
+    "pricePerPill": 0.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Albenza?id=924"
+  },
+  {
+    "name": "Antivert",
+    "slug": "antivert",
+    "category": "Other",
+    "path": "/categories/Other/Antivert",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Antivert?id=924"
+  },
+  {
+    "name": "Arava",
+    "slug": "arava",
+    "category": "Other",
+    "path": "/categories/Other/Arava",
+    "pricePerPill": 1.24,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Arava?id=924"
+  },
+  {
+    "name": "Aricept",
+    "slug": "aricept",
+    "category": "Other",
+    "path": "/categories/Other/Aricept",
+    "pricePerPill": 0.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Aricept?id=924"
+  },
+  {
+    "name": "Asacol",
+    "slug": "asacol",
+    "category": "Other",
+    "path": "/categories/Other/Asacol",
+    "pricePerPill": 0.98,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Asacol?id=924"
+  },
+  {
+    "name": "Betoptic",
+    "slug": "betoptic",
+    "category": "Other",
+    "path": "/categories/Other/Betoptic",
+    "pricePerPill": 10.36,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Betoptic?id=924"
+  },
+  {
+    "name": "Chloroquine",
+    "slug": "chloroquine",
+    "category": "Other",
+    "path": "/categories/Other/Chloroquine",
+    "pricePerPill": 1.13,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Chloroquine?id=924"
+  },
+  {
+    "name": "Clexane",
+    "slug": "clexane",
+    "category": "Other",
+    "path": "/categories/Other/Clexane",
+    "pricePerPill": 128.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Clexane?id=924"
+  },
+  {
+    "name": "Combivent",
+    "slug": "combivent",
+    "category": "Other",
+    "path": "/categories/Other/Combivent",
+    "pricePerPill": 38.17,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Combivent?id=924"
+  },
+  {
+    "name": "Compazine",
+    "slug": "compazine",
+    "category": "Other",
+    "path": "/categories/Other/Compazine",
+    "pricePerPill": 0.33,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Compazine?id=924"
+  },
+  {
+    "name": "Copegus",
+    "slug": "copegus",
+    "category": "Other",
+    "path": "/categories/Other/Copegus",
+    "pricePerPill": 3.76,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Copegus?id=924"
+  },
+  {
+    "name": "Cyklokapron",
+    "slug": "cyklokapron",
+    "category": "Other",
+    "path": "/categories/Other/Cyklokapron",
+    "pricePerPill": 2.07,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Cyklokapron?id=924"
+  },
+  {
+    "name": "Cytoxan",
+    "slug": "cytoxan",
+    "category": "Other",
+    "path": "/categories/Other/Cytoxan",
+    "pricePerPill": 1.18,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Cytoxan?id=924"
+  },
+  {
+    "name": "Depakote",
+    "slug": "depakote",
+    "category": "Other",
+    "path": "/categories/Other/Depakote",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Depakote?id=924"
+  },
+  {
+    "name": "Detrol",
+    "slug": "detrol",
+    "category": "Other",
+    "path": "/categories/Other/Detrol",
+    "pricePerPill": 0.99,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Detrol?id=924"
+  },
+  {
+    "name": "Dilantin",
+    "slug": "dilantin",
+    "category": "Other",
+    "path": "/categories/Other/Dilantin",
+    "pricePerPill": 0.48,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Dilantin?id=924"
+  },
+  {
+    "name": "Diltiazem",
+    "slug": "diltiazem",
+    "category": "Other",
+    "path": "/categories/Other/Diltiazem",
+    "pricePerPill": 0.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Diltiazem?id=924"
+  },
+  {
+    "name": "Dramamine",
+    "slug": "dramamine",
+    "category": "Other",
+    "path": "/categories/Other/Dramamine",
+    "pricePerPill": 0.58,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Dramamine?id=924"
+  },
+  {
+    "name": "Dulcolax",
+    "slug": "dulcolax",
+    "category": "Other",
+    "path": "/categories/Other/Dulcolax",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Dulcolax?id=924"
+  },
+  {
+    "name": "Duphalac",
+    "slug": "duphalac",
+    "category": "Other",
+    "path": "/categories/Other/Duphalac",
+    "pricePerPill": 31.54,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Duphalac?id=924"
+  },
+  {
+    "name": "Eldepryl",
+    "slug": "eldepryl",
+    "category": "Other",
+    "path": "/categories/Other/Eldepryl",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Eldepryl?id=924"
+  },
+  {
+    "name": "Epivir-HBV",
+    "slug": "epivir-hbv",
+    "category": "Other",
+    "path": "/categories/Other/Epivir-HBV",
+    "pricePerPill": 0.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Epivir-HBV?id=924"
+  },
+  {
+    "name": "Exelon",
+    "slug": "exelon",
+    "category": "Other",
+    "path": "/categories/Other/Exelon",
+    "pricePerPill": 0.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Exelon?id=924"
+  },
+  {
+    "name": "Haldol",
+    "slug": "haldol",
+    "category": "Other",
+    "path": "/categories/Other/Haldol",
+    "pricePerPill": 1.42,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Haldol?id=924"
+  },
+  {
+    "name": "Hydrea",
+    "slug": "hydrea",
+    "category": "Other",
+    "path": "/categories/Other/Hydrea",
+    "pricePerPill": 1.52,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Hydrea?id=924"
+  },
+  {
+    "name": "Indinavir",
+    "slug": "indinavir",
+    "category": "Other",
+    "path": "/categories/Other/Indinavir",
+    "pricePerPill": 3.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Indinavir?id=924"
+  },
+  {
+    "name": "Kaletra",
+    "slug": "kaletra",
+    "category": "Other",
+    "path": "/categories/Other/Kaletra",
+    "pricePerPill": 4,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Kaletra?id=924"
+  },
+  {
+    "name": "Kemadrin",
+    "slug": "kemadrin",
+    "category": "Other",
+    "path": "/categories/Other/Kemadrin",
+    "pricePerPill": 0.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Kemadrin?id=924"
+  },
+  {
+    "name": "Keppra",
+    "slug": "keppra",
+    "category": "Other",
+    "path": "/categories/Other/Keppra",
+    "pricePerPill": 1.74,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Keppra?id=924"
+  },
+  {
+    "name": "Kytril",
+    "slug": "kytril",
+    "category": "Other",
+    "path": "/categories/Other/Kytril",
+    "pricePerPill": 1.84,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Kytril?id=924"
+  },
+  {
+    "name": "Lamictal",
+    "slug": "lamictal",
+    "category": "Other",
+    "path": "/categories/Other/Lamictal",
+    "pricePerPill": 0.94,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Lamictal?id=924"
+  },
+  {
+    "name": "Meclizine",
+    "slug": "meclizine",
+    "category": "Other",
+    "path": "/categories/Other/Meclizine",
+    "pricePerPill": 0.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Meclizine?id=924"
+  },
+  {
+    "name": "Meldonium",
+    "slug": "meldonium",
+    "category": "Other",
+    "path": "/categories/Other/Meldonium",
+    "pricePerPill": 0.77,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Meldonium?id=924"
+  },
+  {
+    "name": "Methotrexate",
+    "slug": "methotrexate",
+    "category": "Other",
+    "path": "/categories/Other/Methotrexate",
+    "pricePerPill": 1.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Methotrexate?id=924"
+  },
+  {
+    "name": "Naltrexone",
+    "slug": "naltrexone",
+    "category": "Other",
+    "path": "/categories/Other/Naltrexone",
+    "pricePerPill": 6.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Naltrexone?id=924"
+  },
+  {
+    "name": "Neurontin",
+    "slug": "neurontin",
+    "category": "Other",
+    "path": "/categories/Other/Neurontin",
+    "pricePerPill": 0.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Neurontin?id=924"
+  },
+  {
+    "name": "Nootropil",
+    "slug": "nootropil",
+    "category": "Other",
+    "path": "/categories/Other/Nootropil",
+    "pricePerPill": 1.02,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Nootropil?id=924"
+  },
+  {
+    "name": "Olanzapine",
+    "slug": "olanzapine",
+    "category": "Other",
+    "path": "/categories/Other/Olanzapine",
+    "pricePerPill": 0.68,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Olanzapine?id=924"
+  },
+  {
+    "name": "Oxytrol",
+    "slug": "oxytrol",
+    "category": "Other",
+    "path": "/categories/Other/Oxytrol",
+    "pricePerPill": 0.83,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Oxytrol?id=924"
+  },
+  {
+    "name": "Reminyl",
+    "slug": "reminyl",
+    "category": "Other",
+    "path": "/categories/Other/Reminyl",
+    "pricePerPill": 2.97,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Reminyl?id=924"
+  },
+  {
+    "name": "Requip",
+    "slug": "requip",
+    "category": "Other",
+    "path": "/categories/Other/Requip",
+    "pricePerPill": 0.48,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Requip?id=924"
+  },
+  {
+    "name": "Risperdal",
+    "slug": "risperdal",
+    "category": "Other",
+    "path": "/categories/Other/Risperdal",
+    "pricePerPill": 1.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Risperdal?id=924"
+  },
+  {
+    "name": "Rocaltrol",
+    "slug": "rocaltrol",
+    "category": "Other",
+    "path": "/categories/Other/Rocaltrol",
+    "pricePerPill": 1.5,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Rocaltrol?id=924"
+  },
+  {
+    "name": "Seroquel",
+    "slug": "seroquel",
+    "category": "Other",
+    "path": "/categories/Other/Seroquel",
+    "pricePerPill": 0.67,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Seroquel?id=924"
+  },
+  {
+    "name": "Sinemet",
+    "slug": "sinemet",
+    "category": "Other",
+    "path": "/categories/Other/Sinemet",
+    "pricePerPill": 0.84,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Sinemet?id=924"
+  },
+  {
+    "name": "Solian",
+    "slug": "solian",
+    "category": "Other",
+    "path": "/categories/Other/Solian",
+    "pricePerPill": 2.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Solian?id=924"
+  },
+  {
+    "name": "Strattera",
+    "slug": "strattera",
+    "category": "Other",
+    "path": "/categories/Other/Strattera",
+    "pricePerPill": 0.51,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Strattera?id=924"
+  },
+  {
+    "name": "Synthroid",
+    "slug": "synthroid",
+    "category": "Other",
+    "path": "/categories/Other/Synthroid",
+    "pricePerPill": 0.19,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Synthroid?id=924"
+  },
+  {
+    "name": "Topamax",
+    "slug": "topamax",
+    "category": "Other",
+    "path": "/categories/Other/Topamax",
+    "pricePerPill": 1.83,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Topamax?id=924"
+  },
+  {
+    "name": "Trileptal",
+    "slug": "trileptal",
+    "category": "Other",
+    "path": "/categories/Other/Trileptal",
+    "pricePerPill": 0.66,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Trileptal?id=924"
+  },
+  {
+    "name": "Victoza",
+    "slug": "victoza",
+    "category": "Other",
+    "path": "/categories/Other/Victoza",
+    "pricePerPill": 430.84,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Victoza?id=924"
+  },
+  {
+    "name": "Xalatan",
+    "slug": "xalatan",
+    "category": "Other",
+    "path": "/categories/Other/Xalatan",
+    "pricePerPill": 47.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Xalatan?id=924"
+  },
+  {
+    "name": "Zofran",
+    "slug": "zofran",
+    "category": "Other",
+    "path": "/categories/Other/Zofran",
+    "pricePerPill": 0.34,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Zofran?id=924"
+  },
+  {
+    "name": "Zyloprim",
+    "slug": "zyloprim",
+    "category": "Other",
+    "path": "/categories/Other/Zyloprim",
+    "pricePerPill": 0.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Zyloprim?id=924"
+  },
+  {
+    "name": "Zyprexa",
+    "slug": "zyprexa",
+    "category": "Other",
+    "path": "/categories/Other/Zyprexa",
+    "pricePerPill": 0.3,
+    "affiliateUrl": "http://pharm-store.com/categories/Other/Zyprexa?id=924"
+  },
+  {
+    "name": "Aleve",
+    "slug": "aleve",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Aleve",
+    "pricePerPill": 0.73,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Aleve?id=924"
+  },
+  {
+    "name": "Anacin",
+    "slug": "anacin",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Anacin",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Anacin?id=924"
+  },
+  {
+    "name": "Artane",
+    "slug": "artane",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Artane",
+    "pricePerPill": 0.43,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Artane?id=924"
+  },
+  {
+    "name": "Aspirin",
+    "slug": "aspirin",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Aspirin",
+    "pricePerPill": 20.39,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Aspirin?id=924"
+  },
+  {
+    "name": "Azulfidine",
+    "slug": "azulfidine",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Azulfidine",
+    "pricePerPill": 0.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Azulfidine?id=924"
+  },
+  {
+    "name": "Cafergot",
+    "slug": "cafergot",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Cafergot",
+    "pricePerPill": 0.63,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Cafergot?id=924"
+  },
+  {
+    "name": "Maxalt",
+    "slug": "maxalt",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Maxalt",
+    "pricePerPill": 7.05,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Maxalt?id=924"
+  },
+  {
+    "name": "Rizact",
+    "slug": "rizact",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Rizact",
+    "pricePerPill": 5.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Rizact?id=924"
+  },
+  {
+    "name": "Toradol",
+    "slug": "toradol",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Toradol",
+    "pricePerPill": 0.4,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Toradol?id=924"
+  },
+  {
+    "name": "Trental",
+    "slug": "trental",
+    "category": "Pain Relief",
+    "path": "/categories/Pain-Relief/Trental",
+    "pricePerPill": 0.55,
+    "affiliateUrl": "http://pharm-store.com/categories/Pain-Relief/Trental?id=924"
+  },
+  {
+    "name": "Accutane",
+    "slug": "accutane",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Accutane",
+    "pricePerPill": 0.56,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Accutane?id=924"
+  },
+  {
+    "name": "Acticin",
+    "slug": "acticin",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Acticin",
+    "pricePerPill": 10.8,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Acticin?id=924"
+  },
+  {
+    "name": "Aldara",
+    "slug": "aldara",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Aldara",
+    "pricePerPill": 23.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Aldara?id=924"
+  },
+  {
+    "name": "Bactroban",
+    "slug": "bactroban",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Bactroban",
+    "pricePerPill": 32.53,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Bactroban?id=924"
+  },
+  {
+    "name": "Benzac",
+    "slug": "benzac",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Benzac",
+    "pricePerPill": 12.01,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Benzac?id=924"
+  },
+  {
+    "name": "Betnovate",
+    "slug": "betnovate",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Betnovate",
+    "pricePerPill": 5.46,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Betnovate?id=924"
+  },
+  {
+    "name": "Cleocin Gel",
+    "slug": "cleocin-gel",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Cleocin-Gel",
+    "pricePerPill": 17.76,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Cleocin-Gel?id=924"
+  },
+  {
+    "name": "Differin",
+    "slug": "differin",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Differin",
+    "pricePerPill": 13.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Differin?id=924"
+  },
+  {
+    "name": "Elimite",
+    "slug": "elimite",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Elimite",
+    "pricePerPill": 10.78,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Elimite?id=924"
+  },
+  {
+    "name": "Eurax",
+    "slug": "eurax",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Eurax",
+    "pricePerPill": 23.59,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Eurax?id=924"
+  },
+  {
+    "name": "Retin-A 0,025",
+    "slug": "retin-a-0,025",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Retin-A-0,025",
+    "pricePerPill": 11.05,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Retin-A-0,025?id=924"
+  },
+  {
+    "name": "Retin-A 0,05",
+    "slug": "retin-a-0,05",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Retin-A-0,05",
+    "pricePerPill": 11.87,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Retin-A-0,05?id=924"
+  },
+  {
+    "name": "Retin-A Gel 0,1",
+    "slug": "retin-a-gel-0,1",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Retin-A-Gel-0,1",
+    "pricePerPill": 11.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Retin-A-Gel-0,1?id=924"
+  },
+  {
+    "name": "Retino-A Cream 0,025",
+    "slug": "retino-a-cream-0,025",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Retino-A-Cream-0,025",
+    "pricePerPill": 11.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Retino-A-Cream-0,025?id=924"
+  },
+  {
+    "name": "Retino-A Cream 0,05",
+    "slug": "retino-a-cream-0,05",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Retino-A-Cream-0,05",
+    "pricePerPill": 14.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Retino-A-Cream-0,05?id=924"
+  },
+  {
+    "name": "Tretinoin 0,025",
+    "slug": "tretinoin-0,025",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Tretinoin-0,025",
+    "pricePerPill": 8.9,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Tretinoin-0,025?id=924"
+  },
+  {
+    "name": "Tretinoin 0,05",
+    "slug": "tretinoin-0,05",
+    "category": "Skincare",
+    "path": "/categories/Skincare/Tretinoin-0,05",
+    "pricePerPill": 9.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Skincare/Tretinoin-0,05?id=924"
+  },
+  {
+    "name": "Provigil",
+    "slug": "provigil",
+    "category": "Sleep Aid",
+    "path": "/categories/Sleep-Aid/Provigil",
+    "pricePerPill": 0.82,
+    "affiliateUrl": "http://pharm-store.com/categories/Sleep-Aid/Provigil?id=924"
+  },
+  {
+    "name": "Sominex",
+    "slug": "sominex",
+    "category": "Sleep Aid",
+    "path": "/categories/Sleep-Aid/Sominex",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Sleep-Aid/Sominex?id=924"
+  },
+  {
+    "name": "Unisom",
+    "slug": "unisom",
+    "category": "Sleep Aid",
+    "path": "/categories/Sleep-Aid/Unisom",
+    "pricePerPill": 0.65,
+    "affiliateUrl": "http://pharm-store.com/categories/Sleep-Aid/Unisom?id=924"
+  },
+  {
+    "name": "Nicotinell",
+    "slug": "nicotinell",
+    "category": "Quit Smoking",
+    "path": "/categories/Quit-Smoking/Nicotinell",
+    "pricePerPill": 28.09,
+    "affiliateUrl": "http://pharm-store.com/categories/Quit-Smoking/Nicotinell?id=924"
+  },
+  {
+    "name": "Alli",
+    "slug": "alli",
+    "category": "Weight Loss",
+    "path": "/categories/Weight-Loss/Alli",
+    "pricePerPill": 0.89,
+    "affiliateUrl": "http://pharm-store.com/categories/Weight-Loss/Alli?id=924"
+  },
+  {
+    "name": "Orlistat",
+    "slug": "orlistat",
+    "category": "Weight Loss",
+    "path": "/categories/Weight-Loss/Orlistat",
+    "pricePerPill": 1.18,
+    "affiliateUrl": "http://pharm-store.com/categories/Weight-Loss/Orlistat?id=924"
+  },
+  {
+    "name": "Slimex",
+    "slug": "slimex",
+    "category": "Weight Loss",
+    "path": "/categories/Weight-Loss/Slimex",
+    "pricePerPill": 1.61,
+    "affiliateUrl": "http://pharm-store.com/categories/Weight-Loss/Slimex?id=924"
+  },
+  {
+    "name": "Arimidex",
+    "slug": "arimidex",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Arimidex",
+    "pricePerPill": 4.96,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Arimidex?id=924"
+  },
+  {
+    "name": "Aygestin",
+    "slug": "aygestin",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Aygestin",
+    "pricePerPill": 0.81,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Aygestin?id=924"
+  },
+  {
+    "name": "Bimat",
+    "slug": "bimat",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Bimat",
+    "pricePerPill": 33.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Bimat?id=924"
+  },
+  {
+    "name": "Cabgolin",
+    "slug": "cabgolin",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Cabgolin",
+    "pricePerPill": 3.99,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Cabgolin?id=924"
+  },
+  {
+    "name": "Careprost",
+    "slug": "careprost",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Careprost",
+    "pricePerPill": 37.07,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Careprost?id=924"
+  },
+  {
+    "name": "Danazol",
+    "slug": "danazol",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Danazol",
+    "pricePerPill": 1.49,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Danazol?id=924"
+  },
+  {
+    "name": "Dostinex",
+    "slug": "dostinex",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Dostinex",
+    "pricePerPill": 3.27,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Dostinex?id=924"
+  },
+  {
+    "name": "Estrace",
+    "slug": "estrace",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Estrace",
+    "pricePerPill": 0.72,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Estrace?id=924"
+  },
+  {
+    "name": "Evista",
+    "slug": "evista",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Evista",
+    "pricePerPill": 1.01,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Evista?id=924"
+  },
+  {
+    "name": "Female Cialis",
+    "slug": "female-cialis",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Female-Cialis",
+    "pricePerPill": 0.95,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Female-Cialis?id=924"
+  },
+  {
+    "name": "Femara",
+    "slug": "femara",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Femara",
+    "pricePerPill": 1.86,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Femara?id=924"
+  },
+  {
+    "name": "Fertomid",
+    "slug": "fertomid",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Fertomid",
+    "pricePerPill": 1.29,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Fertomid?id=924"
+  },
+  {
+    "name": "Fluoxetine",
+    "slug": "fluoxetine",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Fluoxetine",
+    "pricePerPill": 0.31,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Fluoxetine?id=924"
+  },
+  {
+    "name": "Fosamax",
+    "slug": "fosamax",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Fosamax",
+    "pricePerPill": 0.57,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Fosamax?id=924"
+  },
+  {
+    "name": "Ginette-35",
+    "slug": "ginette-35",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Ginette-35",
+    "pricePerPill": 1.62,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Ginette-35?id=924"
+  },
+  {
+    "name": "Lady era",
+    "slug": "lady-era",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Lady-era",
+    "pricePerPill": 1.12,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Lady-era?id=924"
+  },
+  {
+    "name": "Lumigan",
+    "slug": "lumigan",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Lumigan",
+    "pricePerPill": 49.58,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Lumigan?id=924"
+  },
+  {
+    "name": "Premarin",
+    "slug": "premarin",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Premarin",
+    "pricePerPill": 5.69,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Premarin?id=924"
+  },
+  {
+    "name": "Prometrium",
+    "slug": "prometrium",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Prometrium",
+    "pricePerPill": 1.79,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Prometrium?id=924"
+  },
+  {
+    "name": "Provera",
+    "slug": "provera",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Provera",
+    "pricePerPill": 0.35,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Provera?id=924"
+  },
+  {
+    "name": "Sarafem",
+    "slug": "sarafem",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Sarafem",
+    "pricePerPill": 0.54,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Sarafem?id=924"
+  },
+  {
+    "name": "Serophene",
+    "slug": "serophene",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Serophene",
+    "pricePerPill": 0.44,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Serophene?id=924"
+  },
+  {
+    "name": "Tamoxifen",
+    "slug": "tamoxifen",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Tamoxifen",
+    "pricePerPill": 0.58,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Tamoxifen?id=924"
+  },
+  {
+    "name": "Xeloda",
+    "slug": "xeloda",
+    "category": "Woman's Health",
+    "path": "/categories/Woman's-Health/Xeloda",
+    "pricePerPill": 16.2,
+    "affiliateUrl": "http://pharm-store.com/categories/Woman's-Health/Xeloda?id=924"
+  }
+]

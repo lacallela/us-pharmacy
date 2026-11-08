@@ -1,34 +1,9 @@
 const https = require('https');
+const { neon } = require('@neondatabase/serverless');
 
 const siteUrl = 'https://us-pharmacy.vercel.app';
 const indexNowKey = 'rxmatch2026indexnow';
-
-const urlsToPing = [
-  `${siteUrl}/`,
-  `${siteUrl}/drugs`,
-  `${siteUrl}/quiz`,
-  `${siteUrl}/llms.txt`,
-  `${siteUrl}/feed.xml`,
-  `${siteUrl}/sitemap.xml`,
-  `${siteUrl}/drugs/lipitor`,
-  `${siteUrl}/drugs/atorvastatin`,
-  `${siteUrl}/drugs/zoloft`,
-  `${siteUrl}/drugs/sertraline`,
-  `${siteUrl}/drugs/viagra`,
-  `${siteUrl}/drugs/sildenafil`,
-  `${siteUrl}/drugs/ozempic`,
-  `${siteUrl}/drugs/amoxicillin`,
-  `${siteUrl}/drugs/lisinopril`,
-  `${siteUrl}/drugs/metformin`,
-  `${siteUrl}/drugs/adderall`,
-  `${siteUrl}/drugs/synthroid`,
-  `${siteUrl}/drugs/lexapro`,
-  `${siteUrl}/drugs/omeprazole`,
-  `${siteUrl}/drugs/gabapentin`,
-  `${siteUrl}/drugs/wegovy`,
-  `${siteUrl}/drugs/mounjaro`,
-  `${siteUrl}/drugs/cialis`
-];
+const DATABASE_URL = process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_LVoi1pZ4zUDY@ep-plain-mud-ba01n8lt-pooler.c-8.eu-central-1.aws.neon.tech/neondb?sslmode=require';
 
 function fetchUrl(url, options = {}) {
   return new Promise((resolve, reject) => {
@@ -53,16 +28,38 @@ function fetchUrl(url, options = {}) {
 }
 
 async function run() {
-  console.log('🚀 Starting Fast Indexing Broadcast for RxMatch US...\n');
+  console.log('🚀 Starting Fast Indexing Broadcast for all 101+ medications on RxMatch US...\n');
 
-  // 1. IndexNow API Submission (Bing, Yandex, Seznam, Naver)
-  console.log(`1. Submitting ${urlsToPing.length} URLs to IndexNow API (Bing, Yandex, Microsoft Copilot)...`);
+  const sql = neon(DATABASE_URL);
+  const drugs = await sql`SELECT slug FROM drugs ORDER BY id ASC`;
+  console.log(`Loaded ${drugs.length} drugs from Neon Database.`);
+
+  const staticUrls = [
+    `${siteUrl}/`,
+    `${siteUrl}/drugs`,
+    `${siteUrl}/quiz`,
+    `${siteUrl}/llms.txt`,
+    `${siteUrl}/llms-full.txt`,
+    `${siteUrl}/feed.xml`,
+    `${siteUrl}/sitemap.xml`,
+    `${siteUrl}/compare/lipitor-vs-atorvastatin`,
+    `${siteUrl}/compare/viagra-vs-sildenafil`,
+    `${siteUrl}/compare/cialis-vs-tadalafil`
+  ];
+
+  const drugUrls = drugs.map(d => `${siteUrl}/drugs/${d.slug}`);
+  const allUrls = [...staticUrls, ...drugUrls];
+
+  console.log(`Total URLs to broadcast: ${allUrls.length}`);
+
+  // 1. IndexNow API Submission (Bing, Yandex, Seznam, Naver, Microsoft Copilot)
+  console.log(`\n1. Submitting ${allUrls.length} URLs to IndexNow API...`);
   try {
     const indexNowPayload = JSON.stringify({
       host: 'us-pharmacy.vercel.app',
       key: indexNowKey,
       keyLocation: `${siteUrl}/${indexNowKey}.txt`,
-      urlList: urlsToPing
+      urlList: allUrls
     });
 
     const indexNowRes = await fetchUrl('https://api.indexnow.org/indexnow', {
