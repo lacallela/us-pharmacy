@@ -3,18 +3,46 @@ import path from 'path';
 import fs from 'fs';
 import crypto from 'crypto';
 
-const DB_DIR = path.join(process.cwd(), 'data');
-if (!fs.existsSync(DB_DIR)) {
-  fs.mkdirSync(DB_DIR, { recursive: true });
+function getDatabaseUrl(): string {
+  if (process.env.TURSO_DATABASE_URL) {
+    return process.env.TURSO_DATABASE_URL;
+  }
+
+  // When deployed on Vercel serverless functions, the root filesystem is read-only.
+  // /tmp is the only writable directory, so copy the sqlite db to /tmp if not already there.
+  if (process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME) {
+    const tmpDb = '/tmp/us_rx.db';
+    if (!fs.existsSync(tmpDb)) {
+      const sourceDb = path.join(process.cwd(), 'data', 'us_rx.db');
+      if (fs.existsSync(sourceDb)) {
+        try {
+          fs.copyFileSync(sourceDb, tmpDb);
+          fs.chmodSync(tmpDb, 0o666);
+        } catch (err) {
+          console.error('Failed to copy db to /tmp:', err);
+        }
+      }
+    } else {
+      try {
+        fs.chmodSync(tmpDb, 0o666);
+      } catch {}
+    }
+    return `file:${tmpDb}`;
+  }
+
+  const DB_DIR = path.join(process.cwd(), 'data');
+  if (!fs.existsSync(DB_DIR)) {
+    fs.mkdirSync(DB_DIR, { recursive: true });
+  }
+  return `file:${path.join(DB_DIR, 'us_rx.db').replace(/\\/g, '/')}`;
 }
-const LOCAL_DB_PATH = path.join(DB_DIR, 'us_rx.db').replace(/\\/g, '/');
 
 let _client: Client | null = null;
 let _schemaInitialized = false;
 
 export function getDb(): Client {
   if (!_client) {
-    const url = process.env.TURSO_DATABASE_URL || `file:${LOCAL_DB_PATH}`;
+    const url = getDatabaseUrl();
     const authToken = process.env.TURSO_AUTH_TOKEN;
     _client = createClient({ url, authToken });
   }
@@ -25,10 +53,13 @@ export async function ensureSchema(client: Client) {
   if (_schemaInitialized) return;
 
   try {
-    const tableCheck = await client.execute(`SELECT 1 FROM sqlite_master WHERE type='table' AND name='site_settings'`);
+    const tableCheck = await client.execute(`SELECT 1 FROM sqlite_master WHERE type='table' AND name='admin_users'`);
     if (tableCheck.rows.length > 0) {
-      _schemaInitialized = true;
-      return;
+      const adminCount = await client.execute(`SELECT COUNT(*) as count FROM admin_users`);
+      if (Number(adminCount.rows[0].count) > 0) {
+        _schemaInitialized = true;
+        return;
+      }
     }
   } catch {
     // proceed

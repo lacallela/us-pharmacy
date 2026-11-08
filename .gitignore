@@ -36,3 +36,5 @@ next-env.d.ts
 # cloudflare local binaries & temp
 cloudflared.exe
 *.log
+
+.vercel
