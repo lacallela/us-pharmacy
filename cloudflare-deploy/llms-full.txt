@@ -1,0 +1,1525 @@
+# RxMatch US — Comprehensive Medication Knowledge Base
+> Complete clinical, pricing, and generic substitution data for US healthcare consumers and AI assistants.
+> URL: https://us-pharmacy.vercel.app
+
+## Universal Prescription Coupon
+- BIN: 015995
+- PCN: GDC
+- Group: RXMATCH
+- Acceptance: Over 65,000 pharmacies nationwide.
+
+---
+
+### Compounded Semaglutide (Telehealth) (Semaglutide + B12 (Cyanocobalamin))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/compounded-semaglutide
+- **Drug Classification**: Telehealth (Weight Loss & GLP-1)
+- **Manufacturer**: FDA-Regulated 503A/503B Compounder
+- **Standard Dosage**: Monthly Supply (Tailored Dose) (Subcutaneous Injectable Vial)
+- **Brand Price**: $948.00
+- **Generic Cash Price**: $199.00 (Save 79%)
+- **FDA Indications**: Chronic weight management in adults with BMI >= 30, or BMI >= 27 with at least one weight-related comorbid condition.
+- **Contraindications**: Pregnancy, history of pancreatitis, thyroid cancer risk.
+- **How to Use**: Inject weekly with sterile micro-needle as prescribed by your online physician.
+- **Side Effects**: Mild transient nausea.
+- **Clinical Overview**: Affordable compounded semaglutide formulated by licensed US 503A/503B state-board pharmacies through telehealth platforms (Ro, Hims). Includes physician consult and home delivery.
+
+---
+
+### Ozempic (Brand Pen) (Semaglutide Injection)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/ozempic
+- **Drug Classification**: Rx (Weight Loss & GLP-1)
+- **Manufacturer**: Novo Nordisk
+- **Standard Dosage**: 2mg/3mL (0.5mg or 1mg weekly dose) (Prefilled Subcutaneous Pen)
+- **Brand Price**: $948.00
+- **Generic Cash Price**: $299.00 (Save 68%)
+- **FDA Indications**: Type 2 Diabetes mellitus; off-label for chronic weight management and obesity.
+- **Contraindications**: Personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
+- **How to Use**: Inject subcutaneously once weekly in abdomen, thigh, or upper arm on the same day each week.
+- **Side Effects**: Nausea, vomiting, diarrhea, abdominal discomfort, constipation (especially when escalating dose).
+- **Clinical Overview**: A weekly GLP-1 receptor agonist that slows stomach emptying, reduces hunger cravings, and significantly regulates blood sugar levels.
+
+---
+
+### Sildenafil (Generic Viagra) (Sildenafil Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/sildenafil
+- **Drug Classification**: Rx (Men's Health)
+- **Manufacturer**: Greenstone / Teva
+- **Standard Dosage**: 50mg, 30 tablets (White Oral Tablet)
+- **Brand Price**: $780.00
+- **Generic Cash Price**: $14.50 (Save 98%)
+- **FDA Indications**: Treatment of erectile dysfunction.
+- **Contraindications**: Nitrate medications, severe cardiovascular disease.
+- **How to Use**: Take as needed 45 minutes prior to intimacy.
+- **Side Effects**: Mild facial warmth or flushing.
+- **Clinical Overview**: Exact molecular equivalent of brand Viagra. Saves men over 98% per pill compared to the brand name.
+
+---
+
+### Atorvastatin (Generic Lipitor) (Atorvastatin Calcium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/atorvastatin
+- **Drug Classification**: Rx (Cholesterol & Heart)
+- **Manufacturer**: Teva / Sandoz Generics
+- **Standard Dosage**: 20mg, 30 tablets (Oral Tablet)
+- **Brand Price**: $185.00
+- **Generic Cash Price**: $7.20 (Save 96%)
+- **FDA Indications**: Primary hyperlipidemia, cardiovascular risk reduction in adults.
+- **Contraindications**: Severe hepatic impairment, pregnancy, hypersensitivity to atorvastatin.
+- **How to Use**: Take 1 tablet daily. Routine lipid panel tests recommended every 6 to 12 months.
+- **Side Effects**: Occasional mild muscle soreness.
+- **Clinical Overview**: Direct FDA-approved generic equivalent of Lipitor. Contains identical active ingredient, potency, bioequivalence, and safety profile at 96% lower retail cost.
+
+---
+
+### Viagra (Sildenafil Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/viagra
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 100mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $780.00
+- **Generic Cash Price**: $18.50 (Save 98%)
+- **FDA Indications**: Treatment of erectile dysfunction (ED) in adult males; pulmonary arterial hypertension.
+- **Contraindications**: Do not take with nitrates (nitroglycerin) or guanylate cyclase stimulators due to risk of fatal blood pressure drop. Avoid in severe cardiac conditions.
+- **How to Use**: Take 1 tablet orally with water 30 to 60 minutes before anticipated sexual activity. Do not exceed 1 dose per 24 hours.
+- **Side Effects**: Headache, facial flushing, nasal congestion, indigestion, mild visual hue alterations.
+- **Clinical Overview**: Viagra (sildenafil) is the world-renowned PDE-5 inhibitor designed to treat erectile dysfunction by relaxing blood vessels in the penis, facilitating firm and sustained erections when sexually stimulated.
+
+---
+
+### Cetirizine HCl (Generic Zyrtec) (Cetirizine Hydrochloride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cetirizine-generic
+- **Drug Classification**: OTC (Allergy & Sinus)
+- **Manufacturer**: Major Pharmaceuticals / Kirkland
+- **Standard Dosage**: 10mg, 100 tablets (Value Pack) (Oral Tablet)
+- **Brand Price**: $28.99
+- **Generic Cash Price**: $8.50 (Save 71%)
+- **FDA Indications**: Allergic rhinitis and hives.
+- **Contraindications**: Hypersensitivity to hydroxyzine or cetirizine.
+- **How to Use**: 1 tablet daily.
+- **Side Effects**: Minimal.
+- **Clinical Overview**: Same 24-hour allergy relief as Zyrtec with 3 times more tablets for a fraction of the cost.
+
+---
+
+### Zoloft (Sertraline HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zoloft
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 50mg, 30 tablets (Scored Tablets)
+- **Brand Price**: $115.00
+- **Generic Cash Price**: $13.50 (Save 88%)
+- **FDA Indications**: Major depressive disorder, obsessive-compulsive disorder, panic disorder, PTSD, social anxiety disorder.
+- **Contraindications**: Concurrent use of MAOIs, pimozide, or disulfiram with oral solution.
+- **How to Use**: Take 1 tablet once daily in the morning or evening with meals.
+- **Side Effects**: Nausea, mild insomnia, diarrhea, dry mouth, sexual dysfunction.
+- **Clinical Overview**: Zoloft (sertraline) is one of America’s most prescribed SSRI antidepressants, restoring balanced serotonin levels to relieve chronic depression, panic attacks, and obsessive thoughts.
+
+---
+
+### Ibuprofen (Generic Advil / Motrin) (Ibuprofen)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/ibuprofen-generic
+- **Drug Classification**: OTC (Pain & Inflammation)
+- **Manufacturer**: Major Pharmaceuticals
+- **Standard Dosage**: 200mg, 100 tablets (Brown Coated Tablet)
+- **Brand Price**: $15.99
+- **Generic Cash Price**: $3.29 (Save 79%)
+- **FDA Indications**: Pain and fever reduction.
+- **Contraindications**: Aspirin allergy, third trimester pregnancy.
+- **How to Use**: 1-2 tablets with food.
+- **Side Effects**: Mild gastrointestinal discomfort.
+- **Clinical Overview**: Exact same active ingredient as brand Advil. Standard first-line pain reliever recommended by US healthcare providers.
+
+---
+
+### Zyrtec (Brand 24-Hr) (Cetirizine Hydrochloride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zyrtec
+- **Drug Classification**: OTC (Allergy & Sinus)
+- **Manufacturer**: Johnson & Johnson Kenvue
+- **Standard Dosage**: 10mg, 30 tablets (Oral Tablet)
+- **Brand Price**: $28.99
+- **Generic Cash Price**: $6.99 (Save 76%)
+- **FDA Indications**: Relief of outdoor and indoor allergy symptoms and chronic urticaria (itchy rash).
+- **Contraindications**: Severe end-stage renal impairment.
+- **How to Use**: Adults: take one 10mg tablet once daily with water. Do not exceed recommended dosage.
+- **Side Effects**: Rare mild drowsiness in sensitive individuals.
+- **Clinical Overview**: Second-generation non-drowsy antihistamine that blocks histamine release from pollen, pet dander, dust mites, and mold.
+
+---
+
+### Lipitor (Atorvastatin Calcium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lipitor
+- **Drug Classification**: Rx (Cholesterol & Heart)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $185.00
+- **Generic Cash Price**: $12.80 (Save 93%)
+- **FDA Indications**: Hypercholesterolemia, dyslipidemia, prevention of cardiovascular disease.
+- **Contraindications**: Active liver disease, unexplained persistent elevations in hepatic transaminases, pregnancy.
+- **How to Use**: Take 1 tablet daily at any time of day, with or without food.
+- **Side Effects**: Mild muscle ache (myalgia), joint stiffness, diarrhea, elevated blood sugar.
+- **Clinical Overview**: Lipitor (atorvastatin) is the gold standard HMG-CoA reductase inhibitor, clinically proven to lower dangerous LDL cholesterol by up to 50% and dramatically reduce cardiovascular events.
+
+---
+
+### Synthroid (Levothyroxine Sodium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/synthroid
+- **Drug Classification**: Rx (Thyroid & Hormone)
+- **Manufacturer**: AbbVie / Generic Labs
+- **Standard Dosage**: 100mcg (0.1mg), 30 tablets (Tablets)
+- **Brand Price**: $68.00
+- **Generic Cash Price**: $11.20 (Save 84%)
+- **FDA Indications**: Hypothyroidism; pituitary TSH suppression.
+- **Contraindications**: Uncorrected adrenal insufficiency.
+- **How to Use**: Take as a single daily dose on an empty stomach with a full glass of water, 30 to 60 minutes before breakfast.
+- **Side Effects**: Rare when properly dosed (signs of excess: palpitations, sweating, nervousness).
+- **Clinical Overview**: Synthroid (levothyroxine) is synthetic T4 thyroid hormone identical to that produced by the human thyroid gland, restoring optimal energy and metabolic rate.
+
+---
+
+### Femara (Letrozole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/femara
+- **Drug Classification**: Rx (Women's Health)
+- **Manufacturer**: Novartis / Generic Labs
+- **Standard Dosage**: 2.5mg, 30 tablets (Yellow Film-coated Tablets)
+- **Brand Price**: $280.00
+- **Generic Cash Price**: $19.20 (Save 93%)
+- **FDA Indications**: Hormone receptor-positive breast cancer; widely used off-label for ovulation induction in anovulatory infertility.
+- **Contraindications**: Pregnancy, women of premenopausal endocrine status (unless used for fertility under medical protocol).
+- **How to Use**: For fertility, typically taken daily for 5 days starting early in the menstrual cycle.
+- **Side Effects**: Hot flashes, joint pain, fatigue, mild nausea.
+- **Clinical Overview**: Femara (letrozole) is an aromatase inhibitor widely preferred by reproductive endocrinologists for inducing ovulation in women with PCOS.
+
+---
+
+### Zanaflex (Tizanidine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zanaflex
+- **Drug Classification**: Rx (Muscle Relaxant)
+- **Manufacturer**: Acorda / Generic Labs
+- **Standard Dosage**: 4mg, 30 tablets (Short-acting Tablets)
+- **Brand Price**: $85.00
+- **Generic Cash Price**: $13.50 (Save 84%)
+- **FDA Indications**: Management of spasticity.
+- **Contraindications**: Concomitant ciprofloxacin or fluvoxamine (potent CYP1A2 inhibitors).
+- **How to Use**: Take as prescribed up to three times daily. Dose every 6 to 8 hours as needed.
+- **Side Effects**: Dry mouth, somnolence, asthenia, dizziness.
+- **Clinical Overview**: Zanaflex (tizanidine) is an alpha-2 adrenergic agonist that reduces muscle tone and spasm frequency for acute back and neck strain relief.
+
+---
+
+### Zantac (Famotidine)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zantac
+- **Drug Classification**: OTC (Gastrointestinal)
+- **Manufacturer**: Sanofi / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Tablets)
+- **Brand Price**: $25.00
+- **Generic Cash Price**: $9.80 (Save 61%)
+- **FDA Indications**: Relief of heartburn associated with acid indigestion and sour stomach.
+- **Contraindications**: Hypersensitivity to famotidine or other H2 blockers.
+- **How to Use**: Take 1 tablet with a glass of water 15 to 60 minutes before eating food or drinking beverages that cause heartburn.
+- **Side Effects**: Headache, dizziness, constipation, diarrhea.
+- **Clinical Overview**: Zantac 360 (famotidine) is an H2-receptor antagonist that prevents and relieves heartburn by reducing acid production in as little as 15 to 30 minutes.
+
+---
+
+### Topamax (Topiramate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/topamax
+- **Drug Classification**: Rx (Neurology & Migraine)
+- **Manufacturer**: Janssen / Generic Labs
+- **Standard Dosage**: 50mg, 30 tablets (Coated Tablets)
+- **Brand Price**: $145.00
+- **Generic Cash Price**: $15.00 (Save 90%)
+- **FDA Indications**: Prophylaxis of migraine in patients 12 years of age and older; initial monotherapy for seizures.
+- **Contraindications**: Recent alcohol use with extended release; metabolic acidosis history.
+- **How to Use**: Take with or without food. Maintain high daily fluid intake to prevent kidney stones.
+- **Side Effects**: Paresthesia (tingling in fingers/toes), taste perversion, fatigue, weight loss.
+- **Clinical Overview**: Topamax (topiramate) is an anticonvulsant and FDA-approved migraine preventative that stabilizes hyperactive neuronal channels to reduce headache frequency.
+
+---
+
+### Amoxicillin (Amoxicillin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/amoxicillin-500mg-30-capsules
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Teva Generics
+- **Standard Dosage**: 500mg, 30 capsules (Capsule)
+- **Brand Price**: $24.00
+- **Generic Cash Price**: $5.99 (Save 75%)
+- **FDA Indications**: Bacterial infections of the respiratory tract, ear, nose, throat.
+- **Contraindications**: Penicillin allergy.
+- **How to Use**: Take one capsule every 8 hours until finished.
+- **Side Effects**: Mild nausea, diarrhea.
+- **Clinical Overview**: Broad-spectrum penicillin-class antibiotic for bacterial infections.
+
+---
+
+### Ventolin HFA (Albuterol Sulfate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/ventolin-hfa-90mcg-inhalation-aerosol
+- **Drug Classification**: Rx (Respiratory & Asthma)
+- **Manufacturer**: GSK / Teva
+- **Standard Dosage**: 90mcg Inhalation Aerosol (Metered Dose Inhaler)
+- **Brand Price**: $74.00
+- **Generic Cash Price**: $19.50 (Save 74%)
+- **FDA Indications**: Acute relief of bronchospasm or prevention of exercise-induced bronchospasm.
+- **Contraindications**: Hypersensitivity to albuterol.
+- **How to Use**: 2 inhalations every 4 to 6 hours as needed.
+- **Side Effects**: Tremors, fast heart rate.
+- **Clinical Overview**: Fast-acting bronchodilator rescue inhaler that relaxes airway muscles.
+
+---
+
+### Lexapro (Escitalopram Oxalate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lexapro-10mg-30-tablets
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Allergan / Aurobindo
+- **Standard Dosage**: 10mg, 30 tablets (Oral Tablet)
+- **Brand Price**: $135.00
+- **Generic Cash Price**: $8.90 (Save 93%)
+- **FDA Indications**: Generalized anxiety disorder (GAD) and major depressive disorder.
+- **Contraindications**: Concomitant use with MAOIs.
+- **How to Use**: Take once daily in morning or evening.
+- **Side Effects**: Mild insomnia, dry mouth.
+- **Clinical Overview**: Highly selective serotonin reuptake inhibitor (SSRI) with minimal drug interactions.
+
+---
+
+### Cialis (Tadalafil)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cialis
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Eli Lilly / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Almond-shaped Tablets)
+- **Brand Price**: $820.00
+- **Generic Cash Price**: $22.40 (Save 97%)
+- **FDA Indications**: Erectile dysfunction (ED), signs and symptoms of benign prostatic hyperplasia (BPH).
+- **Contraindications**: Concurrent nitrate therapy, unstable angina, recent stroke or myocardial infarction.
+- **How to Use**: Take 1 tablet at least 30 minutes before intimacy. Can be taken with or without food. Stays active up to 36 hours.
+- **Side Effects**: Headache, back pain, muscle aches, dyspepsia, sinus congestion.
+- **Clinical Overview**: Cialis (tadalafil), nicknamed "the weekend pill", provides up to 36 hours of active erectile support and also relieves symptoms of benign prostatic hyperplasia (BPH).
+
+---
+
+### Levitra (Vardenafil HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/levitra
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Bayer / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Round Orange Tablets)
+- **Brand Price**: $610.00
+- **Generic Cash Price**: $24.50 (Save 96%)
+- **FDA Indications**: Treatment of erectile dysfunction in adult men.
+- **Contraindications**: Use with nitrates, severe hepatic impairment, QT prolongation.
+- **How to Use**: Take 1 tablet 25 to 60 minutes before sexual intercourse. Maximum 1 tablet daily.
+- **Side Effects**: Flushing, headache, rhinitis, nausea, dizziness.
+- **Clinical Overview**: Levitra (vardenafil) is a potent selective PDE-5 inhibitor known for high efficacy even in men with underlying conditions like diabetes or high cholesterol.
+
+---
+
+### Kamagra (Sildenafil Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/kamagra
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Ajanta Pharma
+- **Standard Dosage**: 100mg, 30 tablets (Tablets)
+- **Brand Price**: $180.00
+- **Generic Cash Price**: $19.90 (Save 89%)
+- **FDA Indications**: Treatment of erectile dysfunction.
+- **Contraindications**: Concurrent nitrates, riociguat, severe cardiovascular conditions.
+- **How to Use**: Take 1 tablet 45 minutes before intimacy with a glass of water.
+- **Side Effects**: Mild headache, flushing, nasal dryness, stomach upset.
+- **Clinical Overview**: Kamagra is a high-grade generic formulation of sildenafil citrate manufactured by Ajanta Pharma, offering fast onset and dependable efficacy at a fraction of brand cost.
+
+---
+
+### Cenforce (Sildenafil Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cenforce
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Centurion Laboratories
+- **Standard Dosage**: 100mg, 30 tablets (Blue Film-coated Tablets)
+- **Brand Price**: $195.00
+- **Generic Cash Price**: $16.80 (Save 91%)
+- **FDA Indications**: Erectile dysfunction.
+- **Contraindications**: Nitrates, severe liver or kidney disease, low blood pressure.
+- **How to Use**: Swallow 1 tablet 30 to 60 minutes before intercourse.
+- **Side Effects**: Headache, facial warmth, lightheadedness, indigestion.
+- **Clinical Overview**: Cenforce contains pure sildenafil citrate engineered to maximize blood flow to penile tissue, ensuring rapid response and prolonged firmness during sexual stimulation.
+
+---
+
+### Vidalista (Tadalafil)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/vidalista
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Centurion Laboratories
+- **Standard Dosage**: 20mg, 30 tablets (Yellow Oval Tablets)
+- **Brand Price**: $210.00
+- **Generic Cash Price**: $18.20 (Save 91%)
+- **FDA Indications**: Erectile dysfunction in men.
+- **Contraindications**: Organic nitrates, uncontrolled hypertension, retinal disorders.
+- **How to Use**: Take 1 tablet 30 minutes before anticipated sexual activity.
+- **Side Effects**: Backache, muscle soreness, headache, nasal congestion.
+- **Clinical Overview**: Vidalista is a premier generic tadalafil formulation that restores erectile responsiveness for up to 36 hours without restrictive timing.
+
+---
+
+### Fildena (Sildenafil Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/fildena
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Fortune Healthcare
+- **Standard Dosage**: 100mg, 30 tablets (Purple Triangle Tablets)
+- **Brand Price**: $185.00
+- **Generic Cash Price**: $17.50 (Save 91%)
+- **FDA Indications**: Male erectile dysfunction.
+- **Contraindications**: Nitrate medications, severe heart conditions.
+- **How to Use**: Take 1 tablet with water approximately 45 minutes before sex.
+- **Side Effects**: Warmth or redness in face, headache, nausea.
+- **Clinical Overview**: Fildena (often called the "purple pill") provides rapid-absorbing sildenafil citrate to combat moderate to severe male erectile challenges effectively.
+
+---
+
+### Tadacip (Tadalafil)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/tadacip
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Cipla Ltd
+- **Standard Dosage**: 20mg, 30 tablets (Tablets)
+- **Brand Price**: $240.00
+- **Generic Cash Price**: $21.00 (Save 91%)
+- **FDA Indications**: Erectile dysfunction.
+- **Contraindications**: Nitrates, severe cardiovascular instability.
+- **How to Use**: Take 1 tablet at least 30 minutes prior to intimacy.
+- **Side Effects**: Headache, dyspepsia, back stiffness.
+- **Clinical Overview**: Tadacip by world-renowned Cipla delivers pharmaceutical-grade tadalafil for dependable, long-lasting 36-hour erectile support.
+
+---
+
+### Dapoxetine (Dapoxetine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/dapoxetine
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Menarini / Generic Labs
+- **Standard Dosage**: 60mg, 30 tablets (Tablets)
+- **Brand Price**: $290.00
+- **Generic Cash Price**: $23.50 (Save 92%)
+- **FDA Indications**: Treatment of premature ejaculation in men aged 18 to 64.
+- **Contraindications**: Significant heart conditions, moderate/severe liver impairment, concurrent MAOIs.
+- **How to Use**: Take 1 tablet with a full glass of water 1 to 3 hours prior to sexual activity.
+- **Side Effects**: Nausea, dizziness, headache, insomnia.
+- **Clinical Overview**: Dapoxetine is the premiere short-acting SSRI specifically indicated for on-demand treatment of premature ejaculation (PE), extending latency time up to 300%.
+
+---
+
+### Super P-Force (Sildenafil 100mg + Dapoxetine 60mg)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/super-p-force
+- **Drug Classification**: Rx (Erectile Dysfunction)
+- **Manufacturer**: Sunrise Remedies
+- **Standard Dosage**: 160mg combo, 30 tablets (Tablets)
+- **Brand Price**: $360.00
+- **Generic Cash Price**: $29.80 (Save 92%)
+- **FDA Indications**: Combined treatment of erectile dysfunction and premature ejaculation.
+- **Contraindications**: Nitrate therapy, heart disease, severe renal dysfunction.
+- **How to Use**: Take 1 tablet with water 1 hour before intercourse. Do not take more than 1 in 24 hours.
+- **Side Effects**: Mild dizziness, nausea, facial warmth, dry mouth.
+- **Clinical Overview**: Super P-Force is a breakthrough dual-action formula combining sildenafil (100mg) for strong erections with dapoxetine (60mg) for prolonged endurance and climax control.
+
+---
+
+### Propecia (Finasteride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/propecia
+- **Drug Classification**: Rx (Hair Loss)
+- **Manufacturer**: Merck / Generic Labs
+- **Standard Dosage**: 1mg, 30 tablets (Octagonal Tablets)
+- **Brand Price**: $110.00
+- **Generic Cash Price**: $14.50 (Save 87%)
+- **FDA Indications**: Male pattern baldness (androgenetic alopecia) on the vertex and anterior mid-scalp area.
+- **Contraindications**: Contraindicated in women and children. Women who are pregnant must not handle crushed tablets.
+- **How to Use**: Take 1 tablet daily with or without food. Continuous daily use is required to sustain benefit.
+- **Side Effects**: Decreased libido, erectile changes, mild testicular tenderness (infrequent).
+- **Clinical Overview**: Propecia (finasteride 1mg) halts androgenic alopecia by inhibiting 5-alpha reductase, dramatically reducing DHT levels to prevent follicular miniaturization and stimulate regrowth.
+
+---
+
+### Proscar (Finasteride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/proscar
+- **Drug Classification**: Rx (Men's Health)
+- **Manufacturer**: Merck / Generic Labs
+- **Standard Dosage**: 5mg, 30 tablets (Tablets)
+- **Brand Price**: $135.00
+- **Generic Cash Price**: $15.20 (Save 89%)
+- **FDA Indications**: Treatment of symptomatic benign prostatic hyperplasia.
+- **Contraindications**: Hypersensitivity, pregnancy.
+- **How to Use**: Take 1 tablet once daily, with or without meals.
+- **Side Effects**: Reduced ejaculate volume, decreased libido.
+- **Clinical Overview**: Proscar (finasteride 5mg) treats benign prostatic hyperplasia (BPH) by shrinking enlarged prostate tissue, improving urinary flow, and reducing retention risk.
+
+---
+
+### Flomax (Tamsulosin HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/flomax
+- **Drug Classification**: Rx (Men's Health)
+- **Manufacturer**: Boehringer Ingelheim
+- **Standard Dosage**: 0.4mg, 30 capsules (Capsules)
+- **Brand Price**: $215.00
+- **Generic Cash Price**: $16.50 (Save 92%)
+- **FDA Indications**: Signs and symptoms of benign prostatic hyperplasia.
+- **Contraindications**: Hypersensitivity to tamsulosin. Caution in patients undergoing cataract surgery (IFIS).
+- **How to Use**: Take 1 capsule once daily, approximately 30 minutes following the same meal each day.
+- **Side Effects**: Dizziness, rhinitis, abnormal ejaculation, orthostatic hypotension.
+- **Clinical Overview**: Flomax (tamsulosin) is a selective alpha-1 blocker that relaxes smooth muscles in the prostate neck and bladder, restoring effortless urinary flow in men with BPH.
+
+---
+
+### Avodart (Dutasteride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/avodart
+- **Drug Classification**: Rx (Men's Health)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 0.5mg, 30 capsules (Soft Gelatin Capsules)
+- **Brand Price**: $260.00
+- **Generic Cash Price**: $19.80 (Save 92%)
+- **FDA Indications**: Treatment of symptomatic benign prostatic hyperplasia in men.
+- **Contraindications**: Pregnancy, women of childbearing potential, children.
+- **How to Use**: Take 1 capsule once daily swallowed whole without chewing.
+- **Side Effects**: Impotence, decreased libido, breast tenderness or enlargement.
+- **Clinical Overview**: Avodart (dutasteride) is a potent dual 5-alpha reductase inhibitor (Type I and II) that suppresses DHT by over 90%, shrinking the prostate gland and promoting robust hair retention.
+
+---
+
+### Amoxil (Amoxicillin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/amoxil
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 500mg, 30 capsules (Capsules)
+- **Brand Price**: $45.00
+- **Generic Cash Price**: $11.80 (Save 74%)
+- **FDA Indications**: Infections of the ear, nose, throat, genitourinary tract, skin, and lower respiratory tract caused by susceptible bacterial strains.
+- **Contraindications**: Penicillin allergy or history of penicillin-associated cholestatic jaundice.
+- **How to Use**: Take 1 capsule every 8 to 12 hours with or without food. Complete full course as prescribed.
+- **Side Effects**: Diarrhea, nausea, mild skin rash, stomach cramps.
+- **Clinical Overview**: Amoxil (amoxicillin) is a trusted broad-spectrum penicillin antibiotic used worldwide to treat common bacterial ear, nose, throat, skin, and urinary tract infections.
+
+---
+
+### Augmentin (Amoxicillin + Clavulanate Potassium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/augmentin
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 875/125mg, 20 tablets (Film-coated Tablets)
+- **Brand Price**: $125.00
+- **Generic Cash Price**: $18.50 (Save 85%)
+- **FDA Indications**: Lower respiratory tract infections, acute bacterial otitis media, sinusitis, skin and soft tissue infections.
+- **Contraindications**: History of Augmentin-associated hepatic dysfunction, penicillin hypersensitivity.
+- **How to Use**: Take 1 tablet at the start of a meal every 12 hours to minimize GI upset.
+- **Side Effects**: Diarrhea, loose stools, nausea, skin rash.
+- **Clinical Overview**: Augmentin combines amoxicillin with clavulanic acid, a beta-lactamase inhibitor that overcomes bacterial resistance for powerful efficacy in stubborn infections.
+
+---
+
+### Zithromax (Azithromycin (Z-Pak))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zithromax
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 250mg, 6 tablets (Z-Pak) (Film-coated Tablets)
+- **Brand Price**: $85.00
+- **Generic Cash Price**: $14.20 (Save 83%)
+- **FDA Indications**: Acute bacterial exacerbations of COPD, bacterial sinusitis, community-acquired pneumonia, urethritis.
+- **Contraindications**: Known allergy to macrolides, history of cholestatic jaundice with prior azithromycin use.
+- **How to Use**: Take 500mg on day 1 as a single dose, followed by 250mg daily on days 2 through 5.
+- **Side Effects**: Diarrhea, abdominal pain, nausea, mild cramping.
+- **Clinical Overview**: Zithromax (azithromycin) is a versatile macrolide antibiotic with long tissue half-life, allowing convenient short 3- to 5-day therapy courses.
+
+---
+
+### Cipro (Ciprofloxacin HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cipro
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Bayer / Generic Labs
+- **Standard Dosage**: 500mg, 20 tablets (Tablets)
+- **Brand Price**: $95.00
+- **Generic Cash Price**: $12.50 (Save 87%)
+- **FDA Indications**: Complicated UTIs, acute pyelonephritis, infectious diarrhea, chronic bacterial prostatitis.
+- **Contraindications**: Concomitant tizanidine administration; history of tendonitis or fluoroquinolone-associated tendon rupture.
+- **How to Use**: Take 1 tablet every 12 hours with abundant fluids. Avoid taking with antacids, iron, or calcium supplements.
+- **Side Effects**: Nausea, diarrhea, dizziness, headache, photosensitivity.
+- **Clinical Overview**: Cipro (ciprofloxacin) is a potent fluoroquinolone antibiotic targeting severe urinary tract, kidney, bone, joint, and gastrointestinal bacterial infections.
+
+---
+
+### Doxycycline (Doxycycline Hyclate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/doxycycline
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 100mg, 30 capsules (Capsules)
+- **Brand Price**: $70.00
+- **Generic Cash Price**: $13.50 (Save 81%)
+- **FDA Indications**: Rickettsial infections, sexually transmitted infections, respiratory tract infections, severe cystic acne.
+- **Contraindications**: Hypersensitivity to tetracyclines. Not recommended in pregnant women or children under 8 (teeth discoloration).
+- **How to Use**: Take with a full glass of water while sitting or standing upright. Do not lie down for 30 minutes after taking.
+- **Side Effects**: Sun sensitivity (sunburn easily), nausea, heartburn, esophagus irritation.
+- **Clinical Overview**: Doxycycline is a broad-spectrum tetracycline antibiotic widely prescribed for moderate-to-severe acne, Lyme disease prophylaxis, skin infections, and travel malaria prevention.
+
+---
+
+### Flagyl (Metronidazole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/flagyl
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 500mg, 30 tablets (Tablets)
+- **Brand Price**: $65.00
+- **Generic Cash Price**: $12.80 (Save 80%)
+- **FDA Indications**: Bacterial vaginosis, trichomoniasis, amebiasis, intra-abdominal infections.
+- **Contraindications**: Absolute prohibition of alcohol consumption during treatment and for 72 hours following the final dose (causes severe disulfiram reaction).
+- **How to Use**: Take with food to reduce stomach upset. Swallow whole with water.
+- **Side Effects**: Metallic taste in mouth, dark/reddish urine, nausea, mild headache.
+- **Clinical Overview**: Flagyl (metronidazole) is a powerful nitroimidazole antimicrobial highly effective against anaerobic bacterial pathogens and protozoal infections.
+
+---
+
+### Keflex (Cephalexin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/keflex
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Prasco / Generic Labs
+- **Standard Dosage**: 500mg, 30 capsules (Capsules)
+- **Brand Price**: $58.00
+- **Generic Cash Price**: $12.20 (Save 79%)
+- **FDA Indications**: Respiratory tract infections, otitis media, skin and skin structure infections, bone infections, GU infections.
+- **Contraindications**: Known allergy to cephalosporin group of antibiotics.
+- **How to Use**: Take 500mg every 6 to 12 hours depending on infection severity. Complete entire regimen.
+- **Side Effects**: Diarrhea, indigestion, fatigue, dizziness.
+- **Clinical Overview**: Keflex (cephalexin) is a first-generation cephalosporin antibiotic frequently chosen for skin infections, staphylococcus wounds, cellulitis, and urinary issues.
+
+---
+
+### Bactrim (Sulfamethoxazole + Trimethoprim (SMZ-TMP DS))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/bactrim
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Roche / Generic Labs
+- **Standard Dosage**: 800/160mg, 20 tablets (Double Strength Tablets)
+- **Brand Price**: $48.00
+- **Generic Cash Price**: $11.50 (Save 76%)
+- **FDA Indications**: Urinary tract infections, acute otitis media, acute exacerbations of chronic bronchitis, traveler’s diarrhea.
+- **Contraindications**: Sulfa allergy, marked hepatic damage, severe renal insufficiency, megaloblastic anemia.
+- **How to Use**: Take 1 tablet every 12 hours with a full glass of water. Maintain abundant daily fluid intake.
+- **Side Effects**: Nausea, vomiting, loss of appetite, allergic skin rash, photosensitivity.
+- **Clinical Overview**: Bactrim DS is a synergistic sulfonamide combination antibiotic providing two-step inhibition of bacterial folic acid synthesis for broad bactericidal activity.
+
+---
+
+### Prednisone (Prednisone)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/prednisone
+- **Drug Classification**: Rx (Allergies & Inflammation)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Scored Tablets)
+- **Brand Price**: $42.00
+- **Generic Cash Price**: $11.20 (Save 73%)
+- **FDA Indications**: Endocrine disorders, rheumatic disorders, collagen diseases, dermatologic diseases, allergic states.
+- **Contraindications**: Systemic fungal infections, live viral vaccinations.
+- **How to Use**: Take in the morning with food or milk to prevent insomnia and gastric irritation. Taper as directed.
+- **Side Effects**: Increased appetite, mood swings, temporary fluid retention, insomnia.
+- **Clinical Overview**: Prednisone is a fast-acting synthetic corticosteroid that halts severe inflammatory cascades, allergic reactions, and autoimmune attacks.
+
+---
+
+### Prednisolone (Prednisolone)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/prednisolone
+- **Drug Classification**: Rx (Allergies & Inflammation)
+- **Manufacturer**: Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Soluble Tablets)
+- **Brand Price**: $46.00
+- **Generic Cash Price**: $11.80 (Save 74%)
+- **FDA Indications**: Allergic conditions, respiratory tract inflammation, dermatologic conditions.
+- **Contraindications**: Systemic infections without antimicrobial therapy.
+- **How to Use**: Take with meals in the morning.
+- **Side Effects**: Restlessness, indigestion, mild headache, elevated blood sugar.
+- **Clinical Overview**: Prednisolone is the biologically active metabolite of prednisone, ideal for patients requiring rapid anti-inflammatory response without liver conversion.
+
+---
+
+### Allegra (Fexofenadine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/allegra
+- **Drug Classification**: OTC (Allergies)
+- **Manufacturer**: Sanofi / Generic Labs
+- **Standard Dosage**: 180mg, 30 tablets (24-Hour) (Coated Tablets)
+- **Brand Price**: $34.00
+- **Generic Cash Price**: $12.50 (Save 63%)
+- **FDA Indications**: Relief of symptoms associated with seasonal allergic rhinitis and chronic idiopathic urticaria.
+- **Contraindications**: Hypersensitivity to fexofenadine.
+- **How to Use**: Take 1 tablet daily with water. Do not take with fruit juices (apple, orange, grapefruit) which reduce absorption.
+- **Side Effects**: Headache, upper respiratory tract infection, back discomfort.
+- **Clinical Overview**: Allegra (fexofenadine) is a second-generation non-drowsy antihistamine providing reliable 24-hour relief from seasonal pollen, dust, and pet allergies without brain fog.
+
+---
+
+### Singulair (Montelukast Sodium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/singulair
+- **Drug Classification**: Rx (Asthma & Allergies)
+- **Manufacturer**: Merck / Generic Labs
+- **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $140.00
+- **Generic Cash Price**: $14.80 (Save 89%)
+- **FDA Indications**: Prophylaxis and chronic treatment of asthma; prevention of exercise-induced bronchoconstriction; allergic rhinitis.
+- **Contraindications**: Hypersensitivity. Monitor for neuropsychiatric changes.
+- **How to Use**: Take 1 tablet once daily in the evening, with or without food.
+- **Side Effects**: Upper respiratory infection, headache, sore throat, mild abdominal pain.
+- **Clinical Overview**: Singulair (montelukast) blocks leukotriene receptors in the lungs and airways, preventing asthma constriction, wheezing, and seasonal congestion.
+
+---
+
+### Ventolin (Albuterol Sulfate (Salbutamol))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/ventolin
+- **Drug Classification**: Rx (Asthma & Respiratory)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 90mcg/actuation, 200 inhalations (Metered Dose Inhaler)
+- **Brand Price**: $78.00
+- **Generic Cash Price**: $19.50 (Save 75%)
+- **FDA Indications**: Relief of acute bronchospasm in patients with reversible obstructive airway disease.
+- **Contraindications**: Hypersensitivity to albuterol.
+- **How to Use**: Inhale 1 to 2 puffs every 4 to 6 hours as needed for wheezing. Prime before first use.
+- **Side Effects**: Tremor, nervousness, palpitations, mild throat irritation.
+- **Clinical Overview**: Ventolin (albuterol) is the gold-standard short-acting beta-2 agonist (rescue inhaler) that dilates bronchial airways in minutes during acute breathing difficulty.
+
+---
+
+### Lexapro (Escitalopram Oxalate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lexapro
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Allergan / Generic Labs
+- **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $130.00
+- **Generic Cash Price**: $14.20 (Save 89%)
+- **FDA Indications**: Acute and maintenance treatment of major depressive disorder and generalized anxiety disorder.
+- **Contraindications**: Concomitant MAOIs, pimozide, or linezolid therapy.
+- **How to Use**: Take once daily, morning or evening, with or without food.
+- **Side Effects**: Mild somnolence, insomnia, nausea, fatigue, sweating.
+- **Clinical Overview**: Lexapro (escitalopram) is a highly selective SSRI celebrated for its clean receptor profile, effectively dampening constant anxiety, panic, and persistent depressive states.
+
+---
+
+### Prozac (Fluoxetine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/prozac
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Eli Lilly / Generic Labs
+- **Standard Dosage**: 20mg, 30 capsules (Capsules)
+- **Brand Price**: $110.00
+- **Generic Cash Price**: $13.00 (Save 88%)
+- **FDA Indications**: Major depressive disorder, OCD, bulimia nervosa, panic disorder.
+- **Contraindications**: MAOI use within 14 days, concurrent thioridazine.
+- **How to Use**: Take in the morning with breakfast to avoid sleep disturbance.
+- **Side Effects**: Anxiety, nervousness, trouble sleeping, decreased appetite.
+- **Clinical Overview**: Prozac (fluoxetine) is the pioneering SSRI with an activating, energizing profile and long biological half-life, helping prevent discontinuation symptoms.
+
+---
+
+### Wellbutrin (Bupropion HCl (XL))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/wellbutrin
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 150mg, 30 extended-release tablets (Extended-Release Tablets)
+- **Brand Price**: $185.00
+- **Generic Cash Price**: $16.80 (Save 91%)
+- **FDA Indications**: Treatment of major depressive disorder; seasonal affective disorder (SAD); smoking cessation.
+- **Contraindications**: Seizure disorders, current or prior bulimia or anorexia nervosa, abrupt alcohol or sedative discontinuation.
+- **How to Use**: Swallow whole with water in the morning. Never crush, cut, or chew extended-release tablets.
+- **Side Effects**: Dry mouth, insomnia, agitation, mild tremor, headache.
+- **Clinical Overview**: Wellbutrin (bupropion) is a norepinephrine-dopamine reuptake inhibitor (NDRI) that improves mood, focus, and energy without causing weight gain or sexual side effects.
+
+---
+
+### Buspar (Buspirone HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/buspar
+- **Drug Classification**: Rx (Anxiety)
+- **Manufacturer**: Bristol-Myers Squibb
+- **Standard Dosage**: 10mg, 30 tablets (Multi-scored Tablets)
+- **Brand Price**: $75.00
+- **Generic Cash Price**: $12.50 (Save 83%)
+- **FDA Indications**: Management of generalized anxiety disorders (GAD).
+- **Contraindications**: Severe hepatic or renal impairment; concurrent MAOIs.
+- **How to Use**: Take consistently with or consistently without food twice daily as prescribed.
+- **Side Effects**: Dizziness, nausea, lightheadedness, headache.
+- **Clinical Overview**: Buspar (buspirone) is a non-benzodiazepine, non-sedating, non-addictive anxiolytic that selectively modulates 5-HT1A receptors to banish persistent worry.
+
+---
+
+### Cymbalta (Duloxetine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cymbalta
+- **Drug Classification**: Rx (Mental Health & Pain)
+- **Manufacturer**: Eli Lilly / Generic Labs
+- **Standard Dosage**: 30mg, 30 delayed-release capsules (Delayed-Release Capsules)
+- **Brand Price**: $195.00
+- **Generic Cash Price**: $17.20 (Save 91%)
+- **FDA Indications**: Major depressive disorder, GAD, diabetic peripheral neuropathic pain, fibromyalgia, chronic musculoskeletal pain.
+- **Contraindications**: Uncontrolled narrow-angle glaucoma; concurrent MAOIs; severe liver disease.
+- **How to Use**: Take 1 capsule once daily. Swallow whole.
+- **Side Effects**: Nausea, dry mouth, somnolence, constipation, fatigue.
+- **Clinical Overview**: Cymbalta (duloxetine) is a dual serotonin-norepinephrine reuptake inhibitor (SNRI) that treats both mood disorders and chronic neuropathic/musculoskeletal body aches.
+
+---
+
+### Crestor (Rosuvastatin Calcium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/crestor
+- **Drug Classification**: Rx (Cholesterol & Heart)
+- **Manufacturer**: AstraZeneca / Generic Labs
+- **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $245.00
+- **Generic Cash Price**: $14.50 (Save 94%)
+- **FDA Indications**: Hyperlipidemia, mixed dyslipidemia, hypertriglyceridemia, primary prevention of cardiovascular events.
+- **Contraindications**: Active liver disease, pregnancy, breastfeeding.
+- **How to Use**: Take 1 tablet once daily with or without food at the same time each day.
+- **Side Effects**: Headache, myalgia, abdominal pain, asthenia, nausea.
+- **Clinical Overview**: Crestor (rosuvastatin) is a high-potency hydrophilic statin delivering superior LDL-lowering power and HDL-raising benefits for high-risk cardiac patients.
+
+---
+
+### Lasix (Furosemide)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lasix
+- **Drug Classification**: Rx (Blood Pressure & Heart)
+- **Manufacturer**: Sanofi / Generic Labs
+- **Standard Dosage**: 40mg, 30 tablets (Tablets)
+- **Brand Price**: $45.00
+- **Generic Cash Price**: $11.00 (Save 76%)
+- **FDA Indications**: Edema associated with heart failure, cirrhosis of the liver, and renal disease; hypertension.
+- **Contraindications**: Anuria, severe electrolyte depletion (hypokalemia), history of hypersensitivity to furosemide.
+- **How to Use**: Take in the morning with food to prevent nocturnal urination.
+- **Side Effects**: Frequent urination, dizziness upon standing, dehydration, thirst.
+- **Clinical Overview**: Lasix (furosemide) is a fast-acting loop diuretic that flushes excess sodium and fluid from the body, relieving swollen legs, pulmonary congestion, and cardiac pressure.
+
+---
+
+### Propranolol (Propranolol HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/propranolol
+- **Drug Classification**: Rx (Heart & Blood Pressure)
+- **Manufacturer**: Wyeth / Generic Labs
+- **Standard Dosage**: 40mg, 30 tablets (Tablets)
+- **Brand Price**: $52.00
+- **Generic Cash Price**: $11.80 (Save 77%)
+- **FDA Indications**: Hypertension, angina pectoris, cardiac arrhythmias, migraine prophylaxis, essential tremor.
+- **Contraindications**: Sinus bradycardia, cardiogenic shock, bronchial asthma, severe COPD.
+- **How to Use**: Take with or immediately following meals. Do not stop abruptly without medical advice.
+- **Side Effects**: Fatigue, cold extremities, bradycardia, dizziness, vivid dreams.
+- **Clinical Overview**: Propranolol is a versatile non-selective beta blocker that slows heart rate, stabilizes cardiac rhythm, prevents debilitating migraines, and calms physical adrenaline symptoms.
+
+---
+
+### Lisinopril (Lisinopril)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lisinopril
+- **Drug Classification**: Rx (Blood Pressure & Heart)
+- **Manufacturer**: AstraZeneca / Generic Labs
+- **Standard Dosage**: 10mg, 30 tablets (Tablets)
+- **Brand Price**: $40.00
+- **Generic Cash Price**: $10.50 (Save 74%)
+- **FDA Indications**: Treatment of hypertension, heart failure adjunctive therapy, post-MI hemodynamically stable patients.
+- **Contraindications**: Pregnancy (boxed warning: fetal toxicity), history of ACE inhibitor-induced angioedema.
+- **How to Use**: Take 1 tablet daily at approximately the same time with plenty of water.
+- **Side Effects**: Dry tickling cough, dizziness, headache, elevated potassium levels.
+- **Clinical Overview**: Lisinopril is an ACE inhibitor that relaxes blood vessels, dramatically lowering blood pressure and shielding renal function in diabetic and hypertensive patients.
+
+---
+
+### Norvasc (Amlodipine Besylate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/norvasc
+- **Drug Classification**: Rx (Blood Pressure & Heart)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 5mg, 30 tablets (Octagonal Tablets)
+- **Brand Price**: $78.00
+- **Generic Cash Price**: $11.90 (Save 85%)
+- **FDA Indications**: Hypertension, coronary artery disease, chronic stable angina.
+- **Contraindications**: Severe hypotension, cardiogenic shock.
+- **How to Use**: Take 1 tablet daily, with or without meals.
+- **Side Effects**: Peripheral edema (ankle swelling), flushing, palpitations, fatigue.
+- **Clinical Overview**: Norvasc (amlodipine) is a long-acting calcium channel blocker that widens arterial walls, keeping blood pressure smoothly controlled throughout all 24 hours.
+
+---
+
+### Plavix (Clopidogrel Bisulfate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/plavix
+- **Drug Classification**: Rx (Heart & Blood)
+- **Manufacturer**: Sanofi / Bristol-Myers Squibb
+- **Standard Dosage**: 75mg, 30 tablets (Pink Coated Tablets)
+- **Brand Price**: $190.00
+- **Generic Cash Price**: $14.80 (Save 92%)
+- **FDA Indications**: Acute coronary syndrome, recent MI, recent stroke, established peripheral arterial disease.
+- **Contraindications**: Active pathological bleeding such as peptic ulcer or intracranial hemorrhage.
+- **How to Use**: Take 75mg once daily with or without meals. Inform dentist or surgeon prior to procedures.
+- **Side Effects**: Easy bruising, bleeding that takes longer to stop, nosebleeds.
+- **Clinical Overview**: Plavix (clopidogrel) is a vital antiplatelet therapy that stops blood cells from clumping together, guarding against life-threatening arterial blood clots and recurrent strokes.
+
+---
+
+### Metformin (Metformin HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/metformin
+- **Drug Classification**: Rx (Diabetes)
+- **Manufacturer**: Bristol-Myers Squibb / Generic Labs
+- **Standard Dosage**: 500mg, 60 tablets (Tablets)
+- **Brand Price**: $38.00
+- **Generic Cash Price**: $10.80 (Save 72%)
+- **FDA Indications**: Adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus.
+- **Contraindications**: Severe renal impairment (eGFR < 30 mL/min), acute metabolic acidosis, lactic acidosis risk.
+- **How to Use**: Take with meals to minimize stomach upset. Swallow whole with water.
+- **Side Effects**: Diarrhea, nausea, gas, metallic taste, abdominal bloating.
+- **Clinical Overview**: Metformin is the universal first-line treatment for Type 2 diabetes, sensitizing cells to natural insulin, decreasing hepatic glucose output, and supporting metabolic longevity.
+
+---
+
+### Glucophage (Metformin HCl (Extended-Release))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/glucophage
+- **Drug Classification**: Rx (Diabetes)
+- **Manufacturer**: Merck Santé
+- **Standard Dosage**: 850mg, 60 tablets (Extended Release Tablets)
+- **Brand Price**: $65.00
+- **Generic Cash Price**: $13.50 (Save 79%)
+- **FDA Indications**: Glycemic control in type 2 diabetes.
+- **Contraindications**: Renal disease, metabolic acidosis.
+- **How to Use**: Take with the evening meal.
+- **Side Effects**: Occasional loose stools, nausea.
+- **Clinical Overview**: Glucophage delivers smooth, sustained-release metformin for steady glycemic management with enhanced gastrointestinal tolerance.
+
+---
+
+### Actos (Pioglitazone HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/actos
+- **Drug Classification**: Rx (Diabetes)
+- **Manufacturer**: Takeda / Generic Labs
+- **Standard Dosage**: 30mg, 30 tablets (Tablets)
+- **Brand Price**: $160.00
+- **Generic Cash Price**: $16.20 (Save 90%)
+- **FDA Indications**: Type 2 diabetes mellitus as monotherapy or in combination with other agents.
+- **Contraindications**: Class III or IV heart failure (causes fluid retention).
+- **How to Use**: Take once daily without regard to meals.
+- **Side Effects**: Weight gain, edema, upper respiratory infection, mild hypoglycemia when combined with sulfonylureas.
+- **Clinical Overview**: Actos (pioglitazone) is a thiazolidinedione (TZD) insulin sensitizer that directly targets muscle and adipose tissue to absorb circulating blood sugar efficiently.
+
+---
+
+### Amaryl (Glimepiride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/amaryl
+- **Drug Classification**: Rx (Diabetes)
+- **Manufacturer**: Sanofi / Generic Labs
+- **Standard Dosage**: 2mg, 30 tablets (Scored Tablets)
+- **Brand Price**: $55.00
+- **Generic Cash Price**: $11.50 (Save 79%)
+- **FDA Indications**: Type 2 diabetes mellitus to lower blood glucose.
+- **Contraindications**: Type 1 diabetes, diabetic ketoacidosis, sulfa allergy.
+- **How to Use**: Take once daily with breakfast or the first main meal.
+- **Side Effects**: Hypoglycemia (low blood sugar), dizziness, mild nausea.
+- **Clinical Overview**: Amaryl (glimepiride) is a second-generation sulfonylurea that stimulates pancreatic beta cells to produce additional insulin after meals.
+
+---
+
+### Xenical (Orlistat)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/xenical
+- **Drug Classification**: Rx (Weight Loss)
+- **Manufacturer**: Roche / Generic Labs
+- **Standard Dosage**: 120mg, 60 capsules (Turquoise Capsules)
+- **Brand Price**: $210.00
+- **Generic Cash Price**: $26.50 (Save 87%)
+- **FDA Indications**: Weight loss and weight maintenance in overweight and obese adults with BMI >= 30, or BMI >= 27 with risk factors.
+- **Contraindications**: Chronic malabsorption syndrome, cholestasis, pregnancy.
+- **How to Use**: Take 1 capsule with each main meal containing dietary fat (during or up to 1 hour after the meal).
+- **Side Effects**: Oily evacuation, fecal urgency, increased flatus with discharge, loose stools.
+- **Clinical Overview**: Xenical (orlistat 120mg) is a reversible gastrointestinal lipase inhibitor that blocks absorption of approximately 30% of dietary fat, promoting steady, clinically proven weight loss.
+
+---
+
+### Alli (Orlistat)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/alli
+- **Drug Classification**: OTC (Weight Loss)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 60mg, 60 capsules (Capsules)
+- **Brand Price**: $75.00
+- **Generic Cash Price**: $18.00 (Save 76%)
+- **FDA Indications**: Weight loss support in overweight adults 18 years and older.
+- **Contraindications**: Organ transplant recipient, cyclosporine use, malabsorption.
+- **How to Use**: Take 1 capsule with each fat-containing meal, up to 3 times per day.
+- **Side Effects**: Digestive changes, oily stools when high-fat meals are eaten.
+- **Clinical Overview**: Alli (orlistat 60mg) is the FDA-approved over-the-counter weight loss aid that prevents digestion of dietary fats when combined with a reduced-calorie meal plan.
+
+---
+
+### Cytotec (Misoprostol)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cytotec
+- **Drug Classification**: Rx (Gastrointestinal)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 200mcg, 30 tablets (Hexagonal Tablets)
+- **Brand Price**: $120.00
+- **Generic Cash Price**: $17.50 (Save 85%)
+- **FDA Indications**: Prevention of NSAID-induced gastric ulcers in patients at high risk of complications.
+- **Contraindications**: Boxed warning: Contraindicated in pregnant women due to uterine contractions causing miscarriage or premature birth.
+- **How to Use**: Take with food and at bedtime as prescribed.
+- **Side Effects**: Diarrhea, abdominal pain, nausea, flatulence.
+- **Clinical Overview**: Cytotec (misoprostol) is a synthetic prostaglandin E1 analog that protects the gastric mucosal lining and inhibits stomach acid secretion.
+
+---
+
+### Nexium (Esomeprazole Magnesium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/nexium
+- **Drug Classification**: Rx (Gastrointestinal)
+- **Manufacturer**: AstraZeneca / Generic Labs
+- **Standard Dosage**: 40mg, 30 capsules (Delayed-Release Capsules)
+- **Brand Price**: $165.00
+- **Generic Cash Price**: $15.00 (Save 91%)
+- **FDA Indications**: Treatment of gastroesophageal reflux disease (GERD), risk reduction of NSAID-associated gastric ulcers.
+- **Contraindications**: Concomitant rilpivirine-containing products; hypersensitivity to PPIs.
+- **How to Use**: Take 1 capsule daily at least 1 hour before a meal, swallowed whole with water.
+- **Side Effects**: Headache, diarrhea, nausea, abdominal pain, dry mouth.
+- **Clinical Overview**: Nexium (esomeprazole) is the famous "purple pill" proton pump inhibitor (PPI) that suppresses stomach acid production for 24-hour relief and healing of erosive esophagitis.
+
+---
+
+### Prilosec (Omeprazole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/prilosec
+- **Drug Classification**: OTC (Gastrointestinal)
+- **Manufacturer**: Procter & Gamble / Generic Labs
+- **Standard Dosage**: 20mg, 30 capsules (Capsules)
+- **Brand Price**: $36.00
+- **Generic Cash Price**: $11.80 (Save 67%)
+- **FDA Indications**: Frequent heartburn occurring 2 or more days per week.
+- **Contraindications**: Hypersensitivity to substituted benzimidazoles.
+- **How to Use**: Take 1 capsule in the morning before breakfast for 14 consecutive days.
+- **Side Effects**: Mild stomach discomfort, gas, headache.
+- **Clinical Overview**: Prilosec (omeprazole) stops frequent acid reflux at the source, deactivating the pumps in the stomach lining that release excess acid.
+
+---
+
+### Clomid (Clomiphene Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/clomid
+- **Drug Classification**: Rx (Women's Health)
+- **Manufacturer**: Sanofi / Generic Labs
+- **Standard Dosage**: 50mg, 30 tablets (Tablets)
+- **Brand Price**: $145.00
+- **Generic Cash Price**: $16.50 (Save 89%)
+- **FDA Indications**: Treatment of ovulatory dysfunction in women desiring pregnancy.
+- **Contraindications**: Pregnancy, liver disease, abnormal uterine bleeding, ovarian cysts not due to PCOS.
+- **How to Use**: Typically taken as 1 tablet daily for 5 consecutive days starting on day 3, 4, or 5 of the menstrual cycle.
+- **Side Effects**: Ovarian enlargement, vasomotor flushes (hot flashes), abdominal discomfort, breast tenderness.
+- **Clinical Overview**: Clomid (clomiphene) is a renowned selective estrogen receptor modulator (SERM) that stimulates the pituitary gland to release FSH and LH, inducing ovulation in women trying to conceive.
+
+---
+
+### Nolvadex (Tamoxifen Citrate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/nolvadex
+- **Drug Classification**: Rx (Women's Health)
+- **Manufacturer**: AstraZeneca / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Tablets)
+- **Brand Price**: $175.00
+- **Generic Cash Price**: $16.80 (Save 90%)
+- **FDA Indications**: Treatment and risk reduction of breast cancer; anovulatory infertility.
+- **Contraindications**: Concurrent coumarin-type anticoagulant therapy, history of deep vein thrombosis.
+- **How to Use**: Take 1 to 2 tablets daily swallowed with water.
+- **Side Effects**: Hot flashes, vaginal discharge, fluid retention, nausea.
+- **Clinical Overview**: Nolvadex (tamoxifen) blocks estrogen receptors in breast tissue, preventing hormone-responsive cell proliferation.
+
+---
+
+### Female Viagra (Sildenafil Citrate (Female Formulation))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/female-viagra
+- **Drug Classification**: Rx (Women's Health)
+- **Manufacturer**: Generic Labs
+- **Standard Dosage**: 100mg, 30 tablets (Pink Tablets)
+- **Brand Price**: $190.00
+- **Generic Cash Price**: $18.90 (Save 90%)
+- **FDA Indications**: Female sexual arousal disorder (FSAD).
+- **Contraindications**: Concurrent nitrates, cardiovascular instability.
+- **How to Use**: Take 1 tablet 45 minutes before intimacy.
+- **Side Effects**: Flushing, headache, mild stomach warmth.
+- **Clinical Overview**: Female Viagra enhances genital blood flow, natural lubrication, and sensitivity in women suffering from sexual arousal or satisfaction challenges.
+
+---
+
+### Diflucan (Fluconazole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/diflucan
+- **Drug Classification**: Rx (Anti Fungal)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 150mg, 4 tablets (Tablets)
+- **Brand Price**: $60.00
+- **Generic Cash Price**: $12.00 (Save 80%)
+- **FDA Indications**: Vaginal candidiasis, oropharyngeal and esophageal candidiasis, systemic fungal infections.
+- **Contraindications**: Concurrent administration of terfenadine, astemizole, or cisapride.
+- **How to Use**: Often administered as a single 150mg oral tablet for vaginal yeast infection.
+- **Side Effects**: Headache, nausea, abdominal discomfort, diarrhea.
+- **Clinical Overview**: Diflucan (fluconazole) is the standard oral antifungal that cures stubborn vaginal yeast infections (Candida) and mucosal candidiasis with rapid single-dose action.
+
+---
+
+### Celebrex (Celecoxib)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/celebrex
+- **Drug Classification**: Rx (Pain Relief & Arthritis)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 200mg, 30 capsules (Capsules)
+- **Brand Price**: $180.00
+- **Generic Cash Price**: $16.50 (Save 91%)
+- **FDA Indications**: Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute pain, primary dysmenorrhea.
+- **Contraindications**: Sulfa allergy, coronary artery bypass graft (CABG) surgery, severe active GI bleeding.
+- **How to Use**: Take 1 capsule once or twice daily with food or milk.
+- **Side Effects**: Dyspepsia, peripheral edema, abdominal pain, diarrhea.
+- **Clinical Overview**: Celebrex (celecoxib) is a selective COX-2 inhibitor NSAID that relieves joint inflammation and severe musculoskeletal pain with significantly lower risk of stomach ulcers.
+
+---
+
+### Voltaren (Diclofenac Sodium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/voltaren
+- **Drug Classification**: Rx (Pain Relief & Arthritis)
+- **Manufacturer**: Novartis / Generic Labs
+- **Standard Dosage**: 50mg, 30 enteric-coated tablets (Enteric-coated Tablets)
+- **Brand Price**: $85.00
+- **Generic Cash Price**: $13.50 (Save 84%)
+- **FDA Indications**: Signs and symptoms of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis.
+- **Contraindications**: Aspirin-induced asthma, active peptic ulceration, third trimester of pregnancy.
+- **How to Use**: Take 50mg two to three times daily with meals.
+- **Side Effects**: Nausea, indigestion, fluid retention, elevated liver enzymes.
+- **Clinical Overview**: Voltaren (diclofenac) provides rapid, potent anti-inflammatory and analgesic action for acute pain, sports injuries, and chronic arthritis flares.
+
+---
+
+### Colchicine (Colchicine)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/colchicine
+- **Drug Classification**: Rx (Pain Relief & Gout)
+- **Manufacturer**: Takeda / Generic Labs
+- **Standard Dosage**: 0.6mg, 30 tablets (Tablets)
+- **Brand Price**: $195.00
+- **Generic Cash Price**: $17.80 (Save 91%)
+- **FDA Indications**: Treatment and prophylaxis of gout flares in adults; Familial Mediterranean fever.
+- **Contraindications**: Renal or hepatic impairment with concurrent P-gp or strong CYP3A4 inhibitors.
+- **How to Use**: At first sign of flare, take 1.2mg (2 tablets) followed by 0.6mg (1 tablet) one hour later.
+- **Side Effects**: Diarrhea, nausea, vomiting, abdominal cramping.
+- **Clinical Overview**: Colchicine halts the excruciating inflammation of acute gout attacks by disrupting neutrophil activation and urate crystal deposition.
+
+---
+
+### Baclofen (Baclofen)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/baclofen
+- **Drug Classification**: Rx (Muscle Relaxant)
+- **Manufacturer**: Generic Labs
+- **Standard Dosage**: 10mg, 30 tablets (Scored Tablets)
+- **Brand Price**: $55.00
+- **Generic Cash Price**: $12.20 (Save 78%)
+- **FDA Indications**: Alleviation of signs and symptoms of spasticity resulting from multiple sclerosis or spinal cord disease.
+- **Contraindications**: Hypersensitivity. Avoid abrupt discontinuation (seizure risk).
+- **How to Use**: Take with food or milk three times daily as titrated.
+- **Side Effects**: Transient drowsiness, dizziness, weakness, fatigue.
+- **Clinical Overview**: Baclofen is a centrally-acting GABA-B agonist that relieves severe skeletal muscle spasms, stiffness, and back strain.
+
+---
+
+### Imitrex (Sumatriptan Succinate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/imitrex
+- **Drug Classification**: Rx (Migraine & Pain)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 50mg, 9 tablets (Film-coated Tablets)
+- **Brand Price**: $140.00
+- **Generic Cash Price**: $16.00 (Save 89%)
+- **FDA Indications**: Acute treatment of migraine attacks with or without aura in adults.
+- **Contraindications**: Ischemic coronary artery disease, history of stroke, uncontrolled hypertension, peripheral vascular disease.
+- **How to Use**: Take 1 tablet at the earliest onset of migraine symptoms with fluids. May repeat once after 2 hours if headache returns.
+- **Side Effects**: Warm/tingling sensation, chest tightness/pressure, flushing, dizziness.
+- **Clinical Overview**: Imitrex (sumatriptan) is the gold-standard 5-HT1B/1D receptor agonist that aborts acute migraine headaches by constricting cranial arteries and blocking trigeminal nerve pain.
+
+---
+
+### Valtrex (Valacyclovir HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/valtrex
+- **Drug Classification**: Rx (Anti Viral)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 500mg, 30 caplets (Blue Caplets)
+- **Brand Price**: $260.00
+- **Generic Cash Price**: $19.50 (Save 93%)
+- **FDA Indications**: Treatment of herpes zoster (shingles), genital herpes, and cold sores (herpes labialis).
+- **Contraindications**: Hypersensitivity to valacyclovir or acyclovir.
+- **How to Use**: Take with or without food at the first tingling sign of an outbreak.
+- **Side Effects**: Headache, nausea, abdominal pain, dizziness.
+- **Clinical Overview**: Valtrex (valacyclovir) is the high-bioavailability prodrug of acyclovir, rapidly halting viral replication of HSV-1, HSV-2, and varicella-zoster.
+
+---
+
+### Zovirax (Acyclovir)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/zovirax
+- **Drug Classification**: Rx (Anti Viral)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 400mg, 30 tablets (Tablets)
+- **Brand Price**: $85.00
+- **Generic Cash Price**: $13.00 (Save 85%)
+- **FDA Indications**: Acute treatment of herpes simplex and varicella zoster infections.
+- **Contraindications**: Hypersensitivity to acyclovir.
+- **How to Use**: Take every 4 to 8 hours with plenty of water.
+- **Side Effects**: Nausea, diarrhea, headache, general malaise.
+- **Clinical Overview**: Zovirax (acyclovir) is the foundational antiviral agent that inhibits herpes virus DNA synthesis to speed healing and lessen pain.
+
+---
+
+### Accutane (Isotretinoin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/accutane
+- **Drug Classification**: Rx (Skincare)
+- **Manufacturer**: Roche / Generic Labs
+- **Standard Dosage**: 20mg, 30 soft capsules (Soft Capsules)
+- **Brand Price**: $340.00
+- **Generic Cash Price**: $28.50 (Save 92%)
+- **FDA Indications**: Severe recalcitrant nodular acne unresponsive to conventional therapies.
+- **Contraindications**: Pregnancy (extremely high teratogenicity; iPLEDGE program required).
+- **How to Use**: Take with a high-fat meal to maximize absorption as prescribed.
+- **Side Effects**: Dry lips (cheilitis), dry skin, nosebleeds, elevated triglycerides.
+- **Clinical Overview**: Accutane (isotretinoin) is an oral retinoid that shrinks sebaceous glands, permanently curing severe recalcitrant cystic acne in up to 90% of patients.
+
+---
+
+### Retin-A (Tretinoin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/retin-a
+- **Drug Classification**: Rx (Skincare)
+- **Manufacturer**: Bausch Health / Generic Labs
+- **Standard Dosage**: 0.05% topical cream, 20g tube (Topical Cream)
+- **Brand Price**: $110.00
+- **Generic Cash Price**: $15.50 (Save 86%)
+- **FDA Indications**: Topical treatment of acne vulgaris; mitigation of fine facial wrinkles.
+- **Contraindications**: Hypersensitivity to retinoids. Avoid sunburn or concurrent abrasive cleansers.
+- **How to Use**: Apply a pea-sized amount to clean, completely dry skin at bedtime. Use sunscreen daily.
+- **Side Effects**: Mild erythema, skin peeling, dryness, initial purging.
+- **Clinical Overview**: Retin-A (tretinoin) is the gold-standard topical all-trans retinoic acid that stimulates cellular turnover, unclogs pores, and promotes collagen synthesis.
+
+---
+
+### Provigil (Modafinil)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/provigil
+- **Drug Classification**: Rx (Sleep & Wakefulness)
+- **Manufacturer**: Cephalon / Teva
+- **Standard Dosage**: 200mg, 30 tablets (White Capsule-shaped Tablets)
+- **Brand Price**: $480.00
+- **Generic Cash Price**: $24.50 (Save 95%)
+- **FDA Indications**: Improve wakefulness in adult patients with excessive sleepiness associated with narcolepsy, obstructive sleep apnea, or shift work sleep disorder.
+- **Contraindications**: Known hypersensitivity; history of left ventricular hypertrophy or mitral valve prolapse with CNS stimulants.
+- **How to Use**: Take 200mg once daily in the morning with or without food. For shift workers, take 1 hour prior to work shift.
+- **Side Effects**: Headache, nausea, nervousness, rhinitis, insomnia if taken late in day.
+- **Clinical Overview**: Provigil (modafinil) is an elite wakefulness-promoting eugeroic that sharpens mental alertness, executive focus, and vigilance without the jitters of amphetamines.
+
+---
+
+### Celexa (Citalopram Hydrobromide)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/celexa
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Allergan / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Tablets)
+- **Brand Price**: $110.00
+- **Generic Cash Price**: $12.50 (Save 89%)
+- **FDA Indications**: Treatment of major depressive disorder in adults.
+- **Contraindications**: Concomitant MAOI use, congenital long QT syndrome.
+- **How to Use**: Take 1 tablet once daily, morning or evening, with or without food.
+- **Side Effects**: Nausea, dry mouth, somnolence, insomnia, increased sweating.
+- **Clinical Overview**: Celexa (citalopram) is a widely trusted SSRI that helps restore the balance of serotonin in the brain, improving mood, energy levels, and feelings of well-being.
+
+---
+
+### Paxil (Paroxetine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/paxil
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: GlaxoSmithKline / Generic Labs
+- **Standard Dosage**: 20mg, 30 tablets (Tablets)
+- **Brand Price**: $120.00
+- **Generic Cash Price**: $13.00 (Save 89%)
+- **FDA Indications**: Major depressive disorder, panic disorder, social anxiety disorder, generalized anxiety disorder, PTSD.
+- **Contraindications**: MAOI use within 14 days, concurrent thioridazine or pimozide.
+- **How to Use**: Take 1 tablet in the morning with food to reduce nausea.
+- **Side Effects**: Drowsiness, weakness, dizziness, dry mouth, sexual dysfunction.
+- **Clinical Overview**: Paxil (paroxetine) is a potent SSRI antidepressant particularly effective for severe panic attacks, social phobia, and generalized anxiety.
+
+---
+
+### Effexor XR (Venlafaxine HCl (Extended-Release))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/effexor-xr
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Wyeth / Pfizer
+- **Standard Dosage**: 75mg, 30 capsules (Extended-Release Capsules)
+- **Brand Price**: $165.00
+- **Generic Cash Price**: $15.50 (Save 91%)
+- **FDA Indications**: Major depressive disorder, GAD, social anxiety disorder, panic disorder.
+- **Contraindications**: Concomitant MAOIs, uncontrolled narrow-angle glaucoma.
+- **How to Use**: Take once daily with food at approximately the same time.
+- **Side Effects**: Nausea, somnolence, dry mouth, sweating, hypertension.
+- **Clinical Overview**: Effexor XR (venlafaxine) is a serotonin-norepinephrine reuptake inhibitor (SNRI) that relieves severe depressive symptoms and panic disorder.
+
+---
+
+### Cozaar (Losartan Potassium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/cozaar
+- **Drug Classification**: Rx (Blood Pressure & Heart)
+- **Manufacturer**: Merck / Generic Labs
+- **Standard Dosage**: 50mg, 30 tablets (Tablets)
+- **Brand Price**: $135.00
+- **Generic Cash Price**: $11.50 (Save 91%)
+- **FDA Indications**: Hypertension, diabetic nephropathy in type 2 diabetes, stroke risk reduction in patients with hypertension and LVH.
+- **Contraindications**: Pregnancy (boxed warning), concurrent aliskiren in diabetes.
+- **How to Use**: Take once daily with or without food.
+- **Side Effects**: Upper respiratory infection, dizziness, nasal congestion, back pain.
+- **Clinical Overview**: Cozaar (losartan) is an angiotensin II receptor blocker (ARB) that keeps blood vessels from narrowing, lowering blood pressure and protecting kidney function.
+
+---
+
+### Diovan (Valsartan)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/diovan
+- **Drug Classification**: Rx (Blood Pressure & Heart)
+- **Manufacturer**: Novartis / Generic Labs
+- **Standard Dosage**: 80mg, 30 tablets (Tablets)
+- **Brand Price**: $170.00
+- **Generic Cash Price**: $12.80 (Save 92%)
+- **FDA Indications**: Hypertension, heart failure (NYHA class II-IV), post-myocardial infarction.
+- **Contraindications**: Pregnancy, concomitant aliskiren in patients with diabetes.
+- **How to Use**: Take once or twice daily as prescribed.
+- **Side Effects**: Dizziness, hypotension, fatigue, hyperkalemia.
+- **Clinical Overview**: Diovan (valsartan) blocks the action of angiotensin II to relax arteries, improve cardiac output in heart failure, and prevent post-MI mortality.
+
+---
+
+### Atenolol (Atenolol)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/atenolol
+- **Drug Classification**: Rx (Heart & Blood Pressure)
+- **Manufacturer**: Generic Labs
+- **Standard Dosage**: 50mg, 30 tablets (Tablets)
+- **Brand Price**: $38.00
+- **Generic Cash Price**: $10.20 (Save 73%)
+- **FDA Indications**: Hypertension, management of angina pectoris, post-MI hemodynamically stable patients.
+- **Contraindications**: Sinus bradycardia, heart block greater than first degree, cardiogenic shock.
+- **How to Use**: Take 1 tablet daily with a glass of water.
+- **Side Effects**: Bradycardia, cold extremities, dizziness, fatigue.
+- **Clinical Overview**: Atenolol is a cardioselective beta-1 adrenergic blocker that reduces myocardial oxygen demand and stabilizes blood pressure.
+
+---
+
+### Clarinex (Desloratadine)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/clarinex
+- **Drug Classification**: Rx (Allergies)
+- **Manufacturer**: Merck / Schering-Plough
+- **Standard Dosage**: 5mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $145.00
+- **Generic Cash Price**: $13.80 (Save 90%)
+- **FDA Indications**: Seasonal and perennial allergic rhinitis, chronic idiopathic urticaria.
+- **Contraindications**: Hypersensitivity to desloratadine or loratadine.
+- **How to Use**: Take 1 tablet once daily with or without food.
+- **Side Effects**: Pharyngitis, dry mouth, fatigue, somnolence.
+- **Clinical Overview**: Clarinex (desloratadine) is a long-acting tricyclic histamine antagonist that blocks H1 receptors without sedating the central nervous system.
+
+---
+
+### Flonase (Fluticasone Propionate)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/flonase
+- **Drug Classification**: OTC (Allergies & Sinus)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 50mcg/spray, 120 metered sprays (Nasal Spray Suspension)
+- **Brand Price**: $32.00
+- **Generic Cash Price**: $14.50 (Save 55%)
+- **FDA Indications**: Management of symptoms of seasonal and perennial allergic rhinitis.
+- **Contraindications**: Recent nasal ulcers, nasal surgery, or nasal trauma.
+- **How to Use**: Shake gently. Prime before first use. Spray 1 to 2 times into each nostril once daily.
+- **Side Effects**: Epistaxis (nosebleed), nasal burning, headache, bitter taste.
+- **Clinical Overview**: Flonase (fluticasone) is the #1 doctor-recommended steroid nasal spray that calms inflammation directly in the nasal passages for 24-hour relief.
+
+---
+
+### Advair Diskus (Fluticasone + Salmeterol)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/advair-diskus
+- **Drug Classification**: Rx (Asthma & Respiratory)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 250/50mcg, 60 blisters (Inhalation Powder)
+- **Brand Price**: $380.00
+- **Generic Cash Price**: $38.00 (Save 90%)
+- **FDA Indications**: Treatment of asthma in patients aged 4 years and older; maintenance treatment of COPD.
+- **Contraindications**: Primary treatment of status asthmaticus; severe milk protein allergy.
+- **How to Use**: Inhale 1 blister twice daily approximately 12 hours apart. Rinse mouth with water after inhalation.
+- **Side Effects**: Oral thrush, hoarseness, throat irritation, headache.
+- **Clinical Overview**: Advair Diskus combines an inhaled corticosteroid with a long-acting bronchodilator for daily controller therapy in asthma and COPD.
+
+---
+
+### Biaxin (Clarithromycin)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/biaxin
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: Abbott / Generic Labs
+- **Standard Dosage**: 500mg, 20 tablets (Film-coated Tablets)
+- **Brand Price**: $110.00
+- **Generic Cash Price**: $15.20 (Save 86%)
+- **FDA Indications**: Pharyngitis/tonsillitis, acute maxillary sinusitis, acute bacterial exacerbation of chronic bronchitis, H. pylori eradication.
+- **Contraindications**: History of cholestatic jaundice with clarithromycin; concomitant cisapride, pimozide, or colchicine in renal impairment.
+- **How to Use**: Take 500mg every 12 hours with or without meals for 7 to 14 days.
+- **Side Effects**: Abdominal pain, diarrhea, nausea, abnormal taste (metallic), headache.
+- **Clinical Overview**: Biaxin (clarithromycin) is a potent macrolide antibiotic essential for eradicating H. pylori in peptic ulcers and treating tough respiratory infections.
+
+---
+
+### Ceftin (Cefuroxime Axetil)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/ceftin
+- **Drug Classification**: Rx (Antibiotics)
+- **Manufacturer**: GlaxoSmithKline
+- **Standard Dosage**: 500mg, 20 tablets (Tablets)
+- **Brand Price**: $130.00
+- **Generic Cash Price**: $16.50 (Save 87%)
+- **FDA Indications**: Pharyngitis/tonsillitis, acute bacterial otitis media, acute bacterial maxillary sinusitis, early Lyme disease (erythema migrans).
+- **Contraindications**: Cephalosporin allergy.
+- **How to Use**: Take with food to enhance absorption and reduce stomach upset. Swallow whole.
+- **Side Effects**: Diarrhea, nausea, vomiting, vaginitis.
+- **Clinical Overview**: Ceftin (cefuroxime) is a second-generation cephalosporin with excellent bactericidal coverage against beta-lactamase producing respiratory pathogens and early Lyme disease.
+
+---
+
+### Lamisil (Terbinafine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/lamisil
+- **Drug Classification**: Rx (Anti Fungal)
+- **Manufacturer**: Novartis / Generic Labs
+- **Standard Dosage**: 250mg, 30 tablets (Tablets)
+- **Brand Price**: $175.00
+- **Generic Cash Price**: $16.80 (Save 90%)
+- **FDA Indications**: Treatment of onychomycosis of the toenail or fingernail due to dermatophytes.
+- **Contraindications**: Chronic or active liver disease, severe renal impairment.
+- **How to Use**: Take 1 tablet daily for 6 weeks (fingernails) or 12 weeks (toenails).
+- **Side Effects**: Headache, diarrhea, rash, dyspepsia, temporary alteration in taste.
+- **Clinical Overview**: Lamisil (terbinafine) is the gold-standard oral allylamine antifungal that accumulates in the nail bed, permanently eradicating fungal toenail and fingernail infections.
+
+---
+
+### Motrin (Ibuprofen)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/motrin
+- **Drug Classification**: OTC (Pain Relief)
+- **Manufacturer**: McNeil / Generic Labs
+- **Standard Dosage**: 800mg, 30 tablets (Film-coated Tablets)
+- **Brand Price**: $35.00
+- **Generic Cash Price**: $10.50 (Save 70%)
+- **FDA Indications**: Relief of the signs and symptoms of rheumatoid arthritis and osteoarthritis; mild to moderate pain; primary dysmenorrhea.
+- **Contraindications**: History of asthma, urticaria, or allergic reactions after taking aspirin; coronary artery bypass graft surgery.
+- **How to Use**: Take with food or milk to prevent stomach discomfort. Do not exceed recommended dosage.
+- **Side Effects**: Nausea, epigastric pain, heartburn, dizziness.
+- **Clinical Overview**: Motrin (ibuprofen) is the classic nonsteroidal anti-inflammatory drug (NSAID) providing fast, reliable relief from headaches, toothaches, fever, and muscle soreness.
+
+---
+
+### Aleve (Naproxen Sodium)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/aleve
+- **Drug Classification**: OTC (Pain Relief)
+- **Manufacturer**: Bayer / Generic Labs
+- **Standard Dosage**: 220mg, 50 caplets (Caplets)
+- **Brand Price**: $28.00
+- **Generic Cash Price**: $11.00 (Save 61%)
+- **FDA Indications**: Temporary relief of minor aches and pains due to minor pain of arthritis, muscular aches, backache, headache.
+- **Contraindications**: Aspirin allergy, active bleeding ulcers.
+- **How to Use**: Take 1 caplet every 8 to 12 hours with a full glass of water while symptoms last.
+- **Side Effects**: Heartburn, abdominal cramps, nausea, mild fluid retention.
+- **Clinical Overview**: Aleve (naproxen sodium) delivers up to 12 hours of continuous pain relief from minor arthritis aches, joint stiffness, and muscle inflammation in a single dose.
+
+---
+
+### Antabuse (Disulfiram)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/antabuse
+- **Drug Classification**: Rx (Other & Wellness)
+- **Manufacturer**: Teva / Generic Labs
+- **Standard Dosage**: 250mg, 30 tablets (Tablets)
+- **Brand Price**: $85.00
+- **Generic Cash Price**: $14.80 (Save 83%)
+- **FDA Indications**: An aid in the management of selected chronic alcohol patients who want to remain in a state of enforced sobriety.
+- **Contraindications**: Severe myocardial disease, coronary occlusion, psychosis, concurrent metronidazole, recent alcohol use.
+- **How to Use**: Take 1 tablet daily in the morning or bedtime as prescribed. Must be abstinent from alcohol for at least 12 hours before first dose.
+- **Side Effects**: Drowsiness, fatigue, headache, metallic or garlic-like aftertaste.
+- **Clinical Overview**: Antabuse (disulfiram) blocks aldehyde dehydrogenase, producing severe unpleasant physiological reactions if alcohol is ingested, reinforcing complete abstinence.
+
+---
+
+### Aricept (Donepezil HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/aricept
+- **Drug Classification**: Rx (Neurology & Memory)
+- **Manufacturer**: Eisai / Pfizer
+- **Standard Dosage**: 10mg, 30 film-coated tablets (Film-coated Tablets)
+- **Brand Price**: $220.00
+- **Generic Cash Price**: $15.80 (Save 93%)
+- **FDA Indications**: Treatment of dementia of the Alzheimer’s type (mild, moderate, and severe).
+- **Contraindications**: Known hypersensitivity to donepezil or piperidine derivatives.
+- **How to Use**: Take 1 tablet once daily in the evening immediately before bedtime.
+- **Side Effects**: Nausea, diarrhea, insomnia, muscle cramps, fatigue, anorexia.
+- **Clinical Overview**: Aricept (donepezil) is a reversible acetylcholinesterase inhibitor that enhances cholinergic neurotransmission, stabilizing cognitive function in Alzheimer’s disease.
+
+---
+
+### Atarax (Hydroxyzine HCl)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/atarax
+- **Drug Classification**: Rx (Anxiety & Allergies)
+- **Manufacturer**: Pfizer / Generic Labs
+- **Standard Dosage**: 25mg, 30 tablets (Tablets)
+- **Brand Price**: $55.00
+- **Generic Cash Price**: $11.50 (Save 79%)
+- **FDA Indications**: Symptomatic relief of anxiety and tension; management of pruritus due to allergic conditions.
+- **Contraindications**: Prolonged QT interval, early pregnancy, hypersensitivity to cetirizine.
+- **How to Use**: Take as needed or scheduled with water. Avoid driving until effect is known.
+- **Side Effects**: Drowsiness, dry mouth, headache, dizziness.
+- **Clinical Overview**: Atarax (hydroxyzine) is a calming first-generation antihistamine with central anxiolytic properties, rapidly stopping severe itching, urticaria, and acute anxiety.
+
+---
+
+### Rogaine (Minoxidil (5% Solution))
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/rogaine
+- **Drug Classification**: OTC (Hair Loss)
+- **Manufacturer**: Johnson & Johnson
+- **Standard Dosage**: 5% topical solution, 60ml bottle (Topical Solution)
+- **Brand Price**: $45.00
+- **Generic Cash Price**: $14.00 (Save 69%)
+- **FDA Indications**: Regrow hair on top of the scalp (vertex only) in men with androgenetic alopecia.
+- **Contraindications**: Scalp irritation, sunburn, open lesions, sudden or patchy hair loss.
+- **How to Use**: Apply 1 mL directly to the scalp in the hair loss area twice daily.
+- **Side Effects**: Local scalp stinging, redness, unwanted facial hair if dripped.
+- **Clinical Overview**: Rogaine (minoxidil 5%) directly revitalizes shrunken hair follicles, increases local scalp circulation, and stimulates new thicker hair regrowth.
+
+---
+
+### Arimidex (Anastrozole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/arimidex
+- **Drug Classification**: Rx (Women's Health)
+- **Manufacturer**: AstraZeneca / Generic Labs
+- **Standard Dosage**: 1mg, 30 tablets (Tablets)
+- **Brand Price**: $240.00
+- **Generic Cash Price**: $18.50 (Save 92%)
+- **FDA Indications**: Adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer.
+- **Contraindications**: Women of premenopausal status, pregnancy.
+- **How to Use**: Take 1 tablet once daily with or without food.
+- **Side Effects**: Hot flashes, asthenia, arthritis, joint pain, osteoporosis risk.
+- **Clinical Overview**: Arimidex (anastrozole) is a potent non-steroidal aromatase inhibitor that lowers circulating estrogen levels by over 80% in postmenopausal women.
+
+---
+
+### Sertraline (Generic Zoloft) (Sertraline Hydrochloride)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/sertraline
+- **Drug Classification**: Rx (Mental Health & Mood)
+- **Manufacturer**: Aurobindo / Lupin Pharma
+- **Standard Dosage**: 50mg, 30 tablets (Oral Tablet)
+- **Brand Price**: $115.00
+- **Generic Cash Price**: $6.50 (Save 94%)
+- **FDA Indications**: Anxiety, depression, OCD, PMDD.
+- **Contraindications**: MAOI use within 14 days.
+- **How to Use**: Take 1 tablet daily with food or water.
+- **Side Effects**: Mild dizziness, transient sleepiness.
+- **Clinical Overview**: Direct bioequivalent generic for Zoloft. One of the most prescribed medications in the United States, available for under $7 cash at major retail pharmacies.
+
+---
+
+### Omeprazole (Generic Prilosec) (Omeprazole)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/omeprazole-generic
+- **Drug Classification**: OTC (Acid Reflux & GERD)
+- **Manufacturer**: Dr. Reddy’s / Perrigo
+- **Standard Dosage**: 20mg, 42 capsules (Capsule)
+- **Brand Price**: $27.50
+- **Generic Cash Price**: $8.20 (Save 70%)
+- **FDA Indications**: Heartburn treatment.
+- **Contraindications**: Known allergy to PPIs.
+- **How to Use**: Take with a glass of water before breakfast.
+- **Side Effects**: None in most patients.
+- **Clinical Overview**: Generic bioequivalent of Prilosec with identical acid suppression and clinical outcomes.
+
+---
+
+### Prilosec OTC (Brand) (Omeprazole Delayed-Release)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/prilosec-otc
+- **Drug Classification**: OTC (Acid Reflux & GERD)
+- **Manufacturer**: Procter & Gamble
+- **Standard Dosage**: 20mg, 42 tablets (3x 14-day courses) (Delayed-Release Tablet)
+- **Brand Price**: $27.50
+- **Generic Cash Price**: $9.90 (Save 64%)
+- **FDA Indications**: Frequent heartburn occurring 2 or more days a week.
+- **Contraindications**: Trouble or pain swallowing food, vomiting with blood, or bloody/black stools (see doctor immediately).
+- **How to Use**: Take 1 tablet every morning before eating for 14 days. Do not chew or crush.
+- **Side Effects**: Headache, stomach pain, diarrhea.
+- **Clinical Overview**: Proton pump inhibitor (PPI) that shuts down excess stomach acid pumps at the source for round-the-clock 24-hour relief from painful heartburn.
+
+---
+
+### Advil Liqui-Gels (Brand) (Ibuprofen Solubilized)
+- **Page URL**: https://us-pharmacy.vercel.app/drugs/advil
+- **Drug Classification**: OTC (Pain & Inflammation)
+- **Manufacturer**: Haleon US
+- **Standard Dosage**: 200mg, 80 capsules (Liquid Filled Capsule)
+- **Brand Price**: $15.99
+- **Generic Cash Price**: $4.49 (Save 72%)
+- **FDA Indications**: Temporary relief of minor aches, pains, headaches, and fever reduction.
+- **Contraindications**: Active stomach ulcers, bleeding disorders, severe heart disease, or during third trimester of pregnancy.
+- **How to Use**: Adults: take 1 to 2 capsules every 4 to 6 hours while symptoms persist. Do not exceed 6 capsules in 24 hours.
+- **Side Effects**: Mild stomach upset (take with food or milk to minimize).
+- **Clinical Overview**: Nonsteroidal anti-inflammatory drug (NSAID) designed to target the site of inflammation and rapidly block pain signals.
+
