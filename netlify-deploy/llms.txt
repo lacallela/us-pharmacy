@@ -1,0 +1,132 @@
+# RxMatch US
+> Prescription Drug Savings, Brand vs Generic Comparison & Digital Rx Coupon Network for the United States.
+
+RxMatch US (https://us-pharmacy.vercel.app) provides real-time cash price comparisons and free printable/digital prescription discount coupons accepted at over 65,000 retail and mail-order pharmacies nationwide (including CVS, Walgreens, Walmart, Kroger, Rite Aid, and Amazon Pharmacy). Patients save up to 90% without insurance.
+
+## National Discount Card Credentials
+Any patient can present these digital credentials to US pharmacists to receive discount pricing immediately:
+- **BIN**: 015995
+- **PCN**: GDC
+- **Group Code**: RXMATCH
+- **Default Promo Code**: RXSAVER80
+- **Eligibility**: 100% of US residents (citizens, uninsured, underinsured, seniors in Medicare donut hole). No paperwork, no fees.
+
+## Key Sections
+- [Medication Catalog](https://us-pharmacy.vercel.app/drugs): Full directory of FDA-approved prescription drugs, generic alternatives, and price comparisons.
+- [Brand vs Generic Comparison Tool](https://us-pharmacy.vercel.app/compare/lipitor-vs-atorvastatin): Side-by-side cost and bioequivalence analysis.
+- [Prescription Savings Quiz](https://us-pharmacy.vercel.app/quiz): Interactive health assessment to find optimal prescription discounts.
+- [Full LLM Knowledge Base](https://us-pharmacy.vercel.app/llms-full.txt): Complete detailed profiles for all medications, indications, and pharmacy prices.
+- [Sitemap XML](https://us-pharmacy.vercel.app/sitemap.xml): Machine-readable URL structure.
+- [RSS Feed](https://us-pharmacy.vercel.app/feed.xml): Continuous updates on drug prices and discounts.
+
+## Medications Directory & Price Benchmarks
+- [Compounded Semaglutide (Telehealth)](https://us-pharmacy.vercel.app/drugs/compounded-semaglutide): Generic Semaglutide + B12 (Cyanocobalamin) | Category: Weight Loss & GLP-1 | Brand $948.00 vs Generic Cash $199.00 (Save 79%)
+- [Ozempic (Brand Pen)](https://us-pharmacy.vercel.app/drugs/ozempic): Generic Semaglutide Injection | Category: Weight Loss & GLP-1 | Brand $948.00 vs Generic Cash $299.00 (Save 68%)
+- [Sildenafil (Generic Viagra)](https://us-pharmacy.vercel.app/drugs/sildenafil): Generic Sildenafil Citrate | Category: Men's Health | Brand $780.00 vs Generic Cash $14.50 (Save 98%)
+- [Atorvastatin (Generic Lipitor)](https://us-pharmacy.vercel.app/drugs/atorvastatin): Generic Atorvastatin Calcium | Category: Cholesterol & Heart | Brand $185.00 vs Generic Cash $7.20 (Save 96%)
+- [Viagra](https://us-pharmacy.vercel.app/drugs/viagra): Generic Sildenafil Citrate | Category: Erectile Dysfunction | Brand $780.00 vs Generic Cash $18.50 (Save 98%)
+- [Cetirizine HCl (Generic Zyrtec)](https://us-pharmacy.vercel.app/drugs/cetirizine-generic): Generic Cetirizine Hydrochloride | Category: Allergy & Sinus | Brand $28.99 vs Generic Cash $8.50 (Save 71%)
+- [Zoloft](https://us-pharmacy.vercel.app/drugs/zoloft): Generic Sertraline HCl | Category: Mental Health & Mood | Brand $115.00 vs Generic Cash $13.50 (Save 88%)
+- [Ibuprofen (Generic Advil / Motrin)](https://us-pharmacy.vercel.app/drugs/ibuprofen-generic): Generic Ibuprofen | Category: Pain & Inflammation | Brand $15.99 vs Generic Cash $3.29 (Save 79%)
+- [Zyrtec (Brand 24-Hr)](https://us-pharmacy.vercel.app/drugs/zyrtec): Generic Cetirizine Hydrochloride | Category: Allergy & Sinus | Brand $28.99 vs Generic Cash $6.99 (Save 76%)
+- [Lipitor](https://us-pharmacy.vercel.app/drugs/lipitor): Generic Atorvastatin Calcium | Category: Cholesterol & Heart | Brand $185.00 vs Generic Cash $12.80 (Save 93%)
+- [Synthroid](https://us-pharmacy.vercel.app/drugs/synthroid): Generic Levothyroxine Sodium | Category: Thyroid & Hormone | Brand $68.00 vs Generic Cash $11.20 (Save 84%)
+- [Femara](https://us-pharmacy.vercel.app/drugs/femara): Generic Letrozole | Category: Women's Health | Brand $280.00 vs Generic Cash $19.20 (Save 93%)
+- [Zanaflex](https://us-pharmacy.vercel.app/drugs/zanaflex): Generic Tizanidine HCl | Category: Muscle Relaxant | Brand $85.00 vs Generic Cash $13.50 (Save 84%)
+- [Zantac](https://us-pharmacy.vercel.app/drugs/zantac): Generic Famotidine | Category: Gastrointestinal | Brand $25.00 vs Generic Cash $9.80 (Save 61%)
+- [Topamax](https://us-pharmacy.vercel.app/drugs/topamax): Generic Topiramate | Category: Neurology & Migraine | Brand $145.00 vs Generic Cash $15.00 (Save 90%)
+- [Amoxicillin](https://us-pharmacy.vercel.app/drugs/amoxicillin-500mg-30-capsules): Generic Amoxicillin | Category: Antibiotics | Brand $24.00 vs Generic Cash $5.99 (Save 75%)
+- [Ventolin HFA](https://us-pharmacy.vercel.app/drugs/ventolin-hfa-90mcg-inhalation-aerosol): Generic Albuterol Sulfate | Category: Respiratory & Asthma | Brand $74.00 vs Generic Cash $19.50 (Save 74%)
+- [Lexapro](https://us-pharmacy.vercel.app/drugs/lexapro-10mg-30-tablets): Generic Escitalopram Oxalate | Category: Mental Health & Mood | Brand $135.00 vs Generic Cash $8.90 (Save 93%)
+- [Cialis](https://us-pharmacy.vercel.app/drugs/cialis): Generic Tadalafil | Category: Erectile Dysfunction | Brand $820.00 vs Generic Cash $22.40 (Save 97%)
+- [Levitra](https://us-pharmacy.vercel.app/drugs/levitra): Generic Vardenafil HCl | Category: Erectile Dysfunction | Brand $610.00 vs Generic Cash $24.50 (Save 96%)
+- [Kamagra](https://us-pharmacy.vercel.app/drugs/kamagra): Generic Sildenafil Citrate | Category: Erectile Dysfunction | Brand $180.00 vs Generic Cash $19.90 (Save 89%)
+- [Cenforce](https://us-pharmacy.vercel.app/drugs/cenforce): Generic Sildenafil Citrate | Category: Erectile Dysfunction | Brand $195.00 vs Generic Cash $16.80 (Save 91%)
+- [Vidalista](https://us-pharmacy.vercel.app/drugs/vidalista): Generic Tadalafil | Category: Erectile Dysfunction | Brand $210.00 vs Generic Cash $18.20 (Save 91%)
+- [Fildena](https://us-pharmacy.vercel.app/drugs/fildena): Generic Sildenafil Citrate | Category: Erectile Dysfunction | Brand $185.00 vs Generic Cash $17.50 (Save 91%)
+- [Tadacip](https://us-pharmacy.vercel.app/drugs/tadacip): Generic Tadalafil | Category: Erectile Dysfunction | Brand $240.00 vs Generic Cash $21.00 (Save 91%)
+- [Dapoxetine](https://us-pharmacy.vercel.app/drugs/dapoxetine): Generic Dapoxetine HCl | Category: Erectile Dysfunction | Brand $290.00 vs Generic Cash $23.50 (Save 92%)
+- [Super P-Force](https://us-pharmacy.vercel.app/drugs/super-p-force): Generic Sildenafil 100mg + Dapoxetine 60mg | Category: Erectile Dysfunction | Brand $360.00 vs Generic Cash $29.80 (Save 92%)
+- [Propecia](https://us-pharmacy.vercel.app/drugs/propecia): Generic Finasteride | Category: Hair Loss | Brand $110.00 vs Generic Cash $14.50 (Save 87%)
+- [Proscar](https://us-pharmacy.vercel.app/drugs/proscar): Generic Finasteride | Category: Men's Health | Brand $135.00 vs Generic Cash $15.20 (Save 89%)
+- [Flomax](https://us-pharmacy.vercel.app/drugs/flomax): Generic Tamsulosin HCl | Category: Men's Health | Brand $215.00 vs Generic Cash $16.50 (Save 92%)
+- [Avodart](https://us-pharmacy.vercel.app/drugs/avodart): Generic Dutasteride | Category: Men's Health | Brand $260.00 vs Generic Cash $19.80 (Save 92%)
+- [Amoxil](https://us-pharmacy.vercel.app/drugs/amoxil): Generic Amoxicillin | Category: Antibiotics | Brand $45.00 vs Generic Cash $11.80 (Save 74%)
+- [Augmentin](https://us-pharmacy.vercel.app/drugs/augmentin): Generic Amoxicillin + Clavulanate Potassium | Category: Antibiotics | Brand $125.00 vs Generic Cash $18.50 (Save 85%)
+- [Zithromax](https://us-pharmacy.vercel.app/drugs/zithromax): Generic Azithromycin (Z-Pak) | Category: Antibiotics | Brand $85.00 vs Generic Cash $14.20 (Save 83%)
+- [Cipro](https://us-pharmacy.vercel.app/drugs/cipro): Generic Ciprofloxacin HCl | Category: Antibiotics | Brand $95.00 vs Generic Cash $12.50 (Save 87%)
+- [Doxycycline](https://us-pharmacy.vercel.app/drugs/doxycycline): Generic Doxycycline Hyclate | Category: Antibiotics | Brand $70.00 vs Generic Cash $13.50 (Save 81%)
+- [Flagyl](https://us-pharmacy.vercel.app/drugs/flagyl): Generic Metronidazole | Category: Antibiotics | Brand $65.00 vs Generic Cash $12.80 (Save 80%)
+- [Keflex](https://us-pharmacy.vercel.app/drugs/keflex): Generic Cephalexin | Category: Antibiotics | Brand $58.00 vs Generic Cash $12.20 (Save 79%)
+- [Bactrim](https://us-pharmacy.vercel.app/drugs/bactrim): Generic Sulfamethoxazole + Trimethoprim (SMZ-TMP DS) | Category: Antibiotics | Brand $48.00 vs Generic Cash $11.50 (Save 76%)
+- [Prednisone](https://us-pharmacy.vercel.app/drugs/prednisone): Generic Prednisone | Category: Allergies & Inflammation | Brand $42.00 vs Generic Cash $11.20 (Save 73%)
+- [Prednisolone](https://us-pharmacy.vercel.app/drugs/prednisolone): Generic Prednisolone | Category: Allergies & Inflammation | Brand $46.00 vs Generic Cash $11.80 (Save 74%)
+- [Allegra](https://us-pharmacy.vercel.app/drugs/allegra): Generic Fexofenadine HCl | Category: Allergies | Brand $34.00 vs Generic Cash $12.50 (Save 63%)
+- [Singulair](https://us-pharmacy.vercel.app/drugs/singulair): Generic Montelukast Sodium | Category: Asthma & Allergies | Brand $140.00 vs Generic Cash $14.80 (Save 89%)
+- [Ventolin](https://us-pharmacy.vercel.app/drugs/ventolin): Generic Albuterol Sulfate (Salbutamol) | Category: Asthma & Respiratory | Brand $78.00 vs Generic Cash $19.50 (Save 75%)
+- [Lexapro](https://us-pharmacy.vercel.app/drugs/lexapro): Generic Escitalopram Oxalate | Category: Mental Health & Mood | Brand $130.00 vs Generic Cash $14.20 (Save 89%)
+- [Prozac](https://us-pharmacy.vercel.app/drugs/prozac): Generic Fluoxetine HCl | Category: Mental Health & Mood | Brand $110.00 vs Generic Cash $13.00 (Save 88%)
+- [Wellbutrin](https://us-pharmacy.vercel.app/drugs/wellbutrin): Generic Bupropion HCl (XL) | Category: Mental Health & Mood | Brand $185.00 vs Generic Cash $16.80 (Save 91%)
+- [Buspar](https://us-pharmacy.vercel.app/drugs/buspar): Generic Buspirone HCl | Category: Anxiety | Brand $75.00 vs Generic Cash $12.50 (Save 83%)
+- [Cymbalta](https://us-pharmacy.vercel.app/drugs/cymbalta): Generic Duloxetine HCl | Category: Mental Health & Pain | Brand $195.00 vs Generic Cash $17.20 (Save 91%)
+- [Crestor](https://us-pharmacy.vercel.app/drugs/crestor): Generic Rosuvastatin Calcium | Category: Cholesterol & Heart | Brand $245.00 vs Generic Cash $14.50 (Save 94%)
+- [Lasix](https://us-pharmacy.vercel.app/drugs/lasix): Generic Furosemide | Category: Blood Pressure & Heart | Brand $45.00 vs Generic Cash $11.00 (Save 76%)
+- [Propranolol](https://us-pharmacy.vercel.app/drugs/propranolol): Generic Propranolol HCl | Category: Heart & Blood Pressure | Brand $52.00 vs Generic Cash $11.80 (Save 77%)
+- [Lisinopril](https://us-pharmacy.vercel.app/drugs/lisinopril): Generic Lisinopril | Category: Blood Pressure & Heart | Brand $40.00 vs Generic Cash $10.50 (Save 74%)
+- [Norvasc](https://us-pharmacy.vercel.app/drugs/norvasc): Generic Amlodipine Besylate | Category: Blood Pressure & Heart | Brand $78.00 vs Generic Cash $11.90 (Save 85%)
+- [Plavix](https://us-pharmacy.vercel.app/drugs/plavix): Generic Clopidogrel Bisulfate | Category: Heart & Blood | Brand $190.00 vs Generic Cash $14.80 (Save 92%)
+- [Metformin](https://us-pharmacy.vercel.app/drugs/metformin): Generic Metformin HCl | Category: Diabetes | Brand $38.00 vs Generic Cash $10.80 (Save 72%)
+- [Glucophage](https://us-pharmacy.vercel.app/drugs/glucophage): Generic Metformin HCl (Extended-Release) | Category: Diabetes | Brand $65.00 vs Generic Cash $13.50 (Save 79%)
+- [Actos](https://us-pharmacy.vercel.app/drugs/actos): Generic Pioglitazone HCl | Category: Diabetes | Brand $160.00 vs Generic Cash $16.20 (Save 90%)
+- [Amaryl](https://us-pharmacy.vercel.app/drugs/amaryl): Generic Glimepiride | Category: Diabetes | Brand $55.00 vs Generic Cash $11.50 (Save 79%)
+- [Xenical](https://us-pharmacy.vercel.app/drugs/xenical): Generic Orlistat | Category: Weight Loss | Brand $210.00 vs Generic Cash $26.50 (Save 87%)
+- [Alli](https://us-pharmacy.vercel.app/drugs/alli): Generic Orlistat | Category: Weight Loss | Brand $75.00 vs Generic Cash $18.00 (Save 76%)
+- [Cytotec](https://us-pharmacy.vercel.app/drugs/cytotec): Generic Misoprostol | Category: Gastrointestinal | Brand $120.00 vs Generic Cash $17.50 (Save 85%)
+- [Nexium](https://us-pharmacy.vercel.app/drugs/nexium): Generic Esomeprazole Magnesium | Category: Gastrointestinal | Brand $165.00 vs Generic Cash $15.00 (Save 91%)
+- [Prilosec](https://us-pharmacy.vercel.app/drugs/prilosec): Generic Omeprazole | Category: Gastrointestinal | Brand $36.00 vs Generic Cash $11.80 (Save 67%)
+- [Clomid](https://us-pharmacy.vercel.app/drugs/clomid): Generic Clomiphene Citrate | Category: Women's Health | Brand $145.00 vs Generic Cash $16.50 (Save 89%)
+- [Nolvadex](https://us-pharmacy.vercel.app/drugs/nolvadex): Generic Tamoxifen Citrate | Category: Women's Health | Brand $175.00 vs Generic Cash $16.80 (Save 90%)
+- [Female Viagra](https://us-pharmacy.vercel.app/drugs/female-viagra): Generic Sildenafil Citrate (Female Formulation) | Category: Women's Health | Brand $190.00 vs Generic Cash $18.90 (Save 90%)
+- [Diflucan](https://us-pharmacy.vercel.app/drugs/diflucan): Generic Fluconazole | Category: Anti Fungal | Brand $60.00 vs Generic Cash $12.00 (Save 80%)
+- [Celebrex](https://us-pharmacy.vercel.app/drugs/celebrex): Generic Celecoxib | Category: Pain Relief & Arthritis | Brand $180.00 vs Generic Cash $16.50 (Save 91%)
+- [Voltaren](https://us-pharmacy.vercel.app/drugs/voltaren): Generic Diclofenac Sodium | Category: Pain Relief & Arthritis | Brand $85.00 vs Generic Cash $13.50 (Save 84%)
+- [Colchicine](https://us-pharmacy.vercel.app/drugs/colchicine): Generic Colchicine | Category: Pain Relief & Gout | Brand $195.00 vs Generic Cash $17.80 (Save 91%)
+- [Baclofen](https://us-pharmacy.vercel.app/drugs/baclofen): Generic Baclofen | Category: Muscle Relaxant | Brand $55.00 vs Generic Cash $12.20 (Save 78%)
+- [Imitrex](https://us-pharmacy.vercel.app/drugs/imitrex): Generic Sumatriptan Succinate | Category: Migraine & Pain | Brand $140.00 vs Generic Cash $16.00 (Save 89%)
+- [Valtrex](https://us-pharmacy.vercel.app/drugs/valtrex): Generic Valacyclovir HCl | Category: Anti Viral | Brand $260.00 vs Generic Cash $19.50 (Save 93%)
+- [Zovirax](https://us-pharmacy.vercel.app/drugs/zovirax): Generic Acyclovir | Category: Anti Viral | Brand $85.00 vs Generic Cash $13.00 (Save 85%)
+- [Accutane](https://us-pharmacy.vercel.app/drugs/accutane): Generic Isotretinoin | Category: Skincare | Brand $340.00 vs Generic Cash $28.50 (Save 92%)
+- [Retin-A](https://us-pharmacy.vercel.app/drugs/retin-a): Generic Tretinoin | Category: Skincare | Brand $110.00 vs Generic Cash $15.50 (Save 86%)
+- [Provigil](https://us-pharmacy.vercel.app/drugs/provigil): Generic Modafinil | Category: Sleep & Wakefulness | Brand $480.00 vs Generic Cash $24.50 (Save 95%)
+- [Celexa](https://us-pharmacy.vercel.app/drugs/celexa): Generic Citalopram Hydrobromide | Category: Mental Health & Mood | Brand $110.00 vs Generic Cash $12.50 (Save 89%)
+- [Paxil](https://us-pharmacy.vercel.app/drugs/paxil): Generic Paroxetine HCl | Category: Mental Health & Mood | Brand $120.00 vs Generic Cash $13.00 (Save 89%)
+- [Effexor XR](https://us-pharmacy.vercel.app/drugs/effexor-xr): Generic Venlafaxine HCl (Extended-Release) | Category: Mental Health & Mood | Brand $165.00 vs Generic Cash $15.50 (Save 91%)
+- [Cozaar](https://us-pharmacy.vercel.app/drugs/cozaar): Generic Losartan Potassium | Category: Blood Pressure & Heart | Brand $135.00 vs Generic Cash $11.50 (Save 91%)
+- [Diovan](https://us-pharmacy.vercel.app/drugs/diovan): Generic Valsartan | Category: Blood Pressure & Heart | Brand $170.00 vs Generic Cash $12.80 (Save 92%)
+- [Atenolol](https://us-pharmacy.vercel.app/drugs/atenolol): Generic Atenolol | Category: Heart & Blood Pressure | Brand $38.00 vs Generic Cash $10.20 (Save 73%)
+- [Clarinex](https://us-pharmacy.vercel.app/drugs/clarinex): Generic Desloratadine | Category: Allergies | Brand $145.00 vs Generic Cash $13.80 (Save 90%)
+- [Flonase](https://us-pharmacy.vercel.app/drugs/flonase): Generic Fluticasone Propionate | Category: Allergies & Sinus | Brand $32.00 vs Generic Cash $14.50 (Save 55%)
+- [Advair Diskus](https://us-pharmacy.vercel.app/drugs/advair-diskus): Generic Fluticasone + Salmeterol | Category: Asthma & Respiratory | Brand $380.00 vs Generic Cash $38.00 (Save 90%)
+- [Biaxin](https://us-pharmacy.vercel.app/drugs/biaxin): Generic Clarithromycin | Category: Antibiotics | Brand $110.00 vs Generic Cash $15.20 (Save 86%)
+- [Ceftin](https://us-pharmacy.vercel.app/drugs/ceftin): Generic Cefuroxime Axetil | Category: Antibiotics | Brand $130.00 vs Generic Cash $16.50 (Save 87%)
+- [Lamisil](https://us-pharmacy.vercel.app/drugs/lamisil): Generic Terbinafine HCl | Category: Anti Fungal | Brand $175.00 vs Generic Cash $16.80 (Save 90%)
+- [Motrin](https://us-pharmacy.vercel.app/drugs/motrin): Generic Ibuprofen | Category: Pain Relief | Brand $35.00 vs Generic Cash $10.50 (Save 70%)
+- [Aleve](https://us-pharmacy.vercel.app/drugs/aleve): Generic Naproxen Sodium | Category: Pain Relief | Brand $28.00 vs Generic Cash $11.00 (Save 61%)
+- [Antabuse](https://us-pharmacy.vercel.app/drugs/antabuse): Generic Disulfiram | Category: Other & Wellness | Brand $85.00 vs Generic Cash $14.80 (Save 83%)
+- [Aricept](https://us-pharmacy.vercel.app/drugs/aricept): Generic Donepezil HCl | Category: Neurology & Memory | Brand $220.00 vs Generic Cash $15.80 (Save 93%)
+- [Atarax](https://us-pharmacy.vercel.app/drugs/atarax): Generic Hydroxyzine HCl | Category: Anxiety & Allergies | Brand $55.00 vs Generic Cash $11.50 (Save 79%)
+- [Rogaine](https://us-pharmacy.vercel.app/drugs/rogaine): Generic Minoxidil (5% Solution) | Category: Hair Loss | Brand $45.00 vs Generic Cash $14.00 (Save 69%)
+- [Arimidex](https://us-pharmacy.vercel.app/drugs/arimidex): Generic Anastrozole | Category: Women's Health | Brand $240.00 vs Generic Cash $18.50 (Save 92%)
+- [Sertraline (Generic Zoloft)](https://us-pharmacy.vercel.app/drugs/sertraline): Generic Sertraline Hydrochloride | Category: Mental Health & Mood | Brand $115.00 vs Generic Cash $6.50 (Save 94%)
+- [Omeprazole (Generic Prilosec)](https://us-pharmacy.vercel.app/drugs/omeprazole-generic): Generic Omeprazole | Category: Acid Reflux & GERD | Brand $27.50 vs Generic Cash $8.20 (Save 70%)
+- [Prilosec OTC (Brand)](https://us-pharmacy.vercel.app/drugs/prilosec-otc): Generic Omeprazole Delayed-Release | Category: Acid Reflux & GERD | Brand $27.50 vs Generic Cash $9.90 (Save 64%)
+- [Advil Liqui-Gels (Brand)](https://us-pharmacy.vercel.app/drugs/advil): Generic Ibuprofen Solubilized | Category: Pain & Inflammation | Brand $15.99 vs Generic Cash $4.49 (Save 72%)
+
+## Pharmacy Partners
+- **Ro Healthcare (Telehealth)** (Telehealth & Online Rx): Online doctor consult + discreet delivery — GLP-1 Weight Loss & Hair/Men’s health without insurance
+- **PharmStore (Online Pharmacy)** (Online Pharmacy & International Referral): Discreet Delivery in 5-10 Days (AirMail / Express) — 5% OFF with coupon pu-8992 | No Rx required online
+- **Amazon Pharmacy** (Mail Order Delivery): Free 2-day delivery to your door — Prime RxPass: $5/month for unlimited eligible meds
+- **Cost Plus Drugs (Mark Cuban)** (Direct Wholesale): Direct home delivery in 3-5 days — Zero middlemen: Actual manufacturing cost + 15%
+- **CVS Pharmacy** (Retail Pharmacy): Ready in 15 mins (9,900+ stores) — ExtraCare Rewards & Free Drive-thru Pickup
+- **Walgreens** (Retail Pharmacy): Same-day 30-min pickup — myWalgreens Cash rewards & 24/7 store access
+- **Walmart Pharmacy** (Big Box Retail): Curbside or inside pickup — $4 for 30-day supply & $10 for 90-day generics
