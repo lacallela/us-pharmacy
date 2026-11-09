@@ -75,11 +75,13 @@ export function Footer({ settings }: Props) {
               <li className="pt-2">
                 <span className="text-[11px] text-slate-400 block font-semibold mb-1">External Guides & Coverage:</span>
                 <div className="flex flex-wrap gap-x-2 gap-y-1 text-[11px] text-blue-400">
-                  <a href="https://rentry.co/rxmatch-complete-drug-index" target="_blank" rel="noopener noreferrer" className="hover:underline">101 Drug Index</a>
+                  <a href="https://telegra.ph/How-to-Save-Up-to-90-on-US-Prescription-Drugs-2026-Cash-Guide-11-09" target="_blank" rel="noopener noreferrer" className="hover:underline">Telegraph Guide (DA 91)</a>
                   <span>•</span>
-                  <a href="https://rentry.co/rxmatch-us-savings" target="_blank" rel="noopener noreferrer" className="hover:underline">Savings Guide</a>
+                  <a href="https://telegra.ph/Affordable-Generic-Sildenafil--Tadalafil-US-2026-Price-Index-11-09" target="_blank" rel="noopener noreferrer" className="hover:underline">ED Price Index</a>
                   <span>•</span>
-                  <a href="https://rentry.co/pharm-store-discount-guide" target="_blank" rel="noopener noreferrer" className="hover:underline">PharmStore Review</a>
+                  <a href="https://rentry.co/rxmatch-complete-drug-index" target="_blank" rel="noopener noreferrer" className="hover:underline">101 Drug Catalog</a>
+                  <span>•</span>
+                  <a href="https://rentry.co/pharm-store-discount-guide" target="_blank" rel="noopener noreferrer" className="hover:underline">PharmStore Promo</a>
                 </div>
               </li>
               <li className="pt-2"><Link href="/admin" className="text-slate-400 hover:text-white transition font-medium">Admin Console →</Link></li>
