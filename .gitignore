@@ -42,3 +42,5 @@ cloudflared.exe
 
 # Local Netlify folder
 .netlify
+
+github-pages-deploy
