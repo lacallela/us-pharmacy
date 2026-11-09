@@ -72,7 +72,17 @@ export function Footer({ settings }: Props) {
               <li className="pt-2 text-slate-500 text-[11px] font-mono">
                 Rx Card: BIN {bin} / PCN {pcn} / GRP {group}
               </li>
-              <li className="pt-2"><Link href="/admin" className="text-blue-400 hover:text-blue-300 transition font-bold">Admin Management Console →</Link></li>
+              <li className="pt-2">
+                <span className="text-[11px] text-slate-400 block font-semibold mb-1">External Guides & Coverage:</span>
+                <div className="flex flex-wrap gap-x-2 gap-y-1 text-[11px] text-blue-400">
+                  <a href="https://rentry.co/rxmatch-complete-drug-index" target="_blank" rel="noopener noreferrer" className="hover:underline">101 Drug Index</a>
+                  <span>•</span>
+                  <a href="https://rentry.co/rxmatch-us-savings" target="_blank" rel="noopener noreferrer" className="hover:underline">Savings Guide</a>
+                  <span>•</span>
+                  <a href="https://rentry.co/pharm-store-discount-guide" target="_blank" rel="noopener noreferrer" className="hover:underline">PharmStore Review</a>
+                </div>
+              </li>
+              <li className="pt-2"><Link href="/admin" className="text-slate-400 hover:text-white transition font-medium">Admin Console →</Link></li>
             </ul>
           </div>
         </div>
