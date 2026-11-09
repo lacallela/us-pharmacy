@@ -39,3 +39,6 @@ cloudflared.exe
 
 .vercel
 .env*
+
+# Local Netlify folder
+.netlify
