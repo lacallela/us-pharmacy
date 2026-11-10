@@ -1,0 +1,12 @@
+{
+  "name": "us-pharmacy-edge",
+  "version": "1.0.0",
+  "description": "RxMatch US Healthcare Price Comparison",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
