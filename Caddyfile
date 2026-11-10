@@ -1,0 +1,12 @@
+:{$PORT:8080} {
+    root * .
+    encode gzip
+
+    # Affiliate redirects
+    redir /go/pharm-store http://pharm-store.com/?id=924 302
+    redir /go/pharm-store/ http://pharm-store.com/?id=924 302
+
+    # Clean URLs fallback
+    try_files {path} {path}.html {path}/ /index.html
+    file_server
+}
