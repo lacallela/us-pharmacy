@@ -150,7 +150,8 @@ jobs:
             'https://us-pharmacy.surge.sh/',
             'https://lacallela.github.io/us-pharmacy/',
             'https://us-pharmacy.onrender.com/',
-            'https://us-pharmacy-web.web.app/'
+            'https://us-pharmacy-web.web.app/',
+            'https://us-pharmacy-production.up.railway.app/'
           ];
           async function check() {
             for (const u of urls) {
