@@ -53,6 +53,9 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  verification: {
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || 'google-site-verification-rxmatch',
+  },
   openGraph: {
     title: 'RxMatch US — Free Rx Discount Coupons & Generic Substitutions',
     description: 'Pay cash and save up to 90% on your prescriptions at over 65,000 US pharmacies nationwide. No insurance or membership required.',

@@ -44,3 +44,9 @@ cloudflared.exe
 .netlify
 
 github-pages-deploy
+*firebase-adminsdk*.json
+netlify_bundle.zip
+
+# product-seo data and secrets
+seo/data/
+seo/shots/

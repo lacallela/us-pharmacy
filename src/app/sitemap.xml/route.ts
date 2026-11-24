@@ -23,8 +23,33 @@ export async function GET() {
   const urls: SitemapUrl[] = [
     { loc: `${baseUrl}/`, lastmod: now, priority: '1.0', changefreq: 'daily' },
     { loc: `${baseUrl}/drugs`, lastmod: now, priority: '0.95', changefreq: 'daily' },
+    { loc: `${baseUrl}/compare`, lastmod: now, priority: '0.95', changefreq: 'daily' },
     { loc: `${baseUrl}/quiz`, lastmod: now, priority: '0.90', changefreq: 'weekly' },
   ];
+
+  const featuredComparisons = [
+    'ozempic-vs-compounded-semaglutide',
+    'viagra-vs-sildenafil',
+    'viagra-vs-cialis',
+    'lipitor-vs-atorvastatin',
+    'lipitor-vs-crestor',
+    'zoloft-vs-lexapro',
+    'propecia-vs-avodart',
+    'zyrtec-vs-cetirizine-generic',
+    'cialis-vs-tadacip',
+    'amoxicillin-vs-doxycycline',
+    'accutane-vs-doxycycline',
+    'femara-vs-arimidex'
+  ];
+
+  for (const slug of featuredComparisons) {
+    urls.push({
+      loc: `${baseUrl}/compare/${slug}`,
+      lastmod: now,
+      priority: '0.90',
+      changefreq: 'weekly'
+    });
+  }
 
   for (const cat of categories) {
     urls.push({

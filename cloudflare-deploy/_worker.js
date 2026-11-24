@@ -49,6 +49,10 @@ export default {
         let text = await originRes.text();
         text = text.replaceAll('https://us-pharmacy.vercel.app', `https://${url.hostname}`);
         text = text.replaceAll('us-pharmacy.vercel.app', url.hostname);
+        text = text.replaceAll('https://us-pharmacy.surge.sh', `https://${url.hostname}`);
+        text = text.replaceAll('us-pharmacy.surge.sh', url.hostname);
+        // Force canonical self-referencing on this exact mirror
+        text = text.replace(/<link[^>]*rel=["']canonical["'][^>]*>/gi, `<link rel="canonical" href="https://${url.hostname}${url.pathname}"/>`);
         return new Response(text, {
           status: originRes.status,
           headers: resHeaders
